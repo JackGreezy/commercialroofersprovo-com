@@ -6,6 +6,6 @@
     "capture": {"status": "completed", "required_artifacts": ["five captured donor templates", "capture parity output"], "missing_artifacts": [], "blocking_issues": []},
     "faithful_relabel": {"status": "completed", "required_artifacts": ["home.config.json", "relabel map", "normalized content"], "missing_artifacts": [], "blocking_issues": []},
     "qa": {"status": "completed", "required_artifacts": ["qa-out/verify.json", "qa-out/CONTACT-SHEET.html", "responsive render gate"], "missing_artifacts": [], "blocking_issues": []},
-    "ship": {"status": "in_progress", "required_artifacts": ["GitHub repository", "production Vercel deployment", "live route verification"], "missing_artifacts": ["GitHub repository", "production Vercel deployment", "live route verification"], "blocking_issues": []}
+    "ship": {"status": "completed", "required_artifacts": ["GitHub repository", "production Vercel deployment", "live route verification"], "missing_artifacts": [], "blocking_issues": []}
   }
 }
