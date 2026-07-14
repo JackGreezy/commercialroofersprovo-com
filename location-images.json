@@ -1,0 +1,53 @@
+{
+  "domain": "commercialroofersprovo.com",
+  "mainLocation": {
+    "city": "Provo",
+    "state": "UT",
+    "images": [
+      "/images/locations/commercial-roofers-provo-ut-01.webp",
+      "/images/locations/commercial-roofers-provo-ut-02.webp",
+      "/images/locations/commercial-roofers-provo-ut-03.webp",
+      "/images/locations/commercial-roofers-provo-ut-04.webp",
+      "/images/locations/commercial-roofers-provo-ut-05.webp",
+      "/images/locations/commercial-roofers-provo-ut-06.webp",
+      "/images/locations/commercial-roofers-provo-ut-07.webp",
+      "/images/locations/commercial-roofers-provo-ut-08.webp"
+    ]
+  },
+  "locations": {
+    "orem": "/images/locations/commercial-roofers-orem-ut.webp",
+    "lehi": "/images/locations/commercial-roofers-lehi-ut.webp",
+    "lindon": "/images/locations/commercial-roofers-lindon-ut.webp",
+    "american-fork": "/images/locations/commercial-roofers-american-fork-ut.webp",
+    "vineyard": "/images/locations/commercial-roofers-vineyard-ut.webp",
+    "spanish-fork": "/images/locations/commercial-roofers-spanish-fork-ut.webp",
+    "springville": "/images/locations/commercial-roofers-springville-ut.webp",
+    "pleasant-grove": "/images/locations/commercial-roofers-pleasant-grove-ut.webp",
+    "east-bay": "/images/locations/commercial-roofers-east-bay-ut.webp",
+    "saratoga-springs": "/images/locations/commercial-roofers-saratoga-springs-ut.webp",
+    "eagle-mountain": "/images/locations/commercial-roofers-eagle-mountain-ut.webp",
+    "payson": "/images/locations/commercial-roofers-payson-ut.webp",
+    "bluffdale": "/images/locations/commercial-roofers-bluffdale-ut.webp",
+    "downtown-provo": "/images/locations/commercial-roofers-downtown-provo-ut.webp",
+    "riverwoods": "/images/locations/commercial-roofers-riverwoods-ut.webp",
+    "santaquin": "/images/locations/commercial-roofers-santaquin-ut.webp",
+    "salem": "/images/locations/commercial-roofers-salem-ut.webp",
+    "mapleton": "/images/locations/commercial-roofers-mapleton-ut.webp",
+    "highland": "/images/locations/commercial-roofers-highland-ut.webp",
+    "alpine": "/images/locations/commercial-roofers-alpine-ut.webp",
+    "cedar-hills": "/images/locations/commercial-roofers-cedar-hills-ut.webp",
+    "elk-ridge": "/images/locations/commercial-roofers-elk-ridge-ut.webp",
+    "woodland-hills": "/images/locations/commercial-roofers-woodland-hills-ut.webp",
+    "genola": "/images/locations/commercial-roofers-genola-ut.webp",
+    "goshen": "/images/locations/commercial-roofers-goshen-ut.webp",
+    "elberta": "/images/locations/commercial-roofers-elberta-ut.webp",
+    "cedar-fort": "/images/locations/commercial-roofers-cedar-fort-ut.webp",
+    "fairfield": "/images/locations/commercial-roofers-fairfield-ut.webp",
+    "benjamin": "/images/locations/commercial-roofers-benjamin-ut.webp",
+    "lake-shore": "/images/locations/commercial-roofers-lake-shore-ut.webp",
+    "palmyra": "/images/locations/commercial-roofers-palmyra-ut.webp",
+    "spring-lake": "/images/locations/commercial-roofers-spring-lake-ut.webp",
+    "west-mountain": "/images/locations/commercial-roofers-west-mountain-ut.webp",
+    "sundance": "/images/locations/commercial-roofers-sundance-ut.webp"
+  }
+}

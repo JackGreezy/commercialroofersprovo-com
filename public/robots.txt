@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://commercialroofersprovo.com/sitemap.xml
+# AI: https://commercialroofersprovo.com/llms.txt

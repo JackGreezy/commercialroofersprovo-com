@@ -1,0 +1,59 @@
+{
+ "slug": "springville",
+ "taxonomy": "locations",
+ "route": "/locations/springville",
+ "title": "Commercial Roofing in Springville, UT | Commercial Roofers of Provo",
+ "metaDescription": "Roofing for Springville's I-15 manufacturing plants and flex parks, addressing process heat and vapor drive from below the deck, not simply weather from above.",
+ "internalLinks": [
+  {
+   "anchor": "Valley Grove Was Built to a Higher Standard. Every Tenant Buildout Since Has Tested It",
+   "slug": "pleasant-grove",
+   "taxonomy": "locations",
+   "href": "/locations/pleasant-grove"
+  },
+  {
+   "anchor": "A Shopping District Where the Roof Has to Look as Good as It Performs",
+   "slug": "riverwoods",
+   "taxonomy": "locations",
+   "href": "/locations/riverwoods"
+  },
+  {
+   "anchor": "A Small Commercial Core Growing Alongside a Fast-Building Residential Town",
+   "slug": "salem",
+   "taxonomy": "locations",
+   "href": "/locations/salem"
+  },
+  {
+   "anchor": "Fruit Processing Buildings Fight Moisture From the Inside Out",
+   "slug": "santaquin",
+   "taxonomy": "locations",
+   "href": "/locations/santaquin"
+  },
+  {
+   "anchor": "Saratoga Springs Is Building Faster Than Most Owners Can Track What Went on Their Roof",
+   "slug": "saratoga-springs",
+   "taxonomy": "locations",
+   "href": "/locations/saratoga-springs"
+  },
+  {
+   "anchor": "Why Grease and Chemical Exposure Push Owners Toward PVC",
+   "slug": "pvc-roofing",
+   "taxonomy": "services",
+   "href": "/services/pvc-roofing"
+  },
+  {
+   "anchor": "Restaurant Roofs Along University Parkway and State Street",
+   "slug": "restaurant-standalone-roofing",
+   "taxonomy": "project-types",
+   "href": "/project-types/restaurant-standalone-roofing"
+  },
+  {
+   "anchor": "Documenting a Roof Loss So the Claim Actually Reflects the Damage",
+   "slug": "insurance-restoration",
+   "taxonomy": "industries",
+   "href": "/industries/insurance-restoration"
+  }
+ ],
+ "html": "<h1>On Springville's Manufacturing Roofs, the Heat Problem Comes From Underneath</h1>\n<p>Most commercial roof conversations are about keeping heat and weather out. On a working manufacturing plant along Springville's I-15 industrial corridor, the more urgent problem often runs the other direction: process heat and moisture generated inside the building pushing up into the roof assembly from below. That reversed vapor drive changes how we think about insulation and venting on these buildings compared to a standard office or retail roof.</p>\n<h2>Process Heat Doesn't Care About Your Insulation R-Value</h2>\n<p>A manufacturing floor running ovens, welding operations, curing processes, or any heat-generating equipment pushes warm, often humid air upward against the underside of the roof deck constantly, regardless of the season. Standard insulation strategy assumes the primary heat and vapor drive comes from outside — sun in summer, cold in winter — but a working plant floor can reverse that assumption for large parts of the year.</p>\n<p>When we spec insulation and vapor retarder placement for a Springville manufacturing building, we ask what's actually happening on the floor before defaulting to a standard assembly, because a vapor retarder placed for a typical office building's moisture profile can trap process moisture against the underside of the deck on a plant floor instead of managing it correctly.</p>\n<h2>Condensation Damage That Starts Inside the Roof, Not Outside It</h2>\n<p>The plants we get called to most often for interior ceiling staining or corrosion at the deck aren't leaking from above at all — the moisture is condensing out of warm interior air against a cold roof deck surface, particularly during winter when the temperature differential between the plant floor and the outside air is steepest. That's a vapor drive problem, and no amount of exterior membrane repair fixes it.</p>\n<p>Addressing it usually means improving the vapor retarder continuity at the deck, sometimes adding roof venting appropriate to the process, and making sure insulation is placed to manage moisture movement in the actual direction it's occurring on that specific building, not the direction a generic spec assumes.</p>\n<h2>Older Manufacturing Stock and Insulation That Was Never Right</h2>\n<p>A fair amount of Springville's manufacturing building stock is old enough that its original insulation and vapor barrier design predates any real understanding of process-driven vapor drive, especially on plants that have changed operations or equipment several times since original construction. What was installed for the building's first use may be completely wrong for what's happening on the floor today.</p>\n<ul>\n<li>Current interior process heat and humidity generation relative to original design assumptions</li>\n<li>Vapor retarder placement and whether it's managing moisture in the correct direction for this building</li>\n<li>Roof venting adequacy given actual interior air handling and exhaust</li>\n<li>Deck corrosion or deterioration from long-term condensation exposure</li>\n<li>Insulation performance loss from moisture saturation versus simple age</li>\n</ul>\n<h2>Flex Space Where Tenants Have Never Run a Process Like the Last One</h2>\n<p>Springville's flex parks turn over tenants the way most flex space does, and a building leased next to a light manufacturer for years can suddenly house a very different operation with a different heat and moisture profile. We treat the roof's insulation and vapor management as something that may need to change with a significant change in tenant use, rather than assuming whatever was installed originally still fits whoever is running the floor today.</p>\n<h2>What This Means for a Roof Inspection Here</h2>\n<p>An inspection on a Springville manufacturing roof is more than a surface walk. We want to know what's happening on the floor below, what the interior humidity and temperature run like during production, and whether previous ceiling staining or deck corrosion has been documented, before we ever talk membrane condition. The membrane is often the last thing to show a problem that started with vapor drive months or years earlier.</p>\n<h2>Questions From Springville Plant Operators</h2>\n<h3>Why would our roof have condensation problems if it's not leaking?</h3>\n<p>Warm, humid interior air condensing against a colder roof deck from below produces the same staining and deterioration as an exterior leak, but the fix is entirely different — it's about vapor management, not membrane repair.</p>\n<h3>Does changing our manufacturing process mean we need a different roof spec?</h3>\n<p>Potentially, yes, if the new process generates meaningfully different heat or humidity than what the building's insulation and vapor retarder were designed around. It's worth a conversation before problems show up on the ceiling.</p>\n<h3>Can you fix this without shutting down production?</h3>\n<p>Often yes, working in sections and coordinating around production schedules, though the scope depends on how extensive the vapor management correction needs to be.</p>\n<h3>How is this different from what you'd check on an office building roof?</h3>\n<p>An office roof's biggest vapor concern usually comes from outside conditions. A manufacturing floor can generate its own significant heat and moisture load from inside, which reverses which direction we're managing vapor drive.</p>",
+ "image": "/images/locations/commercial-roofers-springville-ut.webp"
+}
