@@ -1,1 +1,38 @@
-{"cleanUrls":true,"trailingSlash":false}
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "rewrites": [
+    {
+      "source": "/services/commercial-roof-insurance-claims",
+      "destination": "/services/commercial-roof-insurance-claims.html"
+    },
+    {
+      "source": "/services/commercial-roof-insurance-claims/",
+      "destination": "/services/commercial-roof-insurance-claims.html"
+    },
+    {
+      "source": "/services/hail-damage-roof-insurance-claims",
+      "destination": "/services/hail-damage-roof-insurance-claims.html"
+    },
+    {
+      "source": "/services/hail-damage-roof-insurance-claims/",
+      "destination": "/services/hail-damage-roof-insurance-claims.html"
+    },
+    {
+      "source": "/services/wind-storm-damage-roof-insurance-claims",
+      "destination": "/services/wind-storm-damage-roof-insurance-claims.html"
+    },
+    {
+      "source": "/services/wind-storm-damage-roof-insurance-claims/",
+      "destination": "/services/wind-storm-damage-roof-insurance-claims.html"
+    },
+    {
+      "source": "/services/snow-ice-roof-damage-insurance-claims",
+      "destination": "/services/snow-ice-roof-damage-insurance-claims.html"
+    },
+    {
+      "source": "/services/snow-ice-roof-damage-insurance-claims/",
+      "destination": "/services/snow-ice-roof-damage-insurance-claims.html"
+    }
+  ]
+}
