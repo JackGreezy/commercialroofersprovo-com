@@ -24,6 +24,7 @@ python3 /Users/jackgreenberg/Desktop/rank-and-rent/David/clones/scripts/normaliz
 python3 /Users/jackgreenberg/Desktop/rank-and-rent/David/clones/scripts/relabel_engine.py \
   --config "$CFG" --map "$MAP" --voice "$VOICE"
 python3 "$PROJ/scripts/normalize-contact-forms.py" "$PROJ"
+python3 "$PROJ/scripts/hobo-seo-finalize.py" "$PROJ"
 python3 /Users/jackgreenberg/Desktop/rank-and-rent/David/clones/scripts/verify_site.py \
   "$PROJ" --map "$MAP" --json "$PROJ/qa-out/verify.json"
 node /Users/jackgreenberg/Desktop/rank-and-rent/David/clones/scripts/qa_shots.mjs "$PROJ" --port 4881

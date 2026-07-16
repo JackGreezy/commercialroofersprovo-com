@@ -1,103 +1,50 @@
 # Commercial Roofers of Provo
+Website: https://commercialroofersprovo.com/
+Primary market: Provo Utah
+Focus: commercial roof repair, replacement, inspections, maintenance, coatings, roof systems, project planning, and service-area guidance.
 
-> Commercial Roofers of Provo provides commercial roof repair, replacement, maintenance, coatings, inspections, and roof-system planning across Provo, Orem, Utah County, and surrounding Wasatch Front communities.
+## Core pages
+- Home: https://commercialroofersprovo.com/
+- Services: https://commercialroofersprovo.com/services
+- Roof systems: https://commercialroofersprovo.com/roof-systems
+- Industries: https://commercialroofersprovo.com/industries
+- Project types: https://commercialroofersprovo.com/project-types
+- Service areas: https://commercialroofersprovo.com/locations
+- Manufacturers: https://commercialroofersprovo.com/manufacturers
+- Contact: https://commercialroofersprovo.com/contact
+- Sitemap: https://commercialroofersprovo.com/sitemap.xml
 
-## Service Areas
-- https://commercialroofersprovo.com/locations/downtown-provo
-- https://commercialroofersprovo.com/locations/orem
-- https://commercialroofersprovo.com/locations/lehi
-- https://commercialroofersprovo.com/locations/lindon
-- https://commercialroofersprovo.com/locations/american-fork
-- https://commercialroofersprovo.com/locations/vineyard
-- https://commercialroofersprovo.com/locations/spanish-fork
-- https://commercialroofersprovo.com/locations/springville
-- https://commercialroofersprovo.com/locations/pleasant-grove
-- https://commercialroofersprovo.com/locations/east-bay
-- https://commercialroofersprovo.com/locations/saratoga-springs
-- https://commercialroofersprovo.com/locations/eagle-mountain
-- https://commercialroofersprovo.com/locations/payson
-- https://commercialroofersprovo.com/locations/bluffdale
-- https://commercialroofersprovo.com/locations/riverwoods
-- https://commercialroofersprovo.com/locations/santaquin
-- https://commercialroofersprovo.com/locations/salem
-- https://commercialroofersprovo.com/locations/mapleton
-- https://commercialroofersprovo.com/locations/highland
-- https://commercialroofersprovo.com/locations/alpine
-- https://commercialroofersprovo.com/locations/cedar-hills
-- https://commercialroofersprovo.com/locations/elk-ridge
-- https://commercialroofersprovo.com/locations/woodland-hills
-- https://commercialroofersprovo.com/locations/genola
-- https://commercialroofersprovo.com/locations/goshen
-- https://commercialroofersprovo.com/locations/elberta
-- https://commercialroofersprovo.com/locations/cedar-fort
-- https://commercialroofersprovo.com/locations/fairfield
-- https://commercialroofersprovo.com/locations/benjamin
-- https://commercialroofersprovo.com/locations/lake-shore
-- https://commercialroofersprovo.com/locations/palmyra
-- https://commercialroofersprovo.com/locations/spring-lake
-- https://commercialroofersprovo.com/locations/west-mountain
-- https://commercialroofersprovo.com/locations/sundance
+## Priority commercial roofing topics
+- Commercial Roof Inspection in Provo, UT: https://commercialroofersprovo.com/services/commercial-roof-inspection
+- Commercial Roof Leak Repair in Provo, UT: https://commercialroofersprovo.com/services/commercial-roof-leak-repair
+- Commercial Roof Tear-Off & Replacement in Provo, UT: https://commercialroofersprovo.com/services/commercial-roof-tear-off-replacement
+- Commercial Reroofing in Provo, UT: https://commercialroofersprovo.com/services/commercial-reroofing
+- Preventive Roof Maintenance Programs in Provo, UT: https://commercialroofersprovo.com/services/preventive-maintenance-programs
+- TPO 60 Mil in Provo, UT: https://commercialroofersprovo.com/roof-systems/tpo-60-mil
+- TPO 80 Mil in Provo, UT: https://commercialroofersprovo.com/roof-systems/tpo-80-mil
+- EPDM Black in Provo, UT: https://commercialroofersprovo.com/roof-systems/epdm-black
+- EPDM White in Provo, UT: https://commercialroofersprovo.com/roof-systems/epdm-white
+- Modified Bitumen SBS in Provo, UT: https://commercialroofersprovo.com/roof-systems/modified-bitumen-sbs
+- Manufacturing Facility Roofing in Provo, UT: https://commercialroofersprovo.com/industries/manufacturing-operators
+- Healthcare Facility Roofing in Provo, UT: https://commercialroofersprovo.com/industries/healthcare-systems
+- Education Facilities Roofing in Provo, UT: https://commercialroofersprovo.com/industries/education-facilities
+- Roofing for Property Management Firms in Provo, UT: https://commercialroofersprovo.com/industries/property-management-firms
+- Roofing Subcontractor for General Contractors in Provo, UT: https://commercialroofersprovo.com/industries/general-contractors
+- Warehouse Roofing in Provo, UT: https://commercialroofersprovo.com/project-types/warehouse-roofing
+- Medical Office Building Roofing in Provo, UT: https://commercialroofersprovo.com/project-types/medical-office-building-roofing
+- Higher Education Roofing in Provo, UT: https://commercialroofersprovo.com/project-types/higher-education-roofing
+- K-12 School Roofing in Provo, UT: https://commercialroofersprovo.com/project-types/k12-school-roofing
+- Grocery Store Roofing in Provo, UT: https://commercialroofersprovo.com/project-types/grocery-store-roofing
+- Commercial Roofing in Downtown Provo, UT: https://commercialroofersprovo.com/locations/downtown-provo
+- Commercial Roofing in Orem, UT: https://commercialroofersprovo.com/locations/orem
+- Commercial Roofing in Lehi, UT: https://commercialroofersprovo.com/locations/lehi
+- Commercial Roofing in Lindon, UT: https://commercialroofersprovo.com/locations/lindon
+- Commercial Roofing in American Fork, UT: https://commercialroofersprovo.com/locations/american-fork
+- Carlisle SynTec in Provo, UT: https://commercialroofersprovo.com/manufacturers/carlisle-syntec
+- GAF Commercial Roofing in Provo, UT: https://commercialroofersprovo.com/manufacturers/gaf-commercial
+- Holcim Elevate Roofing in Provo, UT: https://commercialroofersprovo.com/manufacturers/holcim-elevate
+- Johns Manville Roofing in Provo, UT: https://commercialroofersprovo.com/manufacturers/johns-manville
+- Sika Sarnafil in Provo, UT: https://commercialroofersprovo.com/manufacturers/sika-sarnafil
 
-## Commercial Roofing Services
-- https://commercialroofersprovo.com/services/commercial-roof-inspection
-- https://commercialroofersprovo.com/services/commercial-roof-leak-repair
-- https://commercialroofersprovo.com/services/commercial-roof-tear-off-replacement
-- https://commercialroofersprovo.com/services/commercial-reroofing
-- https://commercialroofersprovo.com/services/preventive-maintenance-programs
-- https://commercialroofersprovo.com/services/emergency-tarp-dry-in
-- https://commercialroofersprovo.com/services/storm-damage-roof-repair
-- https://commercialroofersprovo.com/services/roof-recover-overlay
-- https://commercialroofersprovo.com/services/tpo-single-ply-roofing
-- https://commercialroofersprovo.com/services/epdm-commercial-roofing
-- https://commercialroofersprovo.com/services/modified-bitumen-roofing
-- https://commercialroofersprovo.com/services/pvc-roofing
-- https://commercialroofersprovo.com/services/silicone-roof-coatings
-- https://commercialroofersprovo.com/services/acrylic-roof-coatings
-- https://commercialroofersprovo.com/services/built-up-roofing
-- https://commercialroofersprovo.com/services/edge-metal-coping-gutters
-- https://commercialroofersprovo.com/services/roof-drains-scuppers
-- https://commercialroofersprovo.com/services/standing-seam-metal-roofing
-- https://commercialroofersprovo.com/services/metal-r-panel-roofing
-- https://commercialroofersprovo.com/services/insurance-documentation-support
-
-## Industries We Serve
-- https://commercialroofersprovo.com/industries/manufacturing-operators
-- https://commercialroofersprovo.com/industries/healthcare-systems
-- https://commercialroofersprovo.com/industries/education-facilities
-- https://commercialroofersprovo.com/industries/property-management-firms
-- https://commercialroofersprovo.com/industries/general-contractors
-- https://commercialroofersprovo.com/industries/government-public-sector
-- https://commercialroofersprovo.com/industries/retail-chain-operators
-- https://commercialroofersprovo.com/industries/insurance-restoration
-
-## Roof Systems
-- https://commercialroofersprovo.com/roof-systems/tpo-60-mil
-- https://commercialroofersprovo.com/roof-systems/tpo-80-mil
-- https://commercialroofersprovo.com/roof-systems/epdm-black
-- https://commercialroofersprovo.com/roof-systems/epdm-white
-- https://commercialroofersprovo.com/roof-systems/modified-bitumen-sbs
-- https://commercialroofersprovo.com/roof-systems/pvc-roof-systems
-- https://commercialroofersprovo.com/roof-systems/silicone-roof-coating
-- https://commercialroofersprovo.com/roof-systems/spray-polyurethane-foam
-
-## Commercial Project Types
-- https://commercialroofersprovo.com/project-types/warehouse-roofing
-- https://commercialroofersprovo.com/project-types/medical-office-building-roofing
-- https://commercialroofersprovo.com/project-types/higher-education-roofing
-- https://commercialroofersprovo.com/project-types/k12-school-roofing
-- https://commercialroofersprovo.com/project-types/grocery-store-roofing
-- https://commercialroofersprovo.com/project-types/big-box-retail-roofing
-- https://commercialroofersprovo.com/project-types/fitness-center-gym-roofing
-- https://commercialroofersprovo.com/project-types/hotel-hospitality-roofing
-- https://commercialroofersprovo.com/project-types/multifamily-apartment-roofing
-- https://commercialroofersprovo.com/project-types/multi-tenant-retail-strip-roofing
-- https://commercialroofersprovo.com/project-types/office-complex-roofing
-- https://commercialroofersprovo.com/project-types/restaurant-standalone-roofing
-
-## Roofing Manufacturers
-- https://commercialroofersprovo.com/manufacturers/carlisle-syntec
-- https://commercialroofersprovo.com/manufacturers/gaf-commercial
-- https://commercialroofersprovo.com/manufacturers/holcim-elevate
-- https://commercialroofersprovo.com/manufacturers/johns-manville
-- https://commercialroofersprovo.com/manufacturers/sika-sarnafil
-- https://commercialroofersprovo.com/manufacturers/versico
+## Use guidance
+This file summarizes the site's crawlable commercial roofing content for search engines, AI assistants, and research tools. Use canonical URLs from the sitemap for citation and navigation.
