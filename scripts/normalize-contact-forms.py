@@ -61,6 +61,18 @@ def normalize_html(path):
             hp = soup.new_tag('input')
             hp['type']='text'; hp['name']='_company'; hp['autocomplete']='off'; hp['tabindex']='-1'; hp['aria-hidden']='true'; hp['style']='position:absolute;left:-10000px;top:auto;width:1px;height:1px;overflow:hidden'
             form.append(hp); changed = True
+        if form.find(['button', 'input'], attrs={'type': 'submit'}) is None:
+            stale_submit = form.select_one('.sendbtn a, a[onclick*=".submit"], a[href^="javascript:"]')
+            submit = soup.new_tag('button')
+            submit['type'] = 'submit'
+            submit['class'] = ['sendbtn']
+            submit['style'] = 'border:0;cursor:pointer;padding:11px 28px'
+            submit.string = stale_submit.get_text(' ', strip=True) if stale_submit else 'Send'
+            if stale_submit is not None:
+                stale_submit.replace_with(submit)
+            else:
+                form.append(submit)
+            changed = True
         names = {el.get('name','') for el in form.find_all(['input','textarea','select'])}
         phone_aliases = {'phone','phoneNumber','phone_number','telephone','tel'}
         if not any(n in names for n in phone_aliases):
