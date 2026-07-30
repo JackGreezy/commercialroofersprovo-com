@@ -15,8 +15,8 @@ Focus: commercial roof repair, replacement, inspections, maintenance, coatings, 
 - Sitemap: https://commercialroofersprovo.com/sitemap.xml
 
 ## Priority commercial roofing topics
-- Commercial Roof Inspection in Provo, UT: https://commercialroofersprovo.com/services/commercial-roof-inspection
-- Commercial Roof Leak Repair in Provo, UT: https://commercialroofersprovo.com/services/commercial-roof-leak-repair
+- Commercial Roof Inspections & Reports in Provo: https://commercialroofersprovo.com/services/commercial-roof-inspection
+- Commercial Roof Repair in Provo: https://commercialroofersprovo.com/services/commercial-roof-leak-repair
 - Emergency Roof Tarp & Dry-In in Provo, UT: https://commercialroofersprovo.com/services/emergency-tarp-dry-in
 - Storm Damage Roof Repair in Provo, UT: https://commercialroofersprovo.com/services/storm-damage-roof-repair
 - Hail Damage Roof Insurance Claims in Provo, UT: https://commercialroofersprovo.com/services/hail-damage-roof-insurance-claims
@@ -35,11 +35,11 @@ Focus: commercial roof repair, replacement, inspections, maintenance, coatings, 
 - Higher Education Roofing in Provo, UT: https://commercialroofersprovo.com/project-types/higher-education-roofing
 - K-12 School Roofing in Provo, UT: https://commercialroofersprovo.com/project-types/k12-school-roofing
 - Grocery Store Roofing in Provo, UT: https://commercialroofersprovo.com/project-types/grocery-store-roofing
-- Commercial Roofing in Downtown Provo, UT: https://commercialroofersprovo.com/locations/downtown-provo
-- Commercial Roofing in Orem, UT: https://commercialroofersprovo.com/locations/orem
-- Commercial Roofing in Lehi, UT: https://commercialroofersprovo.com/locations/lehi
-- Commercial Roofing in Lindon, UT: https://commercialroofersprovo.com/locations/lindon
-- Commercial Roofing in American Fork, UT: https://commercialroofersprovo.com/locations/american-fork
+- Commercial Roofing Contractors Downtown Provo, UT: https://commercialroofersprovo.com/locations/downtown-provo
+- Commercial Roofing Contractors Orem, UT: https://commercialroofersprovo.com/locations/orem
+- Commercial Roofing Contractors Lehi, UT: https://commercialroofersprovo.com/locations/lehi
+- Commercial Roofing Contractors Lindon, UT: https://commercialroofersprovo.com/locations/lindon
+- Commercial Roofing Contractors American Fork, UT: https://commercialroofersprovo.com/locations/american-fork
 - Carlisle SynTec in Provo, UT: https://commercialroofersprovo.com/manufacturers/carlisle-syntec
 - GAF Commercial Roofing in Provo, UT: https://commercialroofersprovo.com/manufacturers/gaf-commercial
 - Holcim Elevate Roofing in Provo, UT: https://commercialroofersprovo.com/manufacturers/holcim-elevate
