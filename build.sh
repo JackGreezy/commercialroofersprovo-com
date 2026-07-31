@@ -28,6 +28,7 @@ python3 /Users/jackgreenberg/Desktop/rank-and-rent/David/clones/scripts/normaliz
   "$PROJ" --voice "$VOICE"
 python3 /Users/jackgreenberg/Desktop/rank-and-rent/David/clones/scripts/relabel_engine.py \
   --config "$CFG" --map "$MAP" --voice "$VOICE"
+python3 "$PROJ/scripts/repair-logo-contrast.py" "$PROJ"
 rm -f "$PROJ/public/"*.html.ref
 python3 "$PROJ/scripts/normalize-contact-forms.py" "$PROJ"
 python3 "$PROJ/scripts/hobo-seo-finalize.py" "$PROJ"
