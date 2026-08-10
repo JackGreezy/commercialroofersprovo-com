@@ -32,6 +32,7 @@ python3 "$PROJ/scripts/repair-logo-contrast.py" "$PROJ"
 rm -f "$PROJ/public/"*.html.ref
 python3 "$PROJ/scripts/normalize-contact-forms.py" "$PROJ"
 python3 "$PROJ/scripts/hobo-seo-finalize.py" "$PROJ"
+node "$PROJ/scripts/rebuild-provo-funnel.mjs"
 python3 /Users/jackgreenberg/Desktop/rank-and-rent/David/clones/scripts/verify_site.py \
   "$PROJ" --map "$MAP" --json "$PROJ/qa-out/verify.json"
 node /Users/jackgreenberg/Desktop/rank-and-rent/David/clones/scripts/qa_shots.mjs "$PROJ" --port 4881

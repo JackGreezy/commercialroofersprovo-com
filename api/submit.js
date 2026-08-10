@@ -11,7 +11,7 @@ function isBlockedContactName(body) {
   });
 }
 
-const contactConfig = {"name": "Commercial Roofers of Provo", "domain": "commercialroofersprovo.com", "address": "25 W Center St, Suite 300, Provo, UT 84601", "phone": "555-555-6134", "phoneTel": "5555556134", "email": "info@commercialroofersprovo.com", "city": "Provo", "state": "Utah"};
+const contactConfig = {"name": "Commercial Roofers of Provo", "domain": "commercialroofersprovo.com", "address": "25 W Center St, Suite 300, Provo, UT 84601", "phone": "", "phoneTel": "", "email": "info@commercialroofersprovo.com", "city": "Provo", "state": "Utah"};
 
 const DEFAULT_TEMPLATE_ID = "d-15217ab1c55347b5847c2421b1a82847";
 const buckets = new Map();
@@ -50,7 +50,7 @@ function normalizeLead(body, req) {
   const message = clean(body.message || body.projectDetails || body.project_details || body.details || body.info || body.comments || body.notes);
   const address = clean(body.address || body.propertyAddress || body.property_address || body["property-address"] || body.streetAddress || body.street_address || body["street-address"] || body.buildingAddress || body.building_address || body["building-address"] || body.organization);
   const page = clean(body.page || body.sourcePage || req.headers.referer);
-  const serviceType = clean(body.serviceType || body.service || body.projectType || body.project_type) || "Commercial Roofing";
+  const serviceType = clean(body.roofingNeed || body.serviceType || body.service || body.projectType || body.project_type) || "Commercial Roofing";
   const timeline = clean(body.timeline || body.projectTimeline || body.project_timeline || body.when || body.timeframe);
   return { name, fullName: name, phone: clean(body.phone || body.phoneNumber || body.phone_number || body.telephone || body.tel), email: clean(body.email || body.emailAddress || body.email_address), address, propertyAddress: address, serviceType, projectType: serviceType, timeline, projectTimeline: timeline, message, projectDetails: message, page, submittedAt: new Date().toISOString() };
 }
@@ -84,6 +84,6 @@ module.exports = async function handler(req, res) {
   if (isBlockedContactName(body)) return sendJson(res, 200, { ok: true, success: true }, headers);
   const lead = normalizeLead(body, req); const validationError = validateLead(lead);
   if (validationError) return sendJson(res, 400, { ok: false, success: false, message: validationError, error: validationError }, headers);
-  try { await sendLeadEmails(lead, req); } catch (error) { console.error("Contact email send failed", error); const message = error && error.message === "SENDGRID_API_KEY is missing." ? "Email service is not configured." : "We could not submit your request right now. Please call us directly."; return sendJson(res, 500, { ok: false, success: false, message, error: "email-send-failed" }, headers); }
+  try { await sendLeadEmails(lead, req); } catch (error) { console.error("Contact email send failed", error); const message = error && error.message === "SENDGRID_API_KEY is missing." ? "Email service is not configured." : "We could not submit your request right now. Please email info@commercialroofersprovo.com."; return sendJson(res, 500, { ok: false, success: false, message, error: "email-send-failed" }, headers); }
   return sendJson(res, 200, { ok: true, success: true, message: "Your request has been received. Our team will follow up shortly." }, headers);
 };
