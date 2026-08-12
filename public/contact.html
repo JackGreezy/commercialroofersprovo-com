@@ -133,23 +133,33 @@ html body .rh-seo-dropdown-menu a:hover,html body .rh-seo-dropdown-menu a:focus{
 <div class="formcont">
 <div class="formttl">Let's Talk About Your Commercial Roof</div>
 <form action="/api/submit" data-contact-form="" id="contact" method="post" name="contact"><input name="timeline" type="hidden" value="Not sure yet"/><input name="page" type="hidden" value="/contact"/><input name="serviceType" type="hidden" value="Commercial Roofing"/>
-<div class="inpcont"><input id="contact-firstName" name="firstName" placeholder="First name" required="" type="text"/>
+<div class="inpcont"><input id="contact-firstName" name="name" type="text" autocomplete="name" placeholder="Your name" required/>
 <div class="formerr"></div>
 </div>
-<div class="inpcont"><input id="contact-lastName" name="lastName" placeholder="Last name" required="" type="text"/>
+<div class="inpcont"><input id="contact-lastName" name="phone" type="tel" autocomplete="tel" placeholder="Phone number" required/>
 <div class="formerr"></div>
 </div>
-<div class="inpcont"><input id="contact-emailAddress" name="emailAddress" placeholder="Email" required="" type="email"/>
+<div class="inpcont"><input id="contact-emailAddress" name="email" type="email" autocomplete="email" placeholder="Email address" required/>
 <div class="formerr"></div>
 </div>
 <div class="inpcont">
-<div class="styled-select" style="max-width: 458px;"><input id="contact-phoneNumber" name="phoneNumber" placeholder="Phone" required="" type="tel"/></div>
+<div class="styled-select" style="max-width: 458px;"><select id="contact-phoneNumber" name="timeline" required>
+<option value="">Select a timeline</option>
+<option value="Emergency - active leak">Emergency - active leak</option>
+<option value="Within 30 days">Within 30 days</option>
+<option value="1-3 months">1-3 months</option>
+<option value="3-6 months">3-6 months</option>
+<option value="Planning / budgeting">Planning / budgeting</option>
+</select></div>
 <div class="formerr" id="soe"></div>
 </div>
-<div class="inpcont"><textarea id="contact-projectDetails" name="projectDetails" placeholder="Tell us what is happening on the roof and when help is needed" required></textarea>
+<div class="inpcont"><input id="contact-projectDetails" name="address" type="text" autocomplete="street-address" placeholder="Building address or roof location" required/>
 <div class="formerr"></div>
 </div>
-<div class="sendbtn"><button class="sendbtn" style="border:0;cursor:pointer;padding:11px 28px" type="submit">Send</button>
+<div class="sendbtn"><label>Message
+<textarea id="contact-projectDetails" name="message" placeholder="Tell us about the roof, issue, access, and schedule" required rows="7"></textarea>
+</label>
+<button class="sendbtn" style="border:0;cursor:pointer;padding:11px 28px" type="submit">Send</button>
 </div>
 <div class="frmsent">Your Message Was Sent Successfully!</div>
 <div class="frmtext"><p>Tell us about the property, roof type, known leaks or damage, access conditions, schedule, and any inspection, maintenance, repair, replacement, coating, insurance, or warranty needs.</p></div>
