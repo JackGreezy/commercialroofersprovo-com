@@ -35,5 +35,5 @@
       "destination": "/services/snow-ice-roof-damage-insurance-claims.html"
     }
   ],
-  "buildCommand": "node scripts/normalize-contact-forms.mjs"
+  "buildCommand": "node scripts/normalize-contact-forms.mjs && node scripts/finalize-lead-controls.mjs"
 }
