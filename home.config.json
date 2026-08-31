@@ -11,7 +11,7 @@
   "email": "info@commercialroofersprovo.com",
   "address": "25 W Center St, Suite 300, Provo, UT 84601",
   "vertical": "commercial-roofing",
-  "hero_image": "/ours/locations/commercial-roofers-provo-ut-01.webp",
+  "hero_image": "/ours/service-areas/commercial-roofers-provo-ut-01.webp",
   "brand_logo": "/images/brand/logo-on-light.png",
   "suppress_footer_media": true,
   "wordmark_l1": "Commercial Roofers",
@@ -35,7 +35,7 @@
     ],
     [
       "Service Areas",
-      "/locations"
+      "/service-areas"
     ]
   ],
   "cta": [

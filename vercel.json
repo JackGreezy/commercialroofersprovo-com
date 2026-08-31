@@ -107,5 +107,362 @@
       "destination": "/capabilities/roof-asset-management.html"
     }
   ],
-  "buildCommand": "node scripts/normalize-contact-forms.mjs && node scripts/finalize-lead-controls.mjs"
+  "buildCommand": "node scripts/normalize-contact-forms.mjs && node scripts/finalize-lead-controls.mjs",
+  "redirects": [
+    {
+      "source": "/locations/:path*",
+      "destination": "/service-areas/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/locations",
+      "destination": "/service-areas",
+      "permanent": true
+    },
+    {
+      "source": "/locations/alpine",
+      "destination": "/service-areas/alpine",
+      "permanent": true
+    },
+    {
+      "source": "/locations/alpine/",
+      "destination": "/service-areas/alpine",
+      "permanent": true
+    },
+    {
+      "source": "/locations/american-fork",
+      "destination": "/service-areas/american-fork",
+      "permanent": true
+    },
+    {
+      "source": "/locations/american-fork/",
+      "destination": "/service-areas/american-fork",
+      "permanent": true
+    },
+    {
+      "source": "/locations/benjamin",
+      "destination": "/service-areas/benjamin",
+      "permanent": true
+    },
+    {
+      "source": "/locations/benjamin/",
+      "destination": "/service-areas/benjamin",
+      "permanent": true
+    },
+    {
+      "source": "/locations/bluffdale",
+      "destination": "/service-areas/bluffdale",
+      "permanent": true
+    },
+    {
+      "source": "/locations/bluffdale/",
+      "destination": "/service-areas/bluffdale",
+      "permanent": true
+    },
+    {
+      "source": "/locations/cedar-fort",
+      "destination": "/service-areas/cedar-fort",
+      "permanent": true
+    },
+    {
+      "source": "/locations/cedar-fort/",
+      "destination": "/service-areas/cedar-fort",
+      "permanent": true
+    },
+    {
+      "source": "/locations/cedar-hills",
+      "destination": "/service-areas/cedar-hills",
+      "permanent": true
+    },
+    {
+      "source": "/locations/cedar-hills/",
+      "destination": "/service-areas/cedar-hills",
+      "permanent": true
+    },
+    {
+      "source": "/locations/downtown-provo",
+      "destination": "/service-areas/downtown-provo",
+      "permanent": true
+    },
+    {
+      "source": "/locations/downtown-provo/",
+      "destination": "/service-areas/downtown-provo",
+      "permanent": true
+    },
+    {
+      "source": "/locations/eagle-mountain",
+      "destination": "/service-areas/eagle-mountain",
+      "permanent": true
+    },
+    {
+      "source": "/locations/eagle-mountain/",
+      "destination": "/service-areas/eagle-mountain",
+      "permanent": true
+    },
+    {
+      "source": "/locations/east-bay",
+      "destination": "/service-areas/east-bay",
+      "permanent": true
+    },
+    {
+      "source": "/locations/east-bay/",
+      "destination": "/service-areas/east-bay",
+      "permanent": true
+    },
+    {
+      "source": "/locations/elberta",
+      "destination": "/service-areas/elberta",
+      "permanent": true
+    },
+    {
+      "source": "/locations/elberta/",
+      "destination": "/service-areas/elberta",
+      "permanent": true
+    },
+    {
+      "source": "/locations/elk-ridge",
+      "destination": "/service-areas/elk-ridge",
+      "permanent": true
+    },
+    {
+      "source": "/locations/elk-ridge/",
+      "destination": "/service-areas/elk-ridge",
+      "permanent": true
+    },
+    {
+      "source": "/locations/fairfield",
+      "destination": "/service-areas/fairfield",
+      "permanent": true
+    },
+    {
+      "source": "/locations/fairfield/",
+      "destination": "/service-areas/fairfield",
+      "permanent": true
+    },
+    {
+      "source": "/locations/genola",
+      "destination": "/service-areas/genola",
+      "permanent": true
+    },
+    {
+      "source": "/locations/genola/",
+      "destination": "/service-areas/genola",
+      "permanent": true
+    },
+    {
+      "source": "/locations/goshen",
+      "destination": "/service-areas/goshen",
+      "permanent": true
+    },
+    {
+      "source": "/locations/goshen/",
+      "destination": "/service-areas/goshen",
+      "permanent": true
+    },
+    {
+      "source": "/locations/highland",
+      "destination": "/service-areas/highland",
+      "permanent": true
+    },
+    {
+      "source": "/locations/highland/",
+      "destination": "/service-areas/highland",
+      "permanent": true
+    },
+    {
+      "source": "/locations/lake-shore",
+      "destination": "/service-areas/lake-shore",
+      "permanent": true
+    },
+    {
+      "source": "/locations/lake-shore/",
+      "destination": "/service-areas/lake-shore",
+      "permanent": true
+    },
+    {
+      "source": "/locations/lehi",
+      "destination": "/service-areas/lehi",
+      "permanent": true
+    },
+    {
+      "source": "/locations/lehi/",
+      "destination": "/service-areas/lehi",
+      "permanent": true
+    },
+    {
+      "source": "/locations/lindon",
+      "destination": "/service-areas/lindon",
+      "permanent": true
+    },
+    {
+      "source": "/locations/lindon/",
+      "destination": "/service-areas/lindon",
+      "permanent": true
+    },
+    {
+      "source": "/locations/mapleton",
+      "destination": "/service-areas/mapleton",
+      "permanent": true
+    },
+    {
+      "source": "/locations/mapleton/",
+      "destination": "/service-areas/mapleton",
+      "permanent": true
+    },
+    {
+      "source": "/locations/orem",
+      "destination": "/service-areas/orem",
+      "permanent": true
+    },
+    {
+      "source": "/locations/orem/",
+      "destination": "/service-areas/orem",
+      "permanent": true
+    },
+    {
+      "source": "/locations/palmyra",
+      "destination": "/service-areas/palmyra",
+      "permanent": true
+    },
+    {
+      "source": "/locations/palmyra/",
+      "destination": "/service-areas/palmyra",
+      "permanent": true
+    },
+    {
+      "source": "/locations/payson",
+      "destination": "/service-areas/payson",
+      "permanent": true
+    },
+    {
+      "source": "/locations/payson/",
+      "destination": "/service-areas/payson",
+      "permanent": true
+    },
+    {
+      "source": "/locations/pleasant-grove",
+      "destination": "/service-areas/pleasant-grove",
+      "permanent": true
+    },
+    {
+      "source": "/locations/pleasant-grove/",
+      "destination": "/service-areas/pleasant-grove",
+      "permanent": true
+    },
+    {
+      "source": "/locations/riverwoods",
+      "destination": "/service-areas/riverwoods",
+      "permanent": true
+    },
+    {
+      "source": "/locations/riverwoods/",
+      "destination": "/service-areas/riverwoods",
+      "permanent": true
+    },
+    {
+      "source": "/locations/salem",
+      "destination": "/service-areas/salem",
+      "permanent": true
+    },
+    {
+      "source": "/locations/salem/",
+      "destination": "/service-areas/salem",
+      "permanent": true
+    },
+    {
+      "source": "/locations/santaquin",
+      "destination": "/service-areas/santaquin",
+      "permanent": true
+    },
+    {
+      "source": "/locations/santaquin/",
+      "destination": "/service-areas/santaquin",
+      "permanent": true
+    },
+    {
+      "source": "/locations/saratoga-springs",
+      "destination": "/service-areas/saratoga-springs",
+      "permanent": true
+    },
+    {
+      "source": "/locations/saratoga-springs/",
+      "destination": "/service-areas/saratoga-springs",
+      "permanent": true
+    },
+    {
+      "source": "/locations/spanish-fork",
+      "destination": "/service-areas/spanish-fork",
+      "permanent": true
+    },
+    {
+      "source": "/locations/spanish-fork/",
+      "destination": "/service-areas/spanish-fork",
+      "permanent": true
+    },
+    {
+      "source": "/locations/spring-lake",
+      "destination": "/service-areas/spring-lake",
+      "permanent": true
+    },
+    {
+      "source": "/locations/spring-lake/",
+      "destination": "/service-areas/spring-lake",
+      "permanent": true
+    },
+    {
+      "source": "/locations/springville",
+      "destination": "/service-areas/springville",
+      "permanent": true
+    },
+    {
+      "source": "/locations/springville/",
+      "destination": "/service-areas/springville",
+      "permanent": true
+    },
+    {
+      "source": "/locations/sundance",
+      "destination": "/service-areas/sundance",
+      "permanent": true
+    },
+    {
+      "source": "/locations/sundance/",
+      "destination": "/service-areas/sundance",
+      "permanent": true
+    },
+    {
+      "source": "/locations/vineyard",
+      "destination": "/service-areas/vineyard",
+      "permanent": true
+    },
+    {
+      "source": "/locations/vineyard/",
+      "destination": "/service-areas/vineyard",
+      "permanent": true
+    },
+    {
+      "source": "/locations/west-mountain",
+      "destination": "/service-areas/west-mountain",
+      "permanent": true
+    },
+    {
+      "source": "/locations/west-mountain/",
+      "destination": "/service-areas/west-mountain",
+      "permanent": true
+    },
+    {
+      "source": "/locations/woodland-hills",
+      "destination": "/service-areas/woodland-hills",
+      "permanent": true
+    },
+    {
+      "source": "/locations/woodland-hills/",
+      "destination": "/service-areas/woodland-hills",
+      "permanent": true
+    },
+    {
+      "source": "/locations/",
+      "destination": "/service-areas",
+      "permanent": true
+    }
+  ]
 }

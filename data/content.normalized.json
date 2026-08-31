@@ -10,7 +10,7 @@
  "taxonomies": {
   "locations": {
    "title": "Service Areas",
-   "route": "/locations",
+   "route": "/service-areas",
    "items": [
     {
      "slug": "downtown-provo",
@@ -26,23 +26,23 @@
      "related": [
       {
        "label": "American Fork's Roofs Range From a Hospital to a Strip Mall, and the Spec Has to Follow",
-       "href": "/locations/american-fork"
+       "href": "/service-areas/american-fork"
       },
       {
        "label": "Benjamin's Dairy Barns Sit Between Farm Ground and the Slough's Standing Moisture",
-       "href": "/locations/benjamin"
+       "href": "/service-areas/benjamin"
       },
       {
        "label": "Point of the Mountain's Industrial Roofs Carry a Heavier Mechanical Load",
-       "href": "/locations/bluffdale"
+       "href": "/service-areas/bluffdale"
       },
       {
        "label": "Cedar Fort's Ranch and Equestrian Roofs Sit on the Valley's Quiet Edge",
-       "href": "/locations/cedar-fort"
+       "href": "/service-areas/cedar-fort"
       },
       {
        "label": "Cedar Hills' Clubhouse and Corner-Lot Roofs, Sized for Bench-Elevation Snow",
-       "href": "/locations/cedar-hills"
+       "href": "/service-areas/cedar-hills"
       },
       {
        "label": "Full Tear-Off Replacement for Aging Orem and American Fork Roofs",
@@ -88,23 +88,23 @@
      "related": [
       {
        "label": "Elk Ridge Sits on a Slope, and That Changes How Every Roof Sheds Water",
-       "href": "/locations/elk-ridge"
+       "href": "/service-areas/elk-ridge"
       },
       {
        "label": "Camp Floyd's Historic Roofs and Fairfield's Ranches Need Two Different Approaches",
-       "href": "/locations/fairfield"
+       "href": "/service-areas/fairfield"
       },
       {
        "label": "Genola's Grain Bins and Pole Barns Face Open Wind With No Windbreak",
-       "href": "/locations/genola"
+       "href": "/service-areas/genola"
       },
       {
        "label": "Goshen's Cattle Buildings Sit Right at the Lake's Edge Humidity Line",
-       "href": "/locations/goshen"
+       "href": "/service-areas/goshen"
       },
       {
        "label": "Neighborhood Retail in an Affluent Bedroom Community Gets Judged on Sight",
-       "href": "/locations/highland"
+       "href": "/service-areas/highland"
       },
       {
        "label": "Finding Wet Insulation Before It Shows Up on the Utility Bill",
@@ -150,23 +150,23 @@
      "related": [
       {
        "label": "Cedar Hills' Clubhouse and Corner-Lot Roofs, Sized for Bench-Elevation Snow",
-       "href": "/locations/cedar-hills"
+       "href": "/service-areas/cedar-hills"
       },
       {
        "label": "Old Bar Joist Decks Under Center Street's Storefronts Need a Different Read",
-       "href": "/locations/downtown-provo"
+       "href": "/service-areas/downtown-provo"
       },
       {
        "label": "What the Data Center Boom Means for Roofs Going Up Around It",
-       "href": "/locations/eagle-mountain"
+       "href": "/service-areas/eagle-mountain"
       },
       {
        "label": "South Provo's Big Flat Roofs and What They Do to a Utility Bill",
-       "href": "/locations/east-bay"
+       "href": "/service-areas/east-bay"
       },
       {
        "label": "Elberta Is a Crossroads, and We Roof the Handful of Buildings Actually There",
-       "href": "/locations/elberta"
+       "href": "/service-areas/elberta"
       },
       {
        "label": "Repairing What Wind and Hail Leave Behind Along I-15",
@@ -216,23 +216,23 @@
      "related": [
       {
        "label": "Orem's State Street Retail Roofs and the Cost of Skipping Insulation",
-       "href": "/locations/orem"
+       "href": "/service-areas/orem"
       },
       {
        "label": "Palmyra's Century-Old Barns Share Farm Ground With Modern Equipment Sheds",
-       "href": "/locations/palmyra"
+       "href": "/service-areas/palmyra"
       },
       {
        "label": "Payson's Hospital Roof Doesn't Get the Same Schedule as Everything Else",
-       "href": "/locations/payson"
+       "href": "/service-areas/payson"
       },
       {
        "label": "Valley Grove Was Built to a Higher Standard. Every Tenant Buildout Since Has Tested It",
-       "href": "/locations/pleasant-grove"
+       "href": "/service-areas/pleasant-grove"
       },
       {
        "label": "A Shopping District Where the Roof Has to Look as Good as It Performs",
-       "href": "/locations/riverwoods"
+       "href": "/service-areas/riverwoods"
       },
       {
        "label": "Full Tear-Off Replacement for Aging Orem and American Fork Roofs",
@@ -278,23 +278,23 @@
      "related": [
       {
        "label": "Goshen's Cattle Buildings Sit Right at the Lake's Edge Humidity Line",
-       "href": "/locations/goshen"
+       "href": "/service-areas/goshen"
       },
       {
        "label": "Neighborhood Retail in an Affluent Bedroom Community Gets Judged on Sight",
-       "href": "/locations/highland"
+       "href": "/service-areas/highland"
       },
       {
        "label": "Lake Shore Sits Close Enough to Utah Lake That the Roof Deck Feels It",
-       "href": "/locations/lake-shore"
+       "href": "/service-areas/lake-shore"
       },
       {
        "label": "Building the Roof Assembly to Match Lehi's Office Cooling Loads",
-       "href": "/locations/lehi"
+       "href": "/service-areas/lehi"
       },
       {
        "label": "Geneva Road's Flex Buildings Need Two Different Roof Answers, Not One",
-       "href": "/locations/lindon"
+       "href": "/service-areas/lindon"
       },
       {
        "label": "Reroofing Silicon Slopes Offices and Aging State Street Buildings",
@@ -344,23 +344,23 @@
      "related": [
       {
        "label": "What the Data Center Boom Means for Roofs Going Up Around It",
-       "href": "/locations/eagle-mountain"
+       "href": "/service-areas/eagle-mountain"
       },
       {
        "label": "South Provo's Big Flat Roofs and What They Do to a Utility Bill",
-       "href": "/locations/east-bay"
+       "href": "/service-areas/east-bay"
       },
       {
        "label": "Elberta Is a Crossroads, and We Roof the Handful of Buildings Actually There",
-       "href": "/locations/elberta"
+       "href": "/service-areas/elberta"
       },
       {
        "label": "Elk Ridge Sits on a Slope, and That Changes How Every Roof Sheds Water",
-       "href": "/locations/elk-ridge"
+       "href": "/service-areas/elk-ridge"
       },
       {
        "label": "Camp Floyd's Historic Roofs and Fairfield's Ranches Need Two Different Approaches",
-       "href": "/locations/fairfield"
+       "href": "/service-areas/fairfield"
       },
       {
        "label": "Repairing What Wind and Hail Leave Behind Along I-15",
@@ -410,23 +410,23 @@
      "related": [
       {
        "label": "Goshen's Cattle Buildings Sit Right at the Lake's Edge Humidity Line",
-       "href": "/locations/goshen"
+       "href": "/service-areas/goshen"
       },
       {
        "label": "Neighborhood Retail in an Affluent Bedroom Community Gets Judged on Sight",
-       "href": "/locations/highland"
+       "href": "/service-areas/highland"
       },
       {
        "label": "Lake Shore Sits Close Enough to Utah Lake That the Roof Deck Feels It",
-       "href": "/locations/lake-shore"
+       "href": "/service-areas/lake-shore"
       },
       {
        "label": "Building the Roof Assembly to Match Lehi's Office Cooling Loads",
-       "href": "/locations/lehi"
+       "href": "/service-areas/lehi"
       },
       {
        "label": "Geneva Road's Flex Buildings Need Two Different Roof Answers, Not One",
-       "href": "/locations/lindon"
+       "href": "/service-areas/lindon"
       },
       {
        "label": "Repairing What Wind and Hail Leave Behind Along I-15",
@@ -476,23 +476,23 @@
      "related": [
       {
        "label": "Valley Grove Was Built to a Higher Standard. Every Tenant Buildout Since Has Tested It",
-       "href": "/locations/pleasant-grove"
+       "href": "/service-areas/pleasant-grove"
       },
       {
        "label": "A Shopping District Where the Roof Has to Look as Good as It Performs",
-       "href": "/locations/riverwoods"
+       "href": "/service-areas/riverwoods"
       },
       {
        "label": "A Small Commercial Core Growing Alongside a Fast-Building Residential Town",
-       "href": "/locations/salem"
+       "href": "/service-areas/salem"
       },
       {
        "label": "Fruit Processing Buildings Fight Moisture From the Inside Out",
-       "href": "/locations/santaquin"
+       "href": "/service-areas/santaquin"
       },
       {
        "label": "Saratoga Springs Is Building Faster Than Most Owners Can Track What Went on Their Roof",
-       "href": "/locations/saratoga-springs"
+       "href": "/service-areas/saratoga-springs"
       },
       {
        "label": "Why Grease and Chemical Exposure Push Owners Toward PVC",
@@ -542,23 +542,23 @@
      "related": [
       {
        "label": "Fruit Processing Buildings Fight Moisture From the Inside Out",
-       "href": "/locations/santaquin"
+       "href": "/service-areas/santaquin"
       },
       {
        "label": "Saratoga Springs Is Building Faster Than Most Owners Can Track What Went on Their Roof",
-       "href": "/locations/saratoga-springs"
+       "href": "/service-areas/saratoga-springs"
       },
       {
        "label": "Spanish Fork's New Distribution Buildings Need Roofs Sized to What's Stored Underneath",
-       "href": "/locations/spanish-fork"
+       "href": "/service-areas/spanish-fork"
       },
       {
        "label": "Spring Lake's Roadside Buildings Sit on the Old Highway, Not the Freeway",
-       "href": "/locations/spring-lake"
+       "href": "/service-areas/spring-lake"
       },
       {
        "label": "On Springville's Manufacturing Roofs, the Heat Problem Comes From Underneath",
-       "href": "/locations/springville"
+       "href": "/service-areas/springville"
       },
       {
        "label": "Drainage Sized for What Spring Snowmelt Actually Sends Down a Roof",
@@ -608,23 +608,23 @@
      "related": [
       {
        "label": "American Fork's Roofs Range From a Hospital to a Strip Mall, and the Spec Has to Follow",
-       "href": "/locations/american-fork"
+       "href": "/service-areas/american-fork"
       },
       {
        "label": "Benjamin's Dairy Barns Sit Between Farm Ground and the Slough's Standing Moisture",
-       "href": "/locations/benjamin"
+       "href": "/service-areas/benjamin"
       },
       {
        "label": "Point of the Mountain's Industrial Roofs Carry a Heavier Mechanical Load",
-       "href": "/locations/bluffdale"
+       "href": "/service-areas/bluffdale"
       },
       {
        "label": "Cedar Fort's Ranch and Equestrian Roofs Sit on the Valley's Quiet Edge",
-       "href": "/locations/cedar-fort"
+       "href": "/service-areas/cedar-fort"
       },
       {
        "label": "Cedar Hills' Clubhouse and Corner-Lot Roofs, Sized for Bench-Elevation Snow",
-       "href": "/locations/cedar-hills"
+       "href": "/service-areas/cedar-hills"
       },
       {
        "label": "Where Canyon Wind Actually Tests a Roof: the Edge",
@@ -674,23 +674,23 @@
      "related": [
       {
        "label": "Spring Lake's Roadside Buildings Sit on the Old Highway, Not the Freeway",
-       "href": "/locations/spring-lake"
+       "href": "/service-areas/spring-lake"
       },
       {
        "label": "On Springville's Manufacturing Roofs, the Heat Problem Comes From Underneath",
-       "href": "/locations/springville"
+       "href": "/service-areas/springville"
       },
       {
        "label": "Sundance's Steep-Slope Lodge Roofs Carry Canyon Snow Load Most of the Valley Never Sees",
-       "href": "/locations/sundance"
+       "href": "/service-areas/sundance"
       },
       {
        "label": "Vineyard Is Building an Entire Commercial District From an Empty Slab",
-       "href": "/locations/vineyard"
+       "href": "/service-areas/vineyard"
       },
       {
        "label": "West Mountain's Orchard Ground Puts Packing Sheds on a Tight Harvest Clock",
-       "href": "/locations/west-mountain"
+       "href": "/service-areas/west-mountain"
       },
       {
        "label": "Acrylic Recoats for Faded Metal Roofs in Highland and Alpine",
@@ -736,23 +736,23 @@
      "related": [
       {
        "label": "South Provo's Big Flat Roofs and What They Do to a Utility Bill",
-       "href": "/locations/east-bay"
+       "href": "/service-areas/east-bay"
       },
       {
        "label": "Elberta Is a Crossroads, and We Roof the Handful of Buildings Actually There",
-       "href": "/locations/elberta"
+       "href": "/service-areas/elberta"
       },
       {
        "label": "Elk Ridge Sits on a Slope, and That Changes How Every Roof Sheds Water",
-       "href": "/locations/elk-ridge"
+       "href": "/service-areas/elk-ridge"
       },
       {
        "label": "Camp Floyd's Historic Roofs and Fairfield's Ranches Need Two Different Approaches",
-       "href": "/locations/fairfield"
+       "href": "/service-areas/fairfield"
       },
       {
        "label": "Genola's Grain Bins and Pole Barns Face Open Wind With No Windbreak",
-       "href": "/locations/genola"
+       "href": "/service-areas/genola"
       },
       {
        "label": "Acrylic Recoats for Faded Metal Roofs in Highland and Alpine",
@@ -798,23 +798,23 @@
      "related": [
       {
        "label": "Building the Roof Assembly to Match Lehi's Office Cooling Loads",
-       "href": "/locations/lehi"
+       "href": "/service-areas/lehi"
       },
       {
        "label": "Geneva Road's Flex Buildings Need Two Different Roof Answers, Not One",
-       "href": "/locations/lindon"
+       "href": "/service-areas/lindon"
       },
       {
        "label": "A Bedroom Community Where Commercial Roofing Means a Handful of Buildings",
-       "href": "/locations/mapleton"
+       "href": "/service-areas/mapleton"
       },
       {
        "label": "Orem's State Street Retail Roofs and the Cost of Skipping Insulation",
-       "href": "/locations/orem"
+       "href": "/service-areas/orem"
       },
       {
        "label": "Palmyra's Century-Old Barns Share Farm Ground With Modern Equipment Sheds",
-       "href": "/locations/palmyra"
+       "href": "/service-areas/palmyra"
       },
       {
        "label": "Full Tear-Off Replacement for Aging Orem and American Fork Roofs",
@@ -860,23 +860,23 @@
      "related": [
       {
        "label": "Saratoga Springs Is Building Faster Than Most Owners Can Track What Went on Their Roof",
-       "href": "/locations/saratoga-springs"
+       "href": "/service-areas/saratoga-springs"
       },
       {
        "label": "Spanish Fork's New Distribution Buildings Need Roofs Sized to What's Stored Underneath",
-       "href": "/locations/spanish-fork"
+       "href": "/service-areas/spanish-fork"
       },
       {
        "label": "Spring Lake's Roadside Buildings Sit on the Old Highway, Not the Freeway",
-       "href": "/locations/spring-lake"
+       "href": "/service-areas/spring-lake"
       },
       {
        "label": "On Springville's Manufacturing Roofs, the Heat Problem Comes From Underneath",
-       "href": "/locations/springville"
+       "href": "/service-areas/springville"
       },
       {
        "label": "Sundance's Steep-Slope Lodge Roofs Carry Canyon Snow Load Most of the Valley Never Sees",
-       "href": "/locations/sundance"
+       "href": "/service-areas/sundance"
       },
       {
        "label": "Finding Wet Insulation Before It Shows Up on the Utility Bill",
@@ -922,23 +922,23 @@
      "related": [
       {
        "label": "On Springville's Manufacturing Roofs, the Heat Problem Comes From Underneath",
-       "href": "/locations/springville"
+       "href": "/service-areas/springville"
       },
       {
        "label": "Sundance's Steep-Slope Lodge Roofs Carry Canyon Snow Load Most of the Valley Never Sees",
-       "href": "/locations/sundance"
+       "href": "/service-areas/sundance"
       },
       {
        "label": "Vineyard Is Building an Entire Commercial District From an Empty Slab",
-       "href": "/locations/vineyard"
+       "href": "/service-areas/vineyard"
       },
       {
        "label": "West Mountain's Orchard Ground Puts Packing Sheds on a Tight Harvest Clock",
-       "href": "/locations/west-mountain"
+       "href": "/service-areas/west-mountain"
       },
       {
        "label": "Woodland Hills Has Three Roofs That Matter, and We Know All Three",
-       "href": "/locations/woodland-hills"
+       "href": "/service-areas/woodland-hills"
       },
       {
        "label": "The Black-Versus-White EPDM Decision on Older Provo Roofs",
@@ -988,23 +988,23 @@
      "related": [
       {
        "label": "South Provo's Big Flat Roofs and What They Do to a Utility Bill",
-       "href": "/locations/east-bay"
+       "href": "/service-areas/east-bay"
       },
       {
        "label": "Elberta Is a Crossroads, and We Roof the Handful of Buildings Actually There",
-       "href": "/locations/elberta"
+       "href": "/service-areas/elberta"
       },
       {
        "label": "Elk Ridge Sits on a Slope, and That Changes How Every Roof Sheds Water",
-       "href": "/locations/elk-ridge"
+       "href": "/service-areas/elk-ridge"
       },
       {
        "label": "Camp Floyd's Historic Roofs and Fairfield's Ranches Need Two Different Approaches",
-       "href": "/locations/fairfield"
+       "href": "/service-areas/fairfield"
       },
       {
        "label": "Genola's Grain Bins and Pole Barns Face Open Wind With No Windbreak",
-       "href": "/locations/genola"
+       "href": "/service-areas/genola"
       },
       {
        "label": "Silicone Coatings for UV-Worn Flat Roofs Around Vineyard and Eagle Mountain",
@@ -1054,23 +1054,23 @@
      "related": [
       {
        "label": "South Provo's Big Flat Roofs and What They Do to a Utility Bill",
-       "href": "/locations/east-bay"
+       "href": "/service-areas/east-bay"
       },
       {
        "label": "Elberta Is a Crossroads, and We Roof the Handful of Buildings Actually There",
-       "href": "/locations/elberta"
+       "href": "/service-areas/elberta"
       },
       {
        "label": "Elk Ridge Sits on a Slope, and That Changes How Every Roof Sheds Water",
-       "href": "/locations/elk-ridge"
+       "href": "/service-areas/elk-ridge"
       },
       {
        "label": "Camp Floyd's Historic Roofs and Fairfield's Ranches Need Two Different Approaches",
-       "href": "/locations/fairfield"
+       "href": "/service-areas/fairfield"
       },
       {
        "label": "Genola's Grain Bins and Pole Barns Face Open Wind With No Windbreak",
-       "href": "/locations/genola"
+       "href": "/service-areas/genola"
       },
       {
        "label": "Concealed-Fastener Panels for Snow-Shedding Roofs Above Provo Canyon",
@@ -1120,23 +1120,23 @@
      "related": [
       {
        "label": "A Small Commercial Core Growing Alongside a Fast-Building Residential Town",
-       "href": "/locations/salem"
+       "href": "/service-areas/salem"
       },
       {
        "label": "Fruit Processing Buildings Fight Moisture From the Inside Out",
-       "href": "/locations/santaquin"
+       "href": "/service-areas/santaquin"
       },
       {
        "label": "Saratoga Springs Is Building Faster Than Most Owners Can Track What Went on Their Roof",
-       "href": "/locations/saratoga-springs"
+       "href": "/service-areas/saratoga-springs"
       },
       {
        "label": "Spanish Fork's New Distribution Buildings Need Roofs Sized to What's Stored Underneath",
-       "href": "/locations/spanish-fork"
+       "href": "/service-areas/spanish-fork"
       },
       {
        "label": "Spring Lake's Roadside Buildings Sit on the Old Highway, Not the Freeway",
-       "href": "/locations/spring-lake"
+       "href": "/service-areas/spring-lake"
       },
       {
        "label": "Why Grease and Chemical Exposure Push Owners Toward PVC",
@@ -1186,23 +1186,23 @@
      "related": [
       {
        "label": "A Bedroom Community Where Commercial Roofing Means a Handful of Buildings",
-       "href": "/locations/mapleton"
+       "href": "/service-areas/mapleton"
       },
       {
        "label": "Orem's State Street Retail Roofs and the Cost of Skipping Insulation",
-       "href": "/locations/orem"
+       "href": "/service-areas/orem"
       },
       {
        "label": "Palmyra's Century-Old Barns Share Farm Ground With Modern Equipment Sheds",
-       "href": "/locations/palmyra"
+       "href": "/service-areas/palmyra"
       },
       {
        "label": "Payson's Hospital Roof Doesn't Get the Same Schedule as Everything Else",
-       "href": "/locations/payson"
+       "href": "/service-areas/payson"
       },
       {
        "label": "Valley Grove Was Built to a Higher Standard. Every Tenant Buildout Since Has Tested It",
-       "href": "/locations/pleasant-grove"
+       "href": "/service-areas/pleasant-grove"
       },
       {
        "label": "Reroofing Silicon Slopes Offices and Aging State Street Buildings",
@@ -1252,23 +1252,23 @@
      "related": [
       {
        "label": "Lake Shore Sits Close Enough to Utah Lake That the Roof Deck Feels It",
-       "href": "/locations/lake-shore"
+       "href": "/service-areas/lake-shore"
       },
       {
        "label": "Building the Roof Assembly to Match Lehi's Office Cooling Loads",
-       "href": "/locations/lehi"
+       "href": "/service-areas/lehi"
       },
       {
        "label": "Geneva Road's Flex Buildings Need Two Different Roof Answers, Not One",
-       "href": "/locations/lindon"
+       "href": "/service-areas/lindon"
       },
       {
        "label": "A Bedroom Community Where Commercial Roofing Means a Handful of Buildings",
-       "href": "/locations/mapleton"
+       "href": "/service-areas/mapleton"
       },
       {
        "label": "Orem's State Street Retail Roofs and the Cost of Skipping Insulation",
-       "href": "/locations/orem"
+       "href": "/service-areas/orem"
       },
       {
        "label": "Using a Recover to Add R-Value Instead of Just a New Membrane",
@@ -1318,23 +1318,23 @@
      "related": [
       {
        "label": "On Springville's Manufacturing Roofs, the Heat Problem Comes From Underneath",
-       "href": "/locations/springville"
+       "href": "/service-areas/springville"
       },
       {
        "label": "Sundance's Steep-Slope Lodge Roofs Carry Canyon Snow Load Most of the Valley Never Sees",
-       "href": "/locations/sundance"
+       "href": "/service-areas/sundance"
       },
       {
        "label": "Vineyard Is Building an Entire Commercial District From an Empty Slab",
-       "href": "/locations/vineyard"
+       "href": "/service-areas/vineyard"
       },
       {
        "label": "West Mountain's Orchard Ground Puts Packing Sheds on a Tight Harvest Clock",
-       "href": "/locations/west-mountain"
+       "href": "/service-areas/west-mountain"
       },
       {
        "label": "Woodland Hills Has Three Roofs That Matter, and We Know All Three",
-       "href": "/locations/woodland-hills"
+       "href": "/service-areas/woodland-hills"
       },
       {
        "label": "Stopping Water Before Canyon Wind Damage Reaches the Insulation",
@@ -1384,23 +1384,23 @@
      "related": [
       {
        "label": "Orem's State Street Retail Roofs and the Cost of Skipping Insulation",
-       "href": "/locations/orem"
+       "href": "/service-areas/orem"
       },
       {
        "label": "Palmyra's Century-Old Barns Share Farm Ground With Modern Equipment Sheds",
-       "href": "/locations/palmyra"
+       "href": "/service-areas/palmyra"
       },
       {
        "label": "Payson's Hospital Roof Doesn't Get the Same Schedule as Everything Else",
-       "href": "/locations/payson"
+       "href": "/service-areas/payson"
       },
       {
        "label": "Valley Grove Was Built to a Higher Standard. Every Tenant Buildout Since Has Tested It",
-       "href": "/locations/pleasant-grove"
+       "href": "/service-areas/pleasant-grove"
       },
       {
        "label": "A Shopping District Where the Roof Has to Look as Good as It Performs",
-       "href": "/locations/riverwoods"
+       "href": "/service-areas/riverwoods"
       },
       {
        "label": "Using a Recover to Add R-Value Instead of Just a New Membrane",
@@ -1450,23 +1450,23 @@
      "related": [
       {
        "label": "Orem's State Street Retail Roofs and the Cost of Skipping Insulation",
-       "href": "/locations/orem"
+       "href": "/service-areas/orem"
       },
       {
        "label": "Palmyra's Century-Old Barns Share Farm Ground With Modern Equipment Sheds",
-       "href": "/locations/palmyra"
+       "href": "/service-areas/palmyra"
       },
       {
        "label": "Payson's Hospital Roof Doesn't Get the Same Schedule as Everything Else",
-       "href": "/locations/payson"
+       "href": "/service-areas/payson"
       },
       {
        "label": "Valley Grove Was Built to a Higher Standard. Every Tenant Buildout Since Has Tested It",
-       "href": "/locations/pleasant-grove"
+       "href": "/service-areas/pleasant-grove"
       },
       {
        "label": "A Shopping District Where the Roof Has to Look as Good as It Performs",
-       "href": "/locations/riverwoods"
+       "href": "/service-areas/riverwoods"
       },
       {
        "label": "Stopping Water Before Canyon Wind Damage Reaches the Insulation",
@@ -1516,23 +1516,23 @@
      "related": [
       {
        "label": "Camp Floyd's Historic Roofs and Fairfield's Ranches Need Two Different Approaches",
-       "href": "/locations/fairfield"
+       "href": "/service-areas/fairfield"
       },
       {
        "label": "Goshen's Cattle Buildings Sit Right at the Lake's Edge Humidity Line",
-       "href": "/locations/goshen"
+       "href": "/service-areas/goshen"
       },
       {
        "label": "Neighborhood Retail in an Affluent Bedroom Community Gets Judged on Sight",
-       "href": "/locations/highland"
+       "href": "/service-areas/highland"
       },
       {
        "label": "Lake Shore Sits Close Enough to Utah Lake That the Roof Deck Feels It",
-       "href": "/locations/lake-shore"
+       "href": "/service-areas/lake-shore"
       },
       {
        "label": "Building the Roof Assembly to Match Lehi's Office Cooling Loads",
-       "href": "/locations/lehi"
+       "href": "/service-areas/lehi"
       },
       {
        "label": "White TPO Membranes and the Silicon Slopes Cooling Load Problem",
@@ -1582,23 +1582,23 @@
      "related": [
       {
        "label": "West Mountain's Orchard Ground Puts Packing Sheds on a Tight Harvest Clock",
-       "href": "/locations/west-mountain"
+       "href": "/service-areas/west-mountain"
       },
       {
        "label": "Woodland Hills Has Three Roofs That Matter, and We Know All Three",
-       "href": "/locations/woodland-hills"
+       "href": "/service-areas/woodland-hills"
       },
       {
        "label": "Alpine's Main Street Core Is Small, and That's the Whole Point",
-       "href": "/locations/alpine"
+       "href": "/service-areas/alpine"
       },
       {
        "label": "American Fork's Roofs Range From a Hospital to a Strip Mall, and the Spec Has to Follow",
-       "href": "/locations/american-fork"
+       "href": "/service-areas/american-fork"
       },
       {
        "label": "Benjamin's Dairy Barns Sit Between Farm Ground and the Slough's Standing Moisture",
-       "href": "/locations/benjamin"
+       "href": "/service-areas/benjamin"
       },
       {
        "label": "Finding Wet Insulation Before It Shows Up on the Utility Bill",
@@ -1644,23 +1644,23 @@
      "related": [
       {
        "label": "Cedar Fort's Ranch and Equestrian Roofs Sit on the Valley's Quiet Edge",
-       "href": "/locations/cedar-fort"
+       "href": "/service-areas/cedar-fort"
       },
       {
        "label": "Cedar Hills' Clubhouse and Corner-Lot Roofs, Sized for Bench-Elevation Snow",
-       "href": "/locations/cedar-hills"
+       "href": "/service-areas/cedar-hills"
       },
       {
        "label": "Old Bar Joist Decks Under Center Street's Storefronts Need a Different Read",
-       "href": "/locations/downtown-provo"
+       "href": "/service-areas/downtown-provo"
       },
       {
        "label": "What the Data Center Boom Means for Roofs Going Up Around It",
-       "href": "/locations/eagle-mountain"
+       "href": "/service-areas/eagle-mountain"
       },
       {
        "label": "South Provo's Big Flat Roofs and What They Do to a Utility Bill",
-       "href": "/locations/east-bay"
+       "href": "/service-areas/east-bay"
       },
       {
        "label": "Maintenance Scheduled Around Snow Load and Canyon Wind, Not the Calendar",
@@ -1706,23 +1706,23 @@
      "related": [
       {
        "label": "Lake Shore Sits Close Enough to Utah Lake That the Roof Deck Feels It",
-       "href": "/locations/lake-shore"
+       "href": "/service-areas/lake-shore"
       },
       {
        "label": "Building the Roof Assembly to Match Lehi's Office Cooling Loads",
-       "href": "/locations/lehi"
+       "href": "/service-areas/lehi"
       },
       {
        "label": "Geneva Road's Flex Buildings Need Two Different Roof Answers, Not One",
-       "href": "/locations/lindon"
+       "href": "/service-areas/lindon"
       },
       {
        "label": "A Bedroom Community Where Commercial Roofing Means a Handful of Buildings",
-       "href": "/locations/mapleton"
+       "href": "/service-areas/mapleton"
       },
       {
        "label": "Orem's State Street Retail Roofs and the Cost of Skipping Insulation",
-       "href": "/locations/orem"
+       "href": "/service-areas/orem"
       },
       {
        "label": "Documenting Roof Damage the Way an Adjuster Actually Needs to See It",
@@ -1772,23 +1772,23 @@
      "related": [
       {
        "label": "Neighborhood Retail in an Affluent Bedroom Community Gets Judged on Sight",
-       "href": "/locations/highland"
+       "href": "/service-areas/highland"
       },
       {
        "label": "Lake Shore Sits Close Enough to Utah Lake That the Roof Deck Feels It",
-       "href": "/locations/lake-shore"
+       "href": "/service-areas/lake-shore"
       },
       {
        "label": "Building the Roof Assembly to Match Lehi's Office Cooling Loads",
-       "href": "/locations/lehi"
+       "href": "/service-areas/lehi"
       },
       {
        "label": "Geneva Road's Flex Buildings Need Two Different Roof Answers, Not One",
-       "href": "/locations/lindon"
+       "href": "/service-areas/lindon"
       },
       {
        "label": "A Bedroom Community Where Commercial Roofing Means a Handful of Buildings",
-       "href": "/locations/mapleton"
+       "href": "/service-areas/mapleton"
       },
       {
        "label": "Drainage Sized for What Spring Snowmelt Actually Sends Down a Roof",
@@ -1838,23 +1838,23 @@
      "related": [
       {
        "label": "Cedar Hills' Clubhouse and Corner-Lot Roofs, Sized for Bench-Elevation Snow",
-       "href": "/locations/cedar-hills"
+       "href": "/service-areas/cedar-hills"
       },
       {
        "label": "Old Bar Joist Decks Under Center Street's Storefronts Need a Different Read",
-       "href": "/locations/downtown-provo"
+       "href": "/service-areas/downtown-provo"
       },
       {
        "label": "What the Data Center Boom Means for Roofs Going Up Around It",
-       "href": "/locations/eagle-mountain"
+       "href": "/service-areas/eagle-mountain"
       },
       {
        "label": "South Provo's Big Flat Roofs and What They Do to a Utility Bill",
-       "href": "/locations/east-bay"
+       "href": "/service-areas/east-bay"
       },
       {
        "label": "Elberta Is a Crossroads, and We Roof the Handful of Buildings Actually There",
-       "href": "/locations/elberta"
+       "href": "/service-areas/elberta"
       },
       {
        "label": "Reroofing Silicon Slopes Offices and Aging State Street Buildings",
@@ -1904,23 +1904,23 @@
      "related": [
       {
        "label": "Cedar Fort's Ranch and Equestrian Roofs Sit on the Valley's Quiet Edge",
-       "href": "/locations/cedar-fort"
+       "href": "/service-areas/cedar-fort"
       },
       {
        "label": "Cedar Hills' Clubhouse and Corner-Lot Roofs, Sized for Bench-Elevation Snow",
-       "href": "/locations/cedar-hills"
+       "href": "/service-areas/cedar-hills"
       },
       {
        "label": "Old Bar Joist Decks Under Center Street's Storefronts Need a Different Read",
-       "href": "/locations/downtown-provo"
+       "href": "/service-areas/downtown-provo"
       },
       {
        "label": "What the Data Center Boom Means for Roofs Going Up Around It",
-       "href": "/locations/eagle-mountain"
+       "href": "/service-areas/eagle-mountain"
       },
       {
        "label": "South Provo's Big Flat Roofs and What They Do to a Utility Bill",
-       "href": "/locations/east-bay"
+       "href": "/service-areas/east-bay"
       },
       {
        "label": "Concealed-Fastener Panels for Snow-Shedding Roofs Above Provo Canyon",
@@ -1970,23 +1970,23 @@
      "related": [
       {
        "label": "Building the Roof Assembly to Match Lehi's Office Cooling Loads",
-       "href": "/locations/lehi"
+       "href": "/service-areas/lehi"
       },
       {
        "label": "Geneva Road's Flex Buildings Need Two Different Roof Answers, Not One",
-       "href": "/locations/lindon"
+       "href": "/service-areas/lindon"
       },
       {
        "label": "A Bedroom Community Where Commercial Roofing Means a Handful of Buildings",
-       "href": "/locations/mapleton"
+       "href": "/service-areas/mapleton"
       },
       {
        "label": "Orem's State Street Retail Roofs and the Cost of Skipping Insulation",
-       "href": "/locations/orem"
+       "href": "/service-areas/orem"
       },
       {
        "label": "Payson's Hospital Roof Doesn't Get the Same Schedule as Everything Else",
-       "href": "/locations/payson"
+       "href": "/service-areas/payson"
       },
       {
        "label": "Why Grease and Chemical Exposure Push Owners Toward PVC",
@@ -2036,23 +2036,23 @@
      "related": [
       {
        "label": "A Small Commercial Core Growing Alongside a Fast-Building Residential Town",
-       "href": "/locations/salem"
+       "href": "/service-areas/salem"
       },
       {
        "label": "Fruit Processing Buildings Fight Moisture From the Inside Out",
-       "href": "/locations/santaquin"
+       "href": "/service-areas/santaquin"
       },
       {
        "label": "Saratoga Springs Is Building Faster Than Most Owners Can Track What Went on Their Roof",
-       "href": "/locations/saratoga-springs"
+       "href": "/service-areas/saratoga-springs"
       },
       {
        "label": "Spanish Fork's New Distribution Buildings Need Roofs Sized to What's Stored Underneath",
-       "href": "/locations/spanish-fork"
+       "href": "/service-areas/spanish-fork"
       },
       {
        "label": "On Springville's Manufacturing Roofs, the Heat Problem Comes From Underneath",
-       "href": "/locations/springville"
+       "href": "/service-areas/springville"
       },
       {
        "label": "Exposed-Fastener R-Panel on Spanish Fork and Springville Industrial Buildings",
@@ -2102,23 +2102,23 @@
      "related": [
       {
        "label": "Genola's Grain Bins and Pole Barns Face Open Wind With No Windbreak",
-       "href": "/locations/genola"
+       "href": "/service-areas/genola"
       },
       {
        "label": "Goshen's Cattle Buildings Sit Right at the Lake's Edge Humidity Line",
-       "href": "/locations/goshen"
+       "href": "/service-areas/goshen"
       },
       {
        "label": "Neighborhood Retail in an Affluent Bedroom Community Gets Judged on Sight",
-       "href": "/locations/highland"
+       "href": "/service-areas/highland"
       },
       {
        "label": "Lake Shore Sits Close Enough to Utah Lake That the Roof Deck Feels It",
-       "href": "/locations/lake-shore"
+       "href": "/service-areas/lake-shore"
       },
       {
        "label": "Building the Roof Assembly to Match Lehi's Office Cooling Loads",
-       "href": "/locations/lehi"
+       "href": "/service-areas/lehi"
       },
       {
        "label": "Concealed-Fastener Panels for Snow-Shedding Roofs Above Provo Canyon",
@@ -2168,23 +2168,23 @@
      "related": [
       {
        "label": "A Shopping District Where the Roof Has to Look as Good as It Performs",
-       "href": "/locations/riverwoods"
+       "href": "/service-areas/riverwoods"
       },
       {
        "label": "A Small Commercial Core Growing Alongside a Fast-Building Residential Town",
-       "href": "/locations/salem"
+       "href": "/service-areas/salem"
       },
       {
        "label": "Fruit Processing Buildings Fight Moisture From the Inside Out",
-       "href": "/locations/santaquin"
+       "href": "/service-areas/santaquin"
       },
       {
        "label": "Saratoga Springs Is Building Faster Than Most Owners Can Track What Went on Their Roof",
-       "href": "/locations/saratoga-springs"
+       "href": "/service-areas/saratoga-springs"
       },
       {
        "label": "Spanish Fork's New Distribution Buildings Need Roofs Sized to What's Stored Underneath",
-       "href": "/locations/spanish-fork"
+       "href": "/service-areas/spanish-fork"
       },
       {
        "label": "Concealed-Fastener Panels for Snow-Shedding Roofs Above Provo Canyon",
@@ -2260,7 +2260,7 @@
       },
       {
        "label": "Vineyard Is Building an Entire Commercial District From an Empty Slab",
-       "href": "/locations/vineyard"
+       "href": "/service-areas/vineyard"
       },
       {
        "label": "Roofing Medical Office Buildings Around Utah Valley's Hospital Campuses",
@@ -2322,7 +2322,7 @@
       },
       {
        "label": "Benjamin's Dairy Barns Sit Between Farm Ground and the Slough's Standing Moisture",
-       "href": "/locations/benjamin"
+       "href": "/service-areas/benjamin"
       },
       {
        "label": "Big-Box Roofs Along University Parkway and State Street",
@@ -2376,7 +2376,7 @@
       },
       {
        "label": "What the Data Center Boom Means for Roofs Going Up Around It",
-       "href": "/locations/eagle-mountain"
+       "href": "/service-areas/eagle-mountain"
       },
       {
        "label": "Restaurant Roofs Along University Parkway and State Street",
@@ -2438,7 +2438,7 @@
       },
       {
        "label": "What the Data Center Boom Means for Roofs Going Up Around It",
-       "href": "/locations/eagle-mountain"
+       "href": "/service-areas/eagle-mountain"
       },
       {
        "label": "Restaurant Roofs Along University Parkway and State Street",
@@ -2574,7 +2574,7 @@
       },
       {
        "label": "Old Bar Joist Decks Under Center Street's Storefronts Need a Different Read",
-       "href": "/locations/downtown-provo"
+       "href": "/service-areas/downtown-provo"
       },
       {
        "label": "Warehouse Roofs Along Geneva Road and the I-15 Industrial Corridor",
@@ -2764,7 +2764,7 @@
       },
       {
        "label": "Old Bar Joist Decks Under Center Street's Storefronts Need a Different Read",
-       "href": "/locations/downtown-provo"
+       "href": "/service-areas/downtown-provo"
       },
       {
        "label": "Big-Box Roofs Along University Parkway and State Street",
@@ -2830,7 +2830,7 @@
       },
       {
        "label": "Vineyard Is Building an Entire Commercial District From an Empty Slab",
-       "href": "/locations/vineyard"
+       "href": "/service-areas/vineyard"
       },
       {
        "label": "Apartment and Student Housing Roofs Around BYU and UVU",
@@ -2888,7 +2888,7 @@
       },
       {
        "label": "Old Bar Joist Decks Under Center Street's Storefronts Need a Different Read",
-       "href": "/locations/downtown-provo"
+       "href": "/service-areas/downtown-provo"
       },
       {
        "label": "Grocery Store Roofs That Have to Protect Refrigeration First",
@@ -2950,7 +2950,7 @@
       },
       {
        "label": "Old Bar Joist Decks Under Center Street's Storefronts Need a Different Read",
-       "href": "/locations/downtown-provo"
+       "href": "/service-areas/downtown-provo"
       },
       {
        "label": "Hotel Roofs From Downtown Provo to the Resort Properties Up the Canyon",
@@ -3008,7 +3008,7 @@
       },
       {
        "label": "Spanish Fork's New Distribution Buildings Need Roofs Sized to What's Stored Underneath",
-       "href": "/locations/spanish-fork"
+       "href": "/service-areas/spanish-fork"
       },
       {
        "label": "Apartment and Student Housing Roofs Around BYU and UVU",
@@ -3074,7 +3074,7 @@
       },
       {
        "label": "A Bedroom Community Where Commercial Roofing Means a Handful of Buildings",
-       "href": "/locations/mapleton"
+       "href": "/service-areas/mapleton"
       },
       {
        "label": "Big-Box Roofs Along University Parkway and State Street",
@@ -3132,7 +3132,7 @@
       },
       {
        "label": "Spring Lake's Roadside Buildings Sit on the Old Highway, Not the Freeway",
-       "href": "/locations/spring-lake"
+       "href": "/service-areas/spring-lake"
       },
       {
        "label": "Apartment and Student Housing Roofs Around BYU and UVU",
@@ -3194,7 +3194,7 @@
       },
       {
        "label": "Building the Roof Assembly to Match Lehi's Office Cooling Loads",
-       "href": "/locations/lehi"
+       "href": "/service-areas/lehi"
       },
       {
        "label": "Restaurant Roofs Along University Parkway and State Street",
@@ -3252,7 +3252,7 @@
       },
       {
        "label": "Lake Shore Sits Close Enough to Utah Lake That the Roof Deck Feels It",
-       "href": "/locations/lake-shore"
+       "href": "/service-areas/lake-shore"
       },
       {
        "label": "Restaurant Roofs Along University Parkway and State Street",
@@ -3314,7 +3314,7 @@
       },
       {
        "label": "Benjamin's Dairy Barns Sit Between Farm Ground and the Slough's Standing Moisture",
-       "href": "/locations/benjamin"
+       "href": "/service-areas/benjamin"
       },
       {
        "label": "Grocery Store Roofs That Have to Protect Refrigeration First",
@@ -3368,7 +3368,7 @@
       },
       {
        "label": "What the Data Center Boom Means for Roofs Going Up Around It",
-       "href": "/locations/eagle-mountain"
+       "href": "/service-areas/eagle-mountain"
       },
       {
        "label": "Restaurant Roofs Along University Parkway and State Street",
@@ -3418,7 +3418,7 @@
       },
       {
        "label": "Geneva Road's Flex Buildings Need Two Different Roof Answers, Not One",
-       "href": "/locations/lindon"
+       "href": "/service-areas/lindon"
       },
       {
        "label": "Gym and Fitness Center Roofs Over Large Open-Volume Spaces",
@@ -3472,7 +3472,7 @@
       },
       {
        "label": "Geneva Road's Flex Buildings Need Two Different Roof Answers, Not One",
-       "href": "/locations/lindon"
+       "href": "/service-areas/lindon"
       },
       {
        "label": "Apartment and Student Housing Roofs Around BYU and UVU",
@@ -3534,7 +3534,7 @@
       },
       {
        "label": "Neighborhood Retail in an Affluent Bedroom Community Gets Judged on Sight",
-       "href": "/locations/highland"
+       "href": "/service-areas/highland"
       },
       {
        "label": "Grocery Store Roofs That Have to Protect Refrigeration First",
@@ -3596,7 +3596,7 @@
       },
       {
        "label": "American Fork's Roofs Range From a Hospital to a Strip Mall, and the Spec Has to Follow",
-       "href": "/locations/american-fork"
+       "href": "/service-areas/american-fork"
       },
       {
        "label": "Strip Center Roofs Along State Street and Sandhill Road",
@@ -3654,7 +3654,7 @@
       },
       {
        "label": "Genola's Grain Bins and Pole Barns Face Open Wind With No Windbreak",
-       "href": "/locations/genola"
+       "href": "/service-areas/genola"
       },
       {
        "label": "Strip Center Roofs Along State Street and Sandhill Road",
@@ -3726,7 +3726,7 @@
       },
       {
        "label": "American Fork's Roofs Range From a Hospital to a Strip Mall, and the Spec Has to Follow",
-       "href": "/locations/american-fork"
+       "href": "/service-areas/american-fork"
       },
       {
        "label": "Office Roofs Between the Silicon Slopes Corridor and Downtown Provo",
@@ -3792,7 +3792,7 @@
       },
       {
        "label": "Valley Grove Was Built to a Higher Standard. Every Tenant Buildout Since Has Tested It",
-       "href": "/locations/pleasant-grove"
+       "href": "/service-areas/pleasant-grove"
       },
       {
        "label": "Strip Center Roofs Along State Street and Sandhill Road",
@@ -3858,7 +3858,7 @@
       },
       {
        "label": "Saratoga Springs Is Building Faster Than Most Owners Can Track What Went on Their Roof",
-       "href": "/locations/saratoga-springs"
+       "href": "/service-areas/saratoga-springs"
       },
       {
        "label": "Strip Center Roofs Along State Street and Sandhill Road",
@@ -3924,7 +3924,7 @@
       },
       {
        "label": "West Mountain's Orchard Ground Puts Packing Sheds on a Tight Harvest Clock",
-       "href": "/locations/west-mountain"
+       "href": "/service-areas/west-mountain"
       },
       {
        "label": "Gym and Fitness Center Roofs Over Large Open-Volume Spaces",
@@ -3990,7 +3990,7 @@
       },
       {
        "label": "Valley Grove Was Built to a Higher Standard. Every Tenant Buildout Since Has Tested It",
-       "href": "/locations/pleasant-grove"
+       "href": "/service-areas/pleasant-grove"
       },
       {
        "label": "Big-Box Roofs Along University Parkway and State Street",
@@ -4052,7 +4052,7 @@
       },
       {
        "label": "Spring Lake's Roadside Buildings Sit on the Old Highway, Not the Freeway",
-       "href": "/locations/spring-lake"
+       "href": "/service-areas/spring-lake"
       },
       {
        "label": "School Roofs Across Alpine, Provo City, and Nebo Districts",
@@ -4118,7 +4118,7 @@
       },
       {
        "label": "Vineyard Is Building an Entire Commercial District From an Empty Slab",
-       "href": "/locations/vineyard"
+       "href": "/service-areas/vineyard"
       },
       {
        "label": "Roofing for Provo and Orem's University Buildings",
@@ -4184,7 +4184,7 @@
       },
       {
        "label": "Vineyard Is Building an Entire Commercial District From an Empty Slab",
-       "href": "/locations/vineyard"
+       "href": "/service-areas/vineyard"
       },
       {
        "label": "Grocery Store Roofs That Have to Protect Refrigeration First",
@@ -4252,7 +4252,7 @@
       },
       {
        "label": "Orem's State Street Retail Roofs and the Cost of Skipping Insulation",
-       "href": "/locations/orem"
+       "href": "/service-areas/orem"
       },
       {
        "label": "Grocery Store Roofs That Have to Protect Refrigeration First",
@@ -4314,7 +4314,7 @@
       },
       {
        "label": "Point of the Mountain's Industrial Roofs Carry a Heavier Mechanical Load",
-       "href": "/locations/bluffdale"
+       "href": "/service-areas/bluffdale"
       },
       {
        "label": "Big-Box Roofs Along University Parkway and State Street",
@@ -4380,7 +4380,7 @@
       },
       {
        "label": "Cedar Hills' Clubhouse and Corner-Lot Roofs, Sized for Bench-Elevation Snow",
-       "href": "/locations/cedar-hills"
+       "href": "/service-areas/cedar-hills"
       },
       {
        "label": "Apartment and Student Housing Roofs Around BYU and UVU",
@@ -4446,7 +4446,7 @@
       },
       {
        "label": "Elberta Is a Crossroads, and We Roof the Handful of Buildings Actually There",
-       "href": "/locations/elberta"
+       "href": "/service-areas/elberta"
       },
       {
        "label": "Warehouse Roofs Along Geneva Road and the I-15 Industrial Corridor",
@@ -4508,7 +4508,7 @@
       },
       {
        "label": "Elberta Is a Crossroads, and We Roof the Handful of Buildings Actually There",
-       "href": "/locations/elberta"
+       "href": "/service-areas/elberta"
       },
       {
        "label": "Apartment and Student Housing Roofs Around BYU and UVU",
@@ -4570,7 +4570,7 @@
       },
       {
        "label": "A Small Commercial Core Growing Alongside a Fast-Building Residential Town",
-       "href": "/locations/salem"
+       "href": "/service-areas/salem"
       },
       {
        "label": "Gym and Fitness Center Roofs Over Large Open-Volume Spaces",
@@ -4632,7 +4632,7 @@
       },
       {
        "label": "A Bedroom Community Where Commercial Roofing Means a Handful of Buildings",
-       "href": "/locations/mapleton"
+       "href": "/service-areas/mapleton"
       },
       {
        "label": "School Roofs Across Alpine, Provo City, and Nebo Districts",
@@ -4698,7 +4698,7 @@
       },
       {
        "label": "Palmyra's Century-Old Barns Share Farm Ground With Modern Equipment Sheds",
-       "href": "/locations/palmyra"
+       "href": "/service-areas/palmyra"
       },
       {
        "label": "Restaurant Roofs Along University Parkway and State Street",
@@ -4770,7 +4770,7 @@
       },
       {
        "label": "Fruit Processing Buildings Fight Moisture From the Inside Out",
-       "href": "/locations/santaquin"
+       "href": "/service-areas/santaquin"
       },
       {
        "label": "Roofs Designed Around What's Running Underneath Them",
@@ -4816,7 +4816,7 @@
       },
       {
        "label": "Sundance's Steep-Slope Lodge Roofs Carry Canyon Snow Load Most of the Valley Never Sees",
-       "href": "/locations/sundance"
+       "href": "/service-areas/sundance"
       },
       {
        "label": "One Roof Program Across a Dozen Storefronts in Utah County",
@@ -4862,7 +4862,7 @@
       },
       {
        "label": "West Mountain's Orchard Ground Puts Packing Sheds on a Tight Harvest Clock",
-       "href": "/locations/west-mountain"
+       "href": "/service-areas/west-mountain"
       },
       {
        "label": "One Roof Program Across a Dozen Storefronts in Utah County",
@@ -4908,7 +4908,7 @@
       },
       {
        "label": "American Fork's Roofs Range From a Hospital to a Strip Mall, and the Spec Has to Follow",
-       "href": "/locations/american-fork"
+       "href": "/service-areas/american-fork"
       },
       {
        "label": "Roofs Designed Around What's Running Underneath Them",
@@ -4954,7 +4954,7 @@
       },
       {
        "label": "Benjamin's Dairy Barns Sit Between Farm Ground and the Slough's Standing Moisture",
-       "href": "/locations/benjamin"
+       "href": "/service-areas/benjamin"
       },
       {
        "label": "Managing Roof Risk Across a Portfolio, Not Simply One Building",
@@ -5000,7 +5000,7 @@
       },
       {
        "label": "Vineyard Is Building an Entire Commercial District From an Empty Slab",
-       "href": "/locations/vineyard"
+       "href": "/service-areas/vineyard"
       },
       {
        "label": "Managing Roof Risk Across a Portfolio, Not Simply One Building",
@@ -5046,7 +5046,7 @@
       },
       {
        "label": "Vineyard Is Building an Entire Commercial District From an Empty Slab",
-       "href": "/locations/vineyard"
+       "href": "/service-areas/vineyard"
       },
       {
        "label": "One Roof Program Across a Dozen Storefronts in Utah County",
@@ -5092,7 +5092,7 @@
       },
       {
        "label": "Camp Floyd's Historic Roofs and Fairfield's Ranches Need Two Different Approaches",
-       "href": "/locations/fairfield"
+       "href": "/service-areas/fairfield"
       },
       {
        "label": "Roofs Designed Around What's Running Underneath Them",
@@ -5138,7 +5138,7 @@
       },
       {
        "label": "Cedar Fort's Ranch and Equestrian Roofs Sit on the Valley's Quiet Edge",
-       "href": "/locations/cedar-fort"
+       "href": "/service-areas/cedar-fort"
       },
       {
        "label": "A Roofing Sub That Keeps Your Schedule, Not Ours",
@@ -5184,7 +5184,7 @@
       },
       {
        "label": "Point of the Mountain's Industrial Roofs Carry a Heavier Mechanical Load",
-       "href": "/locations/bluffdale"
+       "href": "/service-areas/bluffdale"
       },
       {
        "label": "One Roof Program Across a Dozen Storefronts in Utah County",
@@ -5230,7 +5230,7 @@
       },
       {
        "label": "Camp Floyd's Historic Roofs and Fairfield's Ranches Need Two Different Approaches",
-       "href": "/locations/fairfield"
+       "href": "/service-areas/fairfield"
       },
       {
        "label": "Documenting a Roof Loss So the Claim Actually Reflects the Damage",
@@ -5276,7 +5276,7 @@
       },
       {
        "label": "Spring Lake's Roadside Buildings Sit on the Old Highway, Not the Freeway",
-       "href": "/locations/spring-lake"
+       "href": "/service-areas/spring-lake"
       },
       {
        "label": "Public Buildings, Public Money, and a Bid That Holds Up",
@@ -5328,7 +5328,7 @@
       },
       {
        "label": "South Provo's Big Flat Roofs and What They Do to a Utility Bill",
-       "href": "/locations/east-bay"
+       "href": "/service-areas/east-bay"
       },
       {
        "label": "Gym and Fitness Center Roofs Over Large Open-Volume Spaces",
@@ -5374,7 +5374,7 @@
       },
       {
        "label": "Alpine's Main Street Core Is Small, and That's the Whole Point",
-       "href": "/locations/alpine"
+       "href": "/service-areas/alpine"
       },
       {
        "label": "Strip Center Roofs Along State Street and Sandhill Road",
@@ -5420,7 +5420,7 @@
       },
       {
        "label": "Saratoga Springs Is Building Faster Than Most Owners Can Track What Went on Their Roof",
-       "href": "/locations/saratoga-springs"
+       "href": "/service-areas/saratoga-springs"
       },
       {
        "label": "Big-Box Roofs Along University Parkway and State Street",
@@ -5466,7 +5466,7 @@
       },
       {
        "label": "A Small Commercial Core Growing Alongside a Fast-Building Residential Town",
-       "href": "/locations/salem"
+       "href": "/service-areas/salem"
       },
       {
        "label": "Strip Center Roofs Along State Street and Sandhill Road",
@@ -5512,7 +5512,7 @@
       },
       {
        "label": "South Provo's Big Flat Roofs and What They Do to a Utility Bill",
-       "href": "/locations/east-bay"
+       "href": "/service-areas/east-bay"
       },
       {
        "label": "Grocery Store Roofs That Have to Protect Refrigeration First",
@@ -5558,7 +5558,7 @@
       },
       {
        "label": "A Shopping District Where the Roof Has to Look as Good as It Performs",
-       "href": "/locations/riverwoods"
+       "href": "/service-areas/riverwoods"
       },
       {
        "label": "Roofing Medical Office Buildings Around Utah Valley's Hospital Campuses",
