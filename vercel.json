@@ -105,6 +105,14 @@
     {
       "source": "/capabilities/roof-asset-management/",
       "destination": "/capabilities/roof-asset-management.html"
+    },
+    {
+      "source": "/services/roof-lifting",
+      "destination": "/services/roof-lifting.html"
+    },
+    {
+      "source": "/services/roof-lifting/",
+      "destination": "/services/roof-lifting.html"
     }
   ],
   "buildCommand": "node scripts/normalize-contact-forms.mjs && node scripts/finalize-lead-controls.mjs",
