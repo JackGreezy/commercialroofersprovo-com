@@ -115,7 +115,7 @@
       "destination": "/services/roof-lifting.html"
     }
   ],
-  "buildCommand": "node scripts/normalize-contact-forms.mjs && node scripts/finalize-lead-controls.mjs",
+  "buildCommand": "node scripts/normalize-contact-forms.mjs && node scripts/finalize-lead-controls.mjs && node scripts/ensure-visible-phone.mjs",
   "redirects": [
     {
       "source": "/locations/:path*",

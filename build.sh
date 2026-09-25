@@ -38,3 +38,5 @@ python3 /Users/jackgreenberg/Desktop/rank-and-rent/David/clones/scripts/verify_s
   "$PROJ" --map "$MAP" --json "$PROJ/qa-out/verify.json"
 node /Users/jackgreenberg/Desktop/rank-and-rent/David/clones/scripts/qa_shots.mjs "$PROJ" --port 4881
 echo "BUILD COMPLETE — gates green. Human QA: open $PROJ/qa-out/CONTACT-SHEET.html"
+
+node "$PROJ/scripts/ensure-visible-phone.mjs"
