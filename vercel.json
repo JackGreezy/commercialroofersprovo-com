@@ -118,6 +118,11 @@
   "buildCommand": "node scripts/normalize-contact-forms.mjs && node scripts/finalize-lead-controls.mjs && node scripts/ensure-visible-phone.mjs",
   "redirects": [
     {
+      "source": "/cdn-cgi/l/email-protection",
+      "destination": "/contact",
+      "permanent": true
+    },
+    {
       "source": "/locations/:path*",
       "destination": "/service-areas/:path*",
       "permanent": true
