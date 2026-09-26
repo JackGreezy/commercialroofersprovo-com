@@ -12,26 +12,44 @@
   },
   {
     "route": "/services",
-    "addHeading": "Commercial Roofing Services"
+    "promote": {
+      "tag": "div",
+      "text": "Commercial Roofing Services"
+    }
   },
   {
     "route": "/roof-systems",
-    "addHeading": "Roof Systems"
+    "promote": {
+      "tag": "div",
+      "text": "Roof Systems"
+    }
   },
   {
     "route": "/industries",
-    "addHeading": "Industries We Serve"
+    "promote": {
+      "tag": "div",
+      "text": "Industries We Serve"
+    }
   },
   {
     "route": "/project-types",
-    "addHeading": "Commercial Project Types"
+    "promote": {
+      "tag": "div",
+      "text": "Commercial Project Types"
+    }
   },
   {
     "route": "/service-areas",
-    "addHeading": "Service Areas"
+    "promote": {
+      "tag": "div",
+      "text": "Service Areas"
+    }
   },
   {
     "route": "/manufacturers",
-    "addHeading": "Roofing Manufacturers"
+    "promote": {
+      "tag": "div",
+      "text": "Roofing Manufacturers"
+    }
   }
 ]
