@@ -1,0 +1,39 @@
+{
+  "domain": "commercialroofersprovo.com",
+  "images": {
+    "/images/brand/logo-on-light.png": {
+      "width": 692,
+      "height": 392,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/d3d7760fab7e6955.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/8666026b75ec4f7c.webp",
+          "width": 692
+        }
+      ],
+      "mobileSize": "145px"
+    },
+    "/images/brand/logo-on-dark.png": {
+      "width": 692,
+      "height": 392,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/e2660703a3d42196.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/06f1167c77dc79bd.webp",
+          "width": 692
+        }
+      ],
+      "mobileSize": "128px"
+    }
+  },
+  "lazyImages": [
+    "/images/brand/logo-on-dark.png"
+  ],
+  "lazyBackgrounds": []
+}
