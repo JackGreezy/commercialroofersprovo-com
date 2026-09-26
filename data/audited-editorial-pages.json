@@ -1,0 +1,37 @@
+[
+  {
+    "route": "/about",
+    "promote": {
+      "tag": "div",
+      "text": "About Commercial Roofers of Provo"
+    }
+  },
+  {
+    "route": "/contact",
+    "addHeading": "Request a Commercial Roof Assessment"
+  },
+  {
+    "route": "/services",
+    "addHeading": "Commercial Roofing Services"
+  },
+  {
+    "route": "/roof-systems",
+    "addHeading": "Roof Systems"
+  },
+  {
+    "route": "/industries",
+    "addHeading": "Industries We Serve"
+  },
+  {
+    "route": "/project-types",
+    "addHeading": "Commercial Project Types"
+  },
+  {
+    "route": "/service-areas",
+    "addHeading": "Service Areas"
+  },
+  {
+    "route": "/manufacturers",
+    "addHeading": "Roofing Manufacturers"
+  }
+]
