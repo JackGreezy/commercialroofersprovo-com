@@ -46,3 +46,75 @@ html body .hide-on-desktop[data-rr-mobile] a{color:#fff!important}
 @media(max-width:1100px){.provo-signal{grid-template-columns:repeat(3,1fr)}.provo-weather-grid{grid-template-columns:1fr 1fr}}
 @media(max-width:900px){.provo-header-help{display:none}.provo-hero{min-height:680px;padding:135px 24px 70px}.provo-signal{grid-template-columns:1fr 1fr}.provo-intro,.provo-inspection,.provo-lead{grid-template-columns:1fr}.provo-inspection-image{min-height:390px}.provo-service-grid,.provo-process-grid{grid-template-columns:1fr 1fr}.provo-sticky-help{align-items:center;background:var(--provo-orange);bottom:18px;box-shadow:0 12px 28px rgba(0,0,0,.3);color:#fff!important;display:flex;font-size:13px;font-weight:800;justify-content:center;min-height:52px;padding:0 20px;position:fixed;right:18px;text-decoration:none;text-transform:uppercase;z-index:1200}html body .hide-on-desktop[data-rr-mobile]{background:var(--provo-black)!important;bottom:0!important;height:100dvh!important;left:auto!important;max-width:min(86vw,340px)!important;overflow-y:auto!important;padding:72px 26px 28px!important;position:fixed!important;right:0!important;top:0!important;width:min(86vw,340px)!important;z-index:1302!important}html body .hide-on-desktop[data-rr-mobile] .rr-x{color:#fff!important;left:auto!important;position:absolute!important;right:14px!important;top:14px!important}html body.rr-nav-open .rr-scrim{z-index:1301!important}}
 @media(max-width:620px){.provo-actions{align-items:stretch;flex-direction:column}.provo-button{width:100%}.provo-signal,.provo-service-grid,.provo-weather-grid,.provo-process-grid{grid-template-columns:1fr}.provo-signal a{min-height:0}.provo-intro{grid-template-columns:1fr;padding-left:24px;padding-right:24px}.provo-copy{padding:58px 24px}.provo-contact{margin:0 18px 55px;padding:25px 20px}.provo-contact form{grid-template-columns:1fr}.provo-contact label.full,.provo-contact button,.provo-form-status{grid-column:auto}}
+
+/* inner-page repair v1: header help pill, detail column overlap */
+@media(min-width:901px){
+html body #tNav #navbar{width:min(1200px,calc(100% - 40px))!important;margin-left:auto!important;margin-right:auto!important}
+html body #navbar .provo-header-help{float:left!important;width:max-content!important;white-space:nowrap!important;gap:14px;padding:0 14px!important;margin-right:10px!important}
+html body #navbar .provo-header-help a{white-space:nowrap!important}
+html body #navbar #nav-search input{width:110px!important}
+}
+html body .prjdtlcont .prjcont{box-sizing:border-box!important;width:100%!important;max-width:100%!important}
+html body .prjdtlcont .prjcont>*{max-width:100%!important;box-sizing:border-box}
+@media(min-width:901px) and (max-width:1260px){
+html body #navbar #nav-button{width:80px!important}
+html body #navbar #nav-button a{font-size:12.5px!important;padding-left:2px!important;padding-right:2px!important}
+html body #navbar .provo-header-help{padding:0 10px!important;gap:10px}
+html body #navbar #nav-search{width:96px!important}
+html body #navbar #nav-search input{width:88px!important}
+}
+
+/* footer: the colour-scheme rule stacked a gradient box behind every footer block */
+html body footer#tFoot{background:#343432!important}
+html body footer#tFoot .rr-footer-brand-wrap,html body footer#tFoot #footer,html body footer#tFoot .rr-footer-ia,html body footer#tFoot .rr-footer-brand-logo,html body footer#tFoot .rr-footer-map{background:none!important;box-shadow:none!important}
+html body footer#tFoot .rr-footer-ia{position:relative!important;z-index:1;display:flex!important;flex-wrap:wrap!important;justify-content:center!important;gap:10px 22px!important;padding:22px 20px 34px!important;box-sizing:border-box!important}
+html body footer#tFoot .rr-footer-ia a{color:#d9d9d9!important}
+html body footer#tFoot .rr-footer-map{margin-bottom:26px!important}
+html body footer#tFoot #footer .copyright{color:#b7babc!important}
+html body footer#tFoot #footer{text-align:center}
+@media(max-width:767px){html body footer#tFoot{padding-bottom:90px!important}html body footer#tFoot #footer a{display:inline-block;padding:4px 0}}
+
+/* intent page template (capabilities/roof-asset-management): readable body copy, padded column, styled FAQ and funnel */
+html body .rh-intent-page .rh-intent-hero{padding:64px 24px 52px!important;background:#eef2f6!important}
+html body .rh-intent-page .rh-intent-hero>div,html body .rh-intent-page .rh-intent-content,html body .rh-intent-page .rh-leak-funnel{max-width:1000px!important;margin-left:auto!important;margin-right:auto!important;box-sizing:border-box!important}
+html body .rh-intent-page .rh-intent-hero h1{font-size:clamp(32px,5vw,56px)!important;line-height:1.08!important;color:#2b2b29!important}
+html body .rh-intent-page .rh-intent-hero p{font-size:18px!important;line-height:1.7!important;max-width:820px}
+html body .rh-intent-page .rh-intent-content{padding:48px 24px 12px!important}
+html body .rh-intent-page .rh-intent-content p,html body .rh-intent-page .rh-intent-content li{font-size:17px!important;line-height:1.75!important;color:#26323d!important;margin:0 0 16px!important}
+html body .rh-intent-page .rh-intent-content h2{font-size:clamp(24px,2.6vw,32px)!important;line-height:1.2!important;color:#2b2b29!important;margin:0 0 14px!important}
+html body .rh-intent-page .rh-intent-content ul{padding-left:24px!important;margin:0 0 16px!important}
+html body .rh-intent-page .rh-intent-content section{margin-bottom:34px!important}
+html body .rh-intent-page details{border:1px solid #d3dbe3!important;border-radius:6px!important;background:#fff!important;margin:0 0 12px!important;padding:0 20px!important}
+html body .rh-intent-page details>summary{cursor:pointer!important;padding:16px 28px 16px 0!important;font-size:18px!important;font-weight:700!important;line-height:1.35!important;color:#2b2b29!important}
+html body .rh-intent-page details[open]>summary{border-bottom:1px solid #e3e8ee!important;margin-bottom:14px!important}
+html body .rh-intent-page details>p{margin:0 0 18px!important}
+html body .rh-intent-page .rh-leak-funnel{padding:24px 24px 64px!important}
+html body .rh-intent-page .rh-leak-funnel header{background:none!important;box-shadow:none!important;padding:0!important;color:#2b2b29!important}
+html body .rh-intent-page .rh-leak-funnel header h2{font-size:clamp(26px,3vw,36px)!important;line-height:1.15!important;color:#2b2b29!important;margin:6px 0 12px!important}
+html body .rh-intent-page .rh-leak-funnel header p{font-size:17px!important;line-height:1.65!important;color:#26323d!important}
+html body .rh-intent-page .rh-leak-funnel header>p:first-child{font-size:13px!important;color:#d8491d!important}
+html body .rh-intent-page .rh-leak-funnel-grid a{border:1px solid #c6d1db!important;border-radius:6px!important;background:#fff!important;color:#2b2b29!important;min-height:112px!important;padding:18px 20px!important}
+html body .rh-intent-page .rh-leak-funnel-grid a:hover{border-color:#d8491d!important}
+html body .rh-intent-page .rh-leak-funnel-grid span{font-size:14px!important;opacity:.8!important;color:#3b4a57!important}
+html body .rh-intent-page .rh-leak-funnel-grid strong{font-size:18px!important}
+html body .rh-intent-page .rh-intent-cta,html body .rh-intent-page .rh-leak-funnel-contact a{font-size:16px!important;border-radius:3px!important}
+html body a.rh-rain-intent-link{display:block!important;width:fit-content!important;margin:0 auto 8px!important;max-width:952px!important;box-sizing:border-box!important}
+
+/* privacy and terms: body copy sits in <main> ahead of the title band; reorder and pad the column */
+html body #tWrap:has(>main){display:flex!important;flex-direction:column!important}
+html body #tWrap>header{order:0}
+html body #tWrap>#clearer{order:1}
+html body #tWrap>#tBody{order:2}
+html body #tWrap>main{order:3;width:100%;max-width:860px;margin:0 auto;padding:40px 24px 72px;box-sizing:border-box}
+html body #tWrap>footer{order:4}
+html body #tWrap>main h1{position:absolute!important;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+html body #tWrap>main h2{font-size:26px!important;line-height:1.25!important;color:#2b2b29!important;margin:32px 0 10px!important}
+html body #tWrap>main p{font-size:17px!important;line-height:1.75!important;color:#2b2b29!important;margin:0 0 16px!important}
+html body #tWrap>main a{overflow-wrap:anywhere}
+
+/* contact form: message box was squeezed inside the dark button bar */
+html body form[data-contact-form] .sendbtn:has(textarea){display:block!important;background:none!important;height:auto!important;width:100%!important;max-width:458px;padding:0!important}
+html body form[data-contact-form] .sendbtn label{display:block!important;width:100%;color:#2b2b29!important;font-size:14px;font-weight:600;margin:0 0 6px}
+html body form[data-contact-form] .sendbtn textarea{display:block!important;width:100%!important;max-width:458px;box-sizing:border-box;min-height:140px;padding:12px 14px!important;border:1px solid #b9b9b6!important;background:#fff!important;color:#2b2b29!important;font:inherit;font-size:16px;margin:0 0 14px}
+html body form[data-contact-form] .inpcont input,html body form[data-contact-form] .styled-select select{max-width:458px;width:100%;box-sizing:border-box}
+html body form[data-contact-form] button.sendbtn{display:inline-block!important;background:#d8491d!important;color:#fff!important;font-weight:800;letter-spacing:.06em;text-transform:uppercase;min-height:48px;height:auto!important}
