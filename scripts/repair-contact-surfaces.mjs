@@ -34,6 +34,21 @@ for (const name of ['rendered-pages.json', 'routes.generated.json', 'site-pages.
     if (label) { const clean = label.replace(/,\s*[A-Z]{2}$/, '').trim(); names.set(clean.toLowerCase(), clean); }
   }
 }
+function collectHtmlNames(dir) {
+  if (!fs.existsSync(dir)) return;
+  for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
+    if (['node_modules', '.git', '.next', 'assets-f', 'images', 'ours'].includes(entry.name)) continue;
+    const file = path.join(dir, entry.name);
+    if (entry.isDirectory()) { collectHtmlNames(file); continue; }
+    if (!entry.isFile() || !entry.name.endsWith('.html') || !/(?:service-areas|locations)/.test(file)) continue;
+    const html = fs.readFileSync(file, 'utf8');
+    const title = html.match(/<title[^>]*>([^<]+)<\/title>/i)?.[1] || '';
+    const label = title.match(/^Commercial Roofing Contractors\s+(.+?)\s*\|/i)?.[1]
+      || title.match(/^Commercial (?:Roofing|Roofers)(?: Services)?(?: in)?\s+(.+?)\s*\|/i)?.[1];
+    if (label) { const clean = label.replace(/,\s*[A-Z]{2}$/, '').trim(); if (clean !== clean.toLowerCase()) names.set(clean.toLowerCase(), clean); }
+  }
+}
+for (const directory of ['public', 'rendered', '.generated']) collectHtmlNames(path.join(root, directory));
 const alternatives = [...names.keys()].sort((a, b) => b.length - a.length).map(escape);
 const pattern = alternatives.length ? new RegExp(`\\b(${alternatives.join('|')})\\b`, 'g') : null;
 let changed = 0;
@@ -52,7 +67,18 @@ function repairHtml(before, file) {
         });
       });
     }
+    html = html.replace(/<form\b[\s\S]*?<\/form\s*>/gi, form => {
+      if (!/action=["']\/api\/(?:contact|submit)/i.test(form) || /<form\b[^>]*role=["']search["']/i.test(form)) return form;
+      return form.replace(/<input\b[^>]*>/gi, input => {
+        if (!/\btype=["']hidden["']/i.test(input)) return input;
+        const name = input.match(/\bname=["']([^"']+)["']/i)?.[1];
+        if (!['name', 'phone', 'email', 'timeline', 'address', 'message'].includes(name)) return input;
+        const occurrences = [...form.matchAll(new RegExp(`<(?:input|select|textarea)\\b[^>]*\\bname=["']${name}["']`, 'gi'))];
+        return occurrences.length > 1 ? '' : input;
+      });
+    });
     for (const form of html.matchAll(/<form\b[\s\S]*?<\/form\s*>/gi)) {
+      if (/<form\b[^>]*role=["']search["']/i.test(form[0])) continue;
       if (!/action=["']\/api\/(?:contact|submit)(?:["'?/])|data-contact-form/i.test(form[0])) continue;
       checked++;
       const fields = new Set([...form[0].matchAll(/<(?:input|select|textarea)\b[^>]*\bname=["']([^"']+)["']/gi)].map(m => m[1]));
