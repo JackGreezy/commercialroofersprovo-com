@@ -1,489 +1,1246 @@
 {
-  "cleanUrls": true,
-  "trailingSlash": false,
-  "rewrites": [
-    {
-      "source": "/services/commercial-roof-insurance-claims",
-      "destination": "/services/commercial-roof-insurance-claims.html"
-    },
-    {
-      "source": "/services/commercial-roof-insurance-claims/",
-      "destination": "/services/commercial-roof-insurance-claims.html"
-    },
-    {
-      "source": "/services/hail-damage-roof-insurance-claims",
-      "destination": "/services/hail-damage-roof-insurance-claims.html"
-    },
-    {
-      "source": "/services/hail-damage-roof-insurance-claims/",
-      "destination": "/services/hail-damage-roof-insurance-claims.html"
-    },
-    {
-      "source": "/services/wind-storm-damage-roof-insurance-claims",
-      "destination": "/services/wind-storm-damage-roof-insurance-claims.html"
-    },
-    {
-      "source": "/services/wind-storm-damage-roof-insurance-claims/",
-      "destination": "/services/wind-storm-damage-roof-insurance-claims.html"
-    },
-    {
-      "source": "/services/snow-ice-roof-damage-insurance-claims",
-      "destination": "/services/snow-ice-roof-damage-insurance-claims.html"
-    },
-    {
-      "source": "/services/snow-ice-roof-damage-insurance-claims/",
-      "destination": "/services/snow-ice-roof-damage-insurance-claims.html"
-    },
-    {
-      "source": "/roof-systems/modified-bitumen-systems",
-      "destination": "/roof-systems/modified-bitumen-systems.html"
-    },
-    {
-      "source": "/roof-systems/modified-bitumen-systems/",
-      "destination": "/roof-systems/modified-bitumen-systems.html"
-    },
-    {
-      "source": "/services/emergency-tarp-dry-in",
-      "destination": "/services/emergency-tarp-dry-in.html"
-    },
-    {
-      "source": "/services/emergency-tarp-dry-in/",
-      "destination": "/services/emergency-tarp-dry-in.html"
-    },
-    {
-      "source": "/services/commercial-roof-leak-repair",
-      "destination": "/services/commercial-roof-leak-repair.html"
-    },
-    {
-      "source": "/services/commercial-roof-leak-repair/",
-      "destination": "/services/commercial-roof-leak-repair.html"
-    },
-    {
-      "source": "/services/drain-cleaning-repair",
-      "destination": "/services/drain-cleaning-repair.html"
-    },
-    {
-      "source": "/services/drain-cleaning-repair/",
-      "destination": "/services/drain-cleaning-repair.html"
-    },
-    {
-      "source": "/services/commercial-roof-inspection",
-      "destination": "/services/commercial-roof-inspection.html"
-    },
-    {
-      "source": "/services/commercial-roof-inspection/",
-      "destination": "/services/commercial-roof-inspection.html"
-    },
-    {
-      "source": "/services/preventive-maintenance-programs",
-      "destination": "/services/preventive-maintenance-programs.html"
-    },
-    {
-      "source": "/services/preventive-maintenance-programs/",
-      "destination": "/services/preventive-maintenance-programs.html"
-    },
-    {
-      "source": "/services/silicone-roof-coatings",
-      "destination": "/services/silicone-roof-coatings.html"
-    },
-    {
-      "source": "/services/silicone-roof-coatings/",
-      "destination": "/services/silicone-roof-coatings.html"
-    },
-    {
-      "source": "/services/commercial-roof-tear-off-replacement",
-      "destination": "/services/commercial-roof-tear-off-replacement.html"
-    },
-    {
-      "source": "/services/commercial-roof-tear-off-replacement/",
-      "destination": "/services/commercial-roof-tear-off-replacement.html"
-    },
-    {
-      "source": "/capabilities/roof-asset-management",
-      "destination": "/capabilities/roof-asset-management.html"
-    },
-    {
-      "source": "/capabilities/roof-asset-management/",
-      "destination": "/capabilities/roof-asset-management.html"
-    },
-    {
-      "source": "/services/roof-lifting",
-      "destination": "/services/roof-lifting.html"
-    },
-    {
-      "source": "/services/roof-lifting/",
-      "destination": "/services/roof-lifting.html"
-    }
-  ],
-  "buildCommand": "node scripts/install-roofing-growth.mjs && node scripts/build-contact-site.mjs && node scripts/ai/build.mjs && node scripts/check-ai-site.mjs && node scripts/install-roofing-growth.mjs",
-  "redirects": [
-    {
-      "source": "/cdn-cgi/l/email-protection",
-      "destination": "/contact",
-      "permanent": true
-    },
-    {
-      "source": "/locations/:path*",
-      "destination": "/service-areas/:path*",
-      "permanent": true
-    },
-    {
-      "source": "/locations",
-      "destination": "/service-areas",
-      "permanent": true
-    },
-    {
-      "source": "/locations/alpine",
-      "destination": "/service-areas/alpine",
-      "permanent": true
-    },
-    {
-      "source": "/locations/alpine/",
-      "destination": "/service-areas/alpine",
-      "permanent": true
-    },
-    {
-      "source": "/locations/american-fork",
-      "destination": "/service-areas/american-fork",
-      "permanent": true
-    },
-    {
-      "source": "/locations/american-fork/",
-      "destination": "/service-areas/american-fork",
-      "permanent": true
-    },
-    {
-      "source": "/locations/benjamin",
-      "destination": "/service-areas/benjamin",
-      "permanent": true
-    },
-    {
-      "source": "/locations/benjamin/",
-      "destination": "/service-areas/benjamin",
-      "permanent": true
-    },
-    {
-      "source": "/locations/bluffdale",
-      "destination": "/service-areas/bluffdale",
-      "permanent": true
-    },
-    {
-      "source": "/locations/bluffdale/",
-      "destination": "/service-areas/bluffdale",
-      "permanent": true
-    },
-    {
-      "source": "/locations/cedar-fort",
-      "destination": "/service-areas/cedar-fort",
-      "permanent": true
-    },
-    {
-      "source": "/locations/cedar-fort/",
-      "destination": "/service-areas/cedar-fort",
-      "permanent": true
-    },
-    {
-      "source": "/locations/cedar-hills",
-      "destination": "/service-areas/cedar-hills",
-      "permanent": true
-    },
-    {
-      "source": "/locations/cedar-hills/",
-      "destination": "/service-areas/cedar-hills",
-      "permanent": true
-    },
-    {
-      "source": "/locations/downtown-provo",
-      "destination": "/service-areas/downtown-provo",
-      "permanent": true
-    },
-    {
-      "source": "/locations/downtown-provo/",
-      "destination": "/service-areas/downtown-provo",
-      "permanent": true
-    },
-    {
-      "source": "/locations/eagle-mountain",
-      "destination": "/service-areas/eagle-mountain",
-      "permanent": true
-    },
-    {
-      "source": "/locations/eagle-mountain/",
-      "destination": "/service-areas/eagle-mountain",
-      "permanent": true
-    },
-    {
-      "source": "/locations/east-bay",
-      "destination": "/service-areas/east-bay",
-      "permanent": true
-    },
-    {
-      "source": "/locations/east-bay/",
-      "destination": "/service-areas/east-bay",
-      "permanent": true
-    },
-    {
-      "source": "/locations/elberta",
-      "destination": "/service-areas/elberta",
-      "permanent": true
-    },
-    {
-      "source": "/locations/elberta/",
-      "destination": "/service-areas/elberta",
-      "permanent": true
-    },
-    {
-      "source": "/locations/elk-ridge",
-      "destination": "/service-areas/elk-ridge",
-      "permanent": true
-    },
-    {
-      "source": "/locations/elk-ridge/",
-      "destination": "/service-areas/elk-ridge",
-      "permanent": true
-    },
-    {
-      "source": "/locations/fairfield",
-      "destination": "/service-areas/fairfield",
-      "permanent": true
-    },
-    {
-      "source": "/locations/fairfield/",
-      "destination": "/service-areas/fairfield",
-      "permanent": true
-    },
-    {
-      "source": "/locations/genola",
-      "destination": "/service-areas/genola",
-      "permanent": true
-    },
-    {
-      "source": "/locations/genola/",
-      "destination": "/service-areas/genola",
-      "permanent": true
-    },
-    {
-      "source": "/locations/goshen",
-      "destination": "/service-areas/goshen",
-      "permanent": true
-    },
-    {
-      "source": "/locations/goshen/",
-      "destination": "/service-areas/goshen",
-      "permanent": true
-    },
-    {
-      "source": "/locations/highland",
-      "destination": "/service-areas/highland",
-      "permanent": true
-    },
-    {
-      "source": "/locations/highland/",
-      "destination": "/service-areas/highland",
-      "permanent": true
-    },
-    {
-      "source": "/locations/lake-shore",
-      "destination": "/service-areas/lake-shore",
-      "permanent": true
-    },
-    {
-      "source": "/locations/lake-shore/",
-      "destination": "/service-areas/lake-shore",
-      "permanent": true
-    },
-    {
-      "source": "/locations/lehi",
-      "destination": "/service-areas/lehi",
-      "permanent": true
-    },
-    {
-      "source": "/locations/lehi/",
-      "destination": "/service-areas/lehi",
-      "permanent": true
-    },
-    {
-      "source": "/locations/lindon",
-      "destination": "/service-areas/lindon",
-      "permanent": true
-    },
-    {
-      "source": "/locations/lindon/",
-      "destination": "/service-areas/lindon",
-      "permanent": true
-    },
-    {
-      "source": "/locations/mapleton",
-      "destination": "/service-areas/mapleton",
-      "permanent": true
-    },
-    {
-      "source": "/locations/mapleton/",
-      "destination": "/service-areas/mapleton",
-      "permanent": true
-    },
-    {
-      "source": "/locations/orem",
-      "destination": "/service-areas/orem",
-      "permanent": true
-    },
-    {
-      "source": "/locations/orem/",
-      "destination": "/service-areas/orem",
-      "permanent": true
-    },
-    {
-      "source": "/locations/palmyra",
-      "destination": "/service-areas/palmyra",
-      "permanent": true
-    },
-    {
-      "source": "/locations/palmyra/",
-      "destination": "/service-areas/palmyra",
-      "permanent": true
-    },
-    {
-      "source": "/locations/payson",
-      "destination": "/service-areas/payson",
-      "permanent": true
-    },
-    {
-      "source": "/locations/payson/",
-      "destination": "/service-areas/payson",
-      "permanent": true
-    },
-    {
-      "source": "/locations/pleasant-grove",
-      "destination": "/service-areas/pleasant-grove",
-      "permanent": true
-    },
-    {
-      "source": "/locations/pleasant-grove/",
-      "destination": "/service-areas/pleasant-grove",
-      "permanent": true
-    },
-    {
-      "source": "/locations/riverwoods",
-      "destination": "/service-areas/riverwoods",
-      "permanent": true
-    },
-    {
-      "source": "/locations/riverwoods/",
-      "destination": "/service-areas/riverwoods",
-      "permanent": true
-    },
-    {
-      "source": "/locations/salem",
-      "destination": "/service-areas/salem",
-      "permanent": true
-    },
-    {
-      "source": "/locations/salem/",
-      "destination": "/service-areas/salem",
-      "permanent": true
-    },
-    {
-      "source": "/locations/santaquin",
-      "destination": "/service-areas/santaquin",
-      "permanent": true
-    },
-    {
-      "source": "/locations/santaquin/",
-      "destination": "/service-areas/santaquin",
-      "permanent": true
-    },
-    {
-      "source": "/locations/saratoga-springs",
-      "destination": "/service-areas/saratoga-springs",
-      "permanent": true
-    },
-    {
-      "source": "/locations/saratoga-springs/",
-      "destination": "/service-areas/saratoga-springs",
-      "permanent": true
-    },
-    {
-      "source": "/locations/spanish-fork",
-      "destination": "/service-areas/spanish-fork",
-      "permanent": true
-    },
-    {
-      "source": "/locations/spanish-fork/",
-      "destination": "/service-areas/spanish-fork",
-      "permanent": true
-    },
-    {
-      "source": "/locations/spring-lake",
-      "destination": "/service-areas/spring-lake",
-      "permanent": true
-    },
-    {
-      "source": "/locations/spring-lake/",
-      "destination": "/service-areas/spring-lake",
-      "permanent": true
-    },
-    {
-      "source": "/locations/springville",
-      "destination": "/service-areas/springville",
-      "permanent": true
-    },
-    {
-      "source": "/locations/springville/",
-      "destination": "/service-areas/springville",
-      "permanent": true
-    },
-    {
-      "source": "/locations/sundance",
-      "destination": "/service-areas/sundance",
-      "permanent": true
-    },
-    {
-      "source": "/locations/sundance/",
-      "destination": "/service-areas/sundance",
-      "permanent": true
-    },
-    {
-      "source": "/locations/vineyard",
-      "destination": "/service-areas/vineyard",
-      "permanent": true
-    },
-    {
-      "source": "/locations/vineyard/",
-      "destination": "/service-areas/vineyard",
-      "permanent": true
-    },
-    {
-      "source": "/locations/west-mountain",
-      "destination": "/service-areas/west-mountain",
-      "permanent": true
-    },
-    {
-      "source": "/locations/west-mountain/",
-      "destination": "/service-areas/west-mountain",
-      "permanent": true
-    },
-    {
-      "source": "/locations/woodland-hills",
-      "destination": "/service-areas/woodland-hills",
-      "permanent": true
-    },
-    {
-      "source": "/locations/woodland-hills/",
-      "destination": "/service-areas/woodland-hills",
-      "permanent": true
-    },
-    {
-      "source": "/locations/",
-      "destination": "/service-areas",
-      "permanent": true
-    }
-  ],
+  "version": 2,
+  "buildCommand": "node scripts/install-roofing-growth.mjs && npm run build && node scripts/install-roofing-growth.mjs",
   "outputDirectory": "public",
-  "framework": null,
-  "proxy": {
-    "entrypoint": "proxy.ts",
-    "matcher": [
-      "/((?!.*\\.(?:css|js|mjs|png|jpe?g|webp|gif|svg|ico|woff2?|ttf|eot|mp4|mov|pdf|xml|txt)$).*)"
-    ]
-  }
+  "routes": [
+    {
+      "src": "^/(?:(.+)/)?index(?:\\.html)?/?$",
+      "headers": {
+        "Location": "/$1"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/(.*)\\.html/?$",
+      "headers": {
+        "Location": "/$1"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/(.*)/$",
+      "headers": {
+        "Location": "/$1"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/cdn-cgi/l/email-protection$",
+      "headers": {
+        "Location": "/contact"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations(?:/((?:[^/]+?)(?:/(?:[^/]+?))*))?$",
+      "headers": {
+        "Location": "/service-areas/$1"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations$",
+      "headers": {
+        "Location": "/service-areas"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/alpine$",
+      "headers": {
+        "Location": "/service-areas/alpine"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/alpine/$",
+      "headers": {
+        "Location": "/service-areas/alpine"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/american-fork$",
+      "headers": {
+        "Location": "/service-areas/american-fork"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/american-fork/$",
+      "headers": {
+        "Location": "/service-areas/american-fork"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/benjamin$",
+      "headers": {
+        "Location": "/service-areas/benjamin"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/benjamin/$",
+      "headers": {
+        "Location": "/service-areas/benjamin"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/bluffdale$",
+      "headers": {
+        "Location": "/service-areas/bluffdale"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/bluffdale/$",
+      "headers": {
+        "Location": "/service-areas/bluffdale"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/cedar-fort$",
+      "headers": {
+        "Location": "/service-areas/cedar-fort"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/cedar-fort/$",
+      "headers": {
+        "Location": "/service-areas/cedar-fort"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/cedar-hills$",
+      "headers": {
+        "Location": "/service-areas/cedar-hills"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/cedar-hills/$",
+      "headers": {
+        "Location": "/service-areas/cedar-hills"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/downtown-provo$",
+      "headers": {
+        "Location": "/service-areas/downtown-provo"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/downtown-provo/$",
+      "headers": {
+        "Location": "/service-areas/downtown-provo"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/eagle-mountain$",
+      "headers": {
+        "Location": "/service-areas/eagle-mountain"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/eagle-mountain/$",
+      "headers": {
+        "Location": "/service-areas/eagle-mountain"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/east-bay$",
+      "headers": {
+        "Location": "/service-areas/east-bay"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/east-bay/$",
+      "headers": {
+        "Location": "/service-areas/east-bay"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/elberta$",
+      "headers": {
+        "Location": "/service-areas/elberta"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/elberta/$",
+      "headers": {
+        "Location": "/service-areas/elberta"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/elk-ridge$",
+      "headers": {
+        "Location": "/service-areas/elk-ridge"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/elk-ridge/$",
+      "headers": {
+        "Location": "/service-areas/elk-ridge"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/fairfield$",
+      "headers": {
+        "Location": "/service-areas/fairfield"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/fairfield/$",
+      "headers": {
+        "Location": "/service-areas/fairfield"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/genola$",
+      "headers": {
+        "Location": "/service-areas/genola"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/genola/$",
+      "headers": {
+        "Location": "/service-areas/genola"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/goshen$",
+      "headers": {
+        "Location": "/service-areas/goshen"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/goshen/$",
+      "headers": {
+        "Location": "/service-areas/goshen"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/highland$",
+      "headers": {
+        "Location": "/service-areas/highland"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/highland/$",
+      "headers": {
+        "Location": "/service-areas/highland"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/lake-shore$",
+      "headers": {
+        "Location": "/service-areas/lake-shore"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/lake-shore/$",
+      "headers": {
+        "Location": "/service-areas/lake-shore"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/lehi$",
+      "headers": {
+        "Location": "/service-areas/lehi"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/lehi/$",
+      "headers": {
+        "Location": "/service-areas/lehi"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/lindon$",
+      "headers": {
+        "Location": "/service-areas/lindon"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/lindon/$",
+      "headers": {
+        "Location": "/service-areas/lindon"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/mapleton$",
+      "headers": {
+        "Location": "/service-areas/mapleton"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/mapleton/$",
+      "headers": {
+        "Location": "/service-areas/mapleton"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/orem$",
+      "headers": {
+        "Location": "/service-areas/orem"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/orem/$",
+      "headers": {
+        "Location": "/service-areas/orem"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/palmyra$",
+      "headers": {
+        "Location": "/service-areas/palmyra"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/palmyra/$",
+      "headers": {
+        "Location": "/service-areas/palmyra"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/payson$",
+      "headers": {
+        "Location": "/service-areas/payson"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/payson/$",
+      "headers": {
+        "Location": "/service-areas/payson"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/pleasant-grove$",
+      "headers": {
+        "Location": "/service-areas/pleasant-grove"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/pleasant-grove/$",
+      "headers": {
+        "Location": "/service-areas/pleasant-grove"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/riverwoods$",
+      "headers": {
+        "Location": "/service-areas/riverwoods"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/riverwoods/$",
+      "headers": {
+        "Location": "/service-areas/riverwoods"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/salem$",
+      "headers": {
+        "Location": "/service-areas/salem"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/salem/$",
+      "headers": {
+        "Location": "/service-areas/salem"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/santaquin$",
+      "headers": {
+        "Location": "/service-areas/santaquin"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/santaquin/$",
+      "headers": {
+        "Location": "/service-areas/santaquin"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/saratoga-springs$",
+      "headers": {
+        "Location": "/service-areas/saratoga-springs"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/saratoga-springs/$",
+      "headers": {
+        "Location": "/service-areas/saratoga-springs"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/spanish-fork$",
+      "headers": {
+        "Location": "/service-areas/spanish-fork"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/spanish-fork/$",
+      "headers": {
+        "Location": "/service-areas/spanish-fork"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/spring-lake$",
+      "headers": {
+        "Location": "/service-areas/spring-lake"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/spring-lake/$",
+      "headers": {
+        "Location": "/service-areas/spring-lake"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/springville$",
+      "headers": {
+        "Location": "/service-areas/springville"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/springville/$",
+      "headers": {
+        "Location": "/service-areas/springville"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/sundance$",
+      "headers": {
+        "Location": "/service-areas/sundance"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/sundance/$",
+      "headers": {
+        "Location": "/service-areas/sundance"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/vineyard$",
+      "headers": {
+        "Location": "/service-areas/vineyard"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/vineyard/$",
+      "headers": {
+        "Location": "/service-areas/vineyard"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/west-mountain$",
+      "headers": {
+        "Location": "/service-areas/west-mountain"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/west-mountain/$",
+      "headers": {
+        "Location": "/service-areas/west-mountain"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/woodland-hills$",
+      "headers": {
+        "Location": "/service-areas/woodland-hills"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/woodland-hills/$",
+      "headers": {
+        "Location": "/service-areas/woodland-hills"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/locations/$",
+      "headers": {
+        "Location": "/service-areas"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/(api(?:.+)?)/index(?:\\.(?:js))?/?$",
+      "headers": {
+        "Location": "/$1"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/api/(.+)(?:\\.(?:js))/?$",
+      "headers": {
+        "Location": "/api/$1"
+      },
+      "status": 308
+    },
+    {
+      "src": "^/404$",
+      "dest": "/404.html",
+      "check": true
+    },
+    {
+      "src": "^/about$",
+      "dest": "/about.html",
+      "check": true
+    },
+    {
+      "src": "^/capabilities/roof-asset-management$",
+      "dest": "/capabilities/roof-asset-management.html",
+      "check": true
+    },
+    {
+      "src": "^/contact$",
+      "dest": "/contact.html",
+      "check": true
+    },
+    {
+      "src": "^/home$",
+      "dest": "/home.html",
+      "check": true
+    },
+    {
+      "src": "^/index$",
+      "dest": "/index.html",
+      "check": true
+    },
+    {
+      "src": "^/industries$",
+      "dest": "/industries.html",
+      "check": true
+    },
+    {
+      "src": "^/industries/education-facilities$",
+      "dest": "/industries/education-facilities.html",
+      "check": true
+    },
+    {
+      "src": "^/industries/general-contractors$",
+      "dest": "/industries/general-contractors.html",
+      "check": true
+    },
+    {
+      "src": "^/industries/government-public-sector$",
+      "dest": "/industries/government-public-sector.html",
+      "check": true
+    },
+    {
+      "src": "^/industries/healthcare-systems$",
+      "dest": "/industries/healthcare-systems.html",
+      "check": true
+    },
+    {
+      "src": "^/industries/insurance-restoration$",
+      "dest": "/industries/insurance-restoration.html",
+      "check": true
+    },
+    {
+      "src": "^/industries/manufacturing-operators$",
+      "dest": "/industries/manufacturing-operators.html",
+      "check": true
+    },
+    {
+      "src": "^/industries/property-management-firms$",
+      "dest": "/industries/property-management-firms.html",
+      "check": true
+    },
+    {
+      "src": "^/industries/retail-chain-operators$",
+      "dest": "/industries/retail-chain-operators.html",
+      "check": true
+    },
+    {
+      "src": "^/manufacturers$",
+      "dest": "/manufacturers.html",
+      "check": true
+    },
+    {
+      "src": "^/manufacturers/carlisle-syntec$",
+      "dest": "/manufacturers/carlisle-syntec.html",
+      "check": true
+    },
+    {
+      "src": "^/manufacturers/gaf-commercial$",
+      "dest": "/manufacturers/gaf-commercial.html",
+      "check": true
+    },
+    {
+      "src": "^/manufacturers/holcim-elevate$",
+      "dest": "/manufacturers/holcim-elevate.html",
+      "check": true
+    },
+    {
+      "src": "^/manufacturers/johns-manville$",
+      "dest": "/manufacturers/johns-manville.html",
+      "check": true
+    },
+    {
+      "src": "^/manufacturers/sika-sarnafil$",
+      "dest": "/manufacturers/sika-sarnafil.html",
+      "check": true
+    },
+    {
+      "src": "^/manufacturers/versico$",
+      "dest": "/manufacturers/versico.html",
+      "check": true
+    },
+    {
+      "src": "^/privacy$",
+      "dest": "/privacy.html",
+      "check": true
+    },
+    {
+      "src": "^/project-types$",
+      "dest": "/project-types.html",
+      "check": true
+    },
+    {
+      "src": "^/project-types/big-box-retail-roofing$",
+      "dest": "/project-types/big-box-retail-roofing.html",
+      "check": true
+    },
+    {
+      "src": "^/project-types/fitness-center-gym-roofing$",
+      "dest": "/project-types/fitness-center-gym-roofing.html",
+      "check": true
+    },
+    {
+      "src": "^/project-types/grocery-store-roofing$",
+      "dest": "/project-types/grocery-store-roofing.html",
+      "check": true
+    },
+    {
+      "src": "^/project-types/higher-education-roofing$",
+      "dest": "/project-types/higher-education-roofing.html",
+      "check": true
+    },
+    {
+      "src": "^/project-types/hotel-hospitality-roofing$",
+      "dest": "/project-types/hotel-hospitality-roofing.html",
+      "check": true
+    },
+    {
+      "src": "^/project-types/k12-school-roofing$",
+      "dest": "/project-types/k12-school-roofing.html",
+      "check": true
+    },
+    {
+      "src": "^/project-types/medical-office-building-roofing$",
+      "dest": "/project-types/medical-office-building-roofing.html",
+      "check": true
+    },
+    {
+      "src": "^/project-types/multi-tenant-retail-strip-roofing$",
+      "dest": "/project-types/multi-tenant-retail-strip-roofing.html",
+      "check": true
+    },
+    {
+      "src": "^/project-types/multifamily-apartment-roofing$",
+      "dest": "/project-types/multifamily-apartment-roofing.html",
+      "check": true
+    },
+    {
+      "src": "^/project-types/office-complex-roofing$",
+      "dest": "/project-types/office-complex-roofing.html",
+      "check": true
+    },
+    {
+      "src": "^/project-types/restaurant-standalone-roofing$",
+      "dest": "/project-types/restaurant-standalone-roofing.html",
+      "check": true
+    },
+    {
+      "src": "^/project-types/warehouse-roofing$",
+      "dest": "/project-types/warehouse-roofing.html",
+      "check": true
+    },
+    {
+      "src": "^/roof-systems$",
+      "dest": "/roof-systems.html",
+      "check": true
+    },
+    {
+      "src": "^/roof-systems/epdm-black$",
+      "dest": "/roof-systems/epdm-black.html",
+      "check": true
+    },
+    {
+      "src": "^/roof-systems/epdm-white$",
+      "dest": "/roof-systems/epdm-white.html",
+      "check": true
+    },
+    {
+      "src": "^/roof-systems/modified-bitumen-sbs$",
+      "dest": "/roof-systems/modified-bitumen-sbs.html",
+      "check": true
+    },
+    {
+      "src": "^/roof-systems/modified-bitumen-systems$",
+      "dest": "/roof-systems/modified-bitumen-systems.html",
+      "check": true
+    },
+    {
+      "src": "^/roof-systems/pvc-roof-systems$",
+      "dest": "/roof-systems/pvc-roof-systems.html",
+      "check": true
+    },
+    {
+      "src": "^/roof-systems/silicone-roof-coating$",
+      "dest": "/roof-systems/silicone-roof-coating.html",
+      "check": true
+    },
+    {
+      "src": "^/roof-systems/spray-polyurethane-foam$",
+      "dest": "/roof-systems/spray-polyurethane-foam.html",
+      "check": true
+    },
+    {
+      "src": "^/roof-systems/tpo-60-mil$",
+      "dest": "/roof-systems/tpo-60-mil.html",
+      "check": true
+    },
+    {
+      "src": "^/roof-systems/tpo-80-mil$",
+      "dest": "/roof-systems/tpo-80-mil.html",
+      "check": true
+    },
+    {
+      "src": "^/service-areas$",
+      "dest": "/service-areas.html",
+      "check": true
+    },
+    {
+      "src": "^/service-areas/alpine$",
+      "dest": "/service-areas/alpine.html",
+      "check": true
+    },
+    {
+      "src": "^/service-areas/american-fork$",
+      "dest": "/service-areas/american-fork.html",
+      "check": true
+    },
+    {
+      "src": "^/service-areas/benjamin$",
+      "dest": "/service-areas/benjamin.html",
+      "check": true
+    },
+    {
+      "src": "^/service-areas/bluffdale$",
+      "dest": "/service-areas/bluffdale.html",
+      "check": true
+    },
+    {
+      "src": "^/service-areas/cedar-fort$",
+      "dest": "/service-areas/cedar-fort.html",
+      "check": true
+    },
+    {
+      "src": "^/service-areas/cedar-hills$",
+      "dest": "/service-areas/cedar-hills.html",
+      "check": true
+    },
+    {
+      "src": "^/service-areas/downtown-provo$",
+      "dest": "/service-areas/downtown-provo.html",
+      "check": true
+    },
+    {
+      "src": "^/service-areas/eagle-mountain$",
+      "dest": "/service-areas/eagle-mountain.html",
+      "check": true
+    },
+    {
+      "src": "^/service-areas/east-bay$",
+      "dest": "/service-areas/east-bay.html",
+      "check": true
+    },
+    {
+      "src": "^/service-areas/elberta$",
+      "dest": "/service-areas/elberta.html",
+      "check": true
+    },
+    {
+      "src": "^/service-areas/elk-ridge$",
+      "dest": "/service-areas/elk-ridge.html",
+      "check": true
+    },
+    {
+      "src": "^/service-areas/fairfield$",
+      "dest": "/service-areas/fairfield.html",
+      "check": true
+    },
+    {
+      "src": "^/service-areas/genola$",
+      "dest": "/service-areas/genola.html",
+      "check": true
+    },
+    {
+      "src": "^/service-areas/goshen$",
+      "dest": "/service-areas/goshen.html",
+      "check": true
+    },
+    {
+      "src": "^/service-areas/highland$",
+      "dest": "/service-areas/highland.html",
+      "check": true
+    },
+    {
+      "src": "^/service-areas/lake-shore$",
+      "dest": "/service-areas/lake-shore.html",
+      "check": true
+    },
+    {
+      "src": "^/service-areas/lehi$",
+      "dest": "/service-areas/lehi.html",
+      "check": true
+    },
+    {
+      "src": "^/service-areas/lindon$",
+      "dest": "/service-areas/lindon.html",
+      "check": true
+    },
+    {
+      "src": "^/service-areas/mapleton$",
+      "dest": "/service-areas/mapleton.html",
+      "check": true
+    },
+    {
+      "src": "^/service-areas/orem$",
+      "dest": "/service-areas/orem.html",
+      "check": true
+    },
+    {
+      "src": "^/service-areas/palmyra$",
+      "dest": "/service-areas/palmyra.html",
+      "check": true
+    },
+    {
+      "src": "^/service-areas/payson$",
+      "dest": "/service-areas/payson.html",
+      "check": true
+    },
+    {
+      "src": "^/service-areas/pleasant-grove$",
+      "dest": "/service-areas/pleasant-grove.html",
+      "check": true
+    },
+    {
+      "src": "^/service-areas/riverwoods$",
+      "dest": "/service-areas/riverwoods.html",
+      "check": true
+    },
+    {
+      "src": "^/service-areas/salem$",
+      "dest": "/service-areas/salem.html",
+      "check": true
+    },
+    {
+      "src": "^/service-areas/santaquin$",
+      "dest": "/service-areas/santaquin.html",
+      "check": true
+    },
+    {
+      "src": "^/service-areas/saratoga-springs$",
+      "dest": "/service-areas/saratoga-springs.html",
+      "check": true
+    },
+    {
+      "src": "^/service-areas/spanish-fork$",
+      "dest": "/service-areas/spanish-fork.html",
+      "check": true
+    },
+    {
+      "src": "^/service-areas/spring-lake$",
+      "dest": "/service-areas/spring-lake.html",
+      "check": true
+    },
+    {
+      "src": "^/service-areas/springville$",
+      "dest": "/service-areas/springville.html",
+      "check": true
+    },
+    {
+      "src": "^/service-areas/sundance$",
+      "dest": "/service-areas/sundance.html",
+      "check": true
+    },
+    {
+      "src": "^/service-areas/vineyard$",
+      "dest": "/service-areas/vineyard.html",
+      "check": true
+    },
+    {
+      "src": "^/service-areas/west-mountain$",
+      "dest": "/service-areas/west-mountain.html",
+      "check": true
+    },
+    {
+      "src": "^/service-areas/woodland-hills$",
+      "dest": "/service-areas/woodland-hills.html",
+      "check": true
+    },
+    {
+      "src": "^/services$",
+      "dest": "/services.html",
+      "check": true
+    },
+    {
+      "src": "^/services/acrylic-roof-coatings$",
+      "dest": "/services/acrylic-roof-coatings.html",
+      "check": true
+    },
+    {
+      "src": "^/services/built-up-roofing$",
+      "dest": "/services/built-up-roofing.html",
+      "check": true
+    },
+    {
+      "src": "^/services/commercial-reroofing$",
+      "dest": "/services/commercial-reroofing.html",
+      "check": true
+    },
+    {
+      "src": "^/services/commercial-roof-inspection$",
+      "dest": "/services/commercial-roof-inspection.html",
+      "check": true
+    },
+    {
+      "src": "^/services/commercial-roof-insurance-claims$",
+      "dest": "/services/commercial-roof-insurance-claims.html",
+      "check": true
+    },
+    {
+      "src": "^/services/commercial-roof-leak-repair$",
+      "dest": "/services/commercial-roof-leak-repair.html",
+      "check": true
+    },
+    {
+      "src": "^/services/commercial-roof-tear-off-replacement$",
+      "dest": "/services/commercial-roof-tear-off-replacement.html",
+      "check": true
+    },
+    {
+      "src": "^/services/drain-cleaning-repair$",
+      "dest": "/services/drain-cleaning-repair.html",
+      "check": true
+    },
+    {
+      "src": "^/services/edge-metal-coping-gutters$",
+      "dest": "/services/edge-metal-coping-gutters.html",
+      "check": true
+    },
+    {
+      "src": "^/services/emergency-tarp-dry-in$",
+      "dest": "/services/emergency-tarp-dry-in.html",
+      "check": true
+    },
+    {
+      "src": "^/services/epdm-commercial-roofing$",
+      "dest": "/services/epdm-commercial-roofing.html",
+      "check": true
+    },
+    {
+      "src": "^/services/hail-damage-roof-insurance-claims$",
+      "dest": "/services/hail-damage-roof-insurance-claims.html",
+      "check": true
+    },
+    {
+      "src": "^/services/insurance-documentation-support$",
+      "dest": "/services/insurance-documentation-support.html",
+      "check": true
+    },
+    {
+      "src": "^/services/metal-r-panel-roofing$",
+      "dest": "/services/metal-r-panel-roofing.html",
+      "check": true
+    },
+    {
+      "src": "^/services/modified-bitumen-roofing$",
+      "dest": "/services/modified-bitumen-roofing.html",
+      "check": true
+    },
+    {
+      "src": "^/services/preventive-maintenance-programs$",
+      "dest": "/services/preventive-maintenance-programs.html",
+      "check": true
+    },
+    {
+      "src": "^/services/pvc-roofing$",
+      "dest": "/services/pvc-roofing.html",
+      "check": true
+    },
+    {
+      "src": "^/services/roof-drains-scuppers$",
+      "dest": "/services/roof-drains-scuppers.html",
+      "check": true
+    },
+    {
+      "src": "^/services/roof-lifting$",
+      "dest": "/services/roof-lifting.html",
+      "check": true
+    },
+    {
+      "src": "^/services/roof-recover-overlay$",
+      "dest": "/services/roof-recover-overlay.html",
+      "check": true
+    },
+    {
+      "src": "^/services/silicone-roof-coatings$",
+      "dest": "/services/silicone-roof-coatings.html",
+      "check": true
+    },
+    {
+      "src": "^/services/snow-ice-roof-damage-insurance-claims$",
+      "dest": "/services/snow-ice-roof-damage-insurance-claims.html",
+      "check": true
+    },
+    {
+      "src": "^/services/standing-seam-metal-roofing$",
+      "dest": "/services/standing-seam-metal-roofing.html",
+      "check": true
+    },
+    {
+      "src": "^/services/storm-damage-roof-repair$",
+      "dest": "/services/storm-damage-roof-repair.html",
+      "check": true
+    },
+    {
+      "src": "^/services/tpo-single-ply-roofing$",
+      "dest": "/services/tpo-single-ply-roofing.html",
+      "check": true
+    },
+    {
+      "src": "^/services/wind-storm-damage-roof-insurance-claims$",
+      "dest": "/services/wind-storm-damage-roof-insurance-claims.html",
+      "check": true
+    },
+    {
+      "src": "^/terms$",
+      "dest": "/terms.html",
+      "check": true
+    },
+    {
+      "handle": "filesystem"
+    },
+    {
+      "src": "^/services/commercial-roof-insurance-claims$",
+      "dest": "/services/commercial-roof-insurance-claims.html",
+      "check": true
+    },
+    {
+      "src": "^/services/commercial-roof-insurance-claims/$",
+      "dest": "/services/commercial-roof-insurance-claims.html",
+      "check": true
+    },
+    {
+      "src": "^/services/hail-damage-roof-insurance-claims$",
+      "dest": "/services/hail-damage-roof-insurance-claims.html",
+      "check": true
+    },
+    {
+      "src": "^/services/hail-damage-roof-insurance-claims/$",
+      "dest": "/services/hail-damage-roof-insurance-claims.html",
+      "check": true
+    },
+    {
+      "src": "^/services/wind-storm-damage-roof-insurance-claims$",
+      "dest": "/services/wind-storm-damage-roof-insurance-claims.html",
+      "check": true
+    },
+    {
+      "src": "^/services/wind-storm-damage-roof-insurance-claims/$",
+      "dest": "/services/wind-storm-damage-roof-insurance-claims.html",
+      "check": true
+    },
+    {
+      "src": "^/services/snow-ice-roof-damage-insurance-claims$",
+      "dest": "/services/snow-ice-roof-damage-insurance-claims.html",
+      "check": true
+    },
+    {
+      "src": "^/services/snow-ice-roof-damage-insurance-claims/$",
+      "dest": "/services/snow-ice-roof-damage-insurance-claims.html",
+      "check": true
+    },
+    {
+      "src": "^/roof-systems/modified-bitumen-systems$",
+      "dest": "/roof-systems/modified-bitumen-systems.html",
+      "check": true
+    },
+    {
+      "src": "^/roof-systems/modified-bitumen-systems/$",
+      "dest": "/roof-systems/modified-bitumen-systems.html",
+      "check": true
+    },
+    {
+      "src": "^/services/emergency-tarp-dry-in$",
+      "dest": "/services/emergency-tarp-dry-in.html",
+      "check": true
+    },
+    {
+      "src": "^/services/emergency-tarp-dry-in/$",
+      "dest": "/services/emergency-tarp-dry-in.html",
+      "check": true
+    },
+    {
+      "src": "^/services/commercial-roof-leak-repair$",
+      "dest": "/services/commercial-roof-leak-repair.html",
+      "check": true
+    },
+    {
+      "src": "^/services/commercial-roof-leak-repair/$",
+      "dest": "/services/commercial-roof-leak-repair.html",
+      "check": true
+    },
+    {
+      "src": "^/services/drain-cleaning-repair$",
+      "dest": "/services/drain-cleaning-repair.html",
+      "check": true
+    },
+    {
+      "src": "^/services/drain-cleaning-repair/$",
+      "dest": "/services/drain-cleaning-repair.html",
+      "check": true
+    },
+    {
+      "src": "^/services/commercial-roof-inspection$",
+      "dest": "/services/commercial-roof-inspection.html",
+      "check": true
+    },
+    {
+      "src": "^/services/commercial-roof-inspection/$",
+      "dest": "/services/commercial-roof-inspection.html",
+      "check": true
+    },
+    {
+      "src": "^/services/preventive-maintenance-programs$",
+      "dest": "/services/preventive-maintenance-programs.html",
+      "check": true
+    },
+    {
+      "src": "^/services/preventive-maintenance-programs/$",
+      "dest": "/services/preventive-maintenance-programs.html",
+      "check": true
+    },
+    {
+      "src": "^/services/silicone-roof-coatings$",
+      "dest": "/services/silicone-roof-coatings.html",
+      "check": true
+    },
+    {
+      "src": "^/services/silicone-roof-coatings/$",
+      "dest": "/services/silicone-roof-coatings.html",
+      "check": true
+    },
+    {
+      "src": "^/services/commercial-roof-tear-off-replacement$",
+      "dest": "/services/commercial-roof-tear-off-replacement.html",
+      "check": true
+    },
+    {
+      "src": "^/services/commercial-roof-tear-off-replacement/$",
+      "dest": "/services/commercial-roof-tear-off-replacement.html",
+      "check": true
+    },
+    {
+      "src": "^/capabilities/roof-asset-management$",
+      "dest": "/capabilities/roof-asset-management.html",
+      "check": true
+    },
+    {
+      "src": "^/capabilities/roof-asset-management/$",
+      "dest": "/capabilities/roof-asset-management.html",
+      "check": true
+    },
+    {
+      "src": "^/services/roof-lifting$",
+      "dest": "/services/roof-lifting.html",
+      "check": true
+    },
+    {
+      "src": "^/services/roof-lifting/$",
+      "dest": "/services/roof-lifting.html",
+      "check": true
+    },
+    {
+      "src": "^/api(/.*)?$",
+      "status": 404
+    },
+    {
+      "handle": "error"
+    },
+    {
+      "status": 404,
+      "src": "^(?!/api).*$",
+      "dest": "/404"
+    }
+  ]
 }

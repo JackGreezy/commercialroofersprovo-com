@@ -7,6 +7,16 @@ User-agent: PerplexityBot
 User-agent: Perplexity-User
 Allow: /
 Sitemap: https://commercialroofersprovo.com/sitemap.xml
+# AI public-route exclusions
+Disallow: /api/
+Disallow: /admin/
+Disallow: /portal/
+Disallow: /dashboard/
+Disallow: /auth/
+Disallow: /sign-in
+Disallow: /sign-up
+Disallow: /onboarding/
+Disallow: /dev-access
 
 # AI public-route exclusions
 Disallow: /api/

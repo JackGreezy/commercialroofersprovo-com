@@ -1,18 +1,18 @@
 {
   "version": 1,
   "domain": "commercialroofersprovo.com",
-  "productionDeployment": "dpl_9kKWKf3xNQjbuoLjESkHGkmfa7Rk",
+  "productionDeployment": "dpl_C9LD5qGkPLd1LFn6m4CogxH4LvAc",
   "handlerFile": "api/submit.js",
   "handlerNormalizedSha256": "eedb0923b98429d103358fd3f10a0d1a0614c70557fc1c2303b06fc987e139ea",
   "dependenciesSha256": "e124745ae55cbca2810a1a15bda63fb27cb25dd09c4ef7c41efd5e2e8e201cfd",
   "securityFiles": [
     {
-      "path": "api/turnstile-config.js",
-      "sha256": "024de2d7059f7875be4e37054c4353211c9d435ed3b327da6f4b78ffb3624828"
-    },
-    {
       "path": "lib/turnstile.js",
       "sha256": "e1cb5bb451e4923df95cd6f4432178f848942fcee3bd431acab12ac7c635455f"
+    },
+    {
+      "path": "api/turnstile-config.js",
+      "sha256": "024de2d7059f7875be4e37054c4353211c9d435ed3b327da6f4b78ffb3624828"
     },
     {
       "path": "public/rr-lead-controls.css",
@@ -25,14 +25,6 @@
     {
       "path": "public/turnstile-contact.js",
       "sha256": "833f8bfa3a9a48a58c8dd7a7500aabe0e313d5c6d8af0941b08f530d340f59bb"
-    },
-    {
-      "path": "scripts/finalize-lead-controls.mjs",
-      "sha256": "a99b7650de93adc3d18e2a1800ccdc49d737bce585bf95272c90518e862eb56b"
-    },
-    {
-      "path": "scripts/inject-turnstile.mjs",
-      "sha256": "7d1ca41a5aeb07bf67751c64783b9b82b15265cfc4234381097df0e898eae732"
     }
   ]
 }
