@@ -115,7 +115,7 @@
       "destination": "/services/roof-lifting.html"
     }
   ],
-  "buildCommand": "node scripts/build-contact-site.mjs && node scripts/ai/build.mjs && node scripts/check-ai-site.mjs",
+  "buildCommand": "node scripts/install-roofing-growth.mjs && node scripts/build-contact-site.mjs && node scripts/ai/build.mjs && node scripts/check-ai-site.mjs && node scripts/install-roofing-growth.mjs",
   "redirects": [
     {
       "source": "/cdn-cgi/l/email-protection",
