@@ -5,7 +5,7 @@ html,body{overflow-x:hidden}.provo-home,.provo-home *,.provo-contact *{box-sizin
 .provo-actions{display:flex;flex-wrap:wrap;gap:12px}.provo-button{align-items:center;background:var(--provo-orange);border:2px solid var(--provo-orange);color:#fff!important;display:inline-flex;font-size:13px;font-weight:800;justify-content:center;letter-spacing:.06em;min-height:52px;padding:0 22px;text-decoration:none!important;text-transform:uppercase}.provo-button:hover{background:#c94118;border-color:#c94118}.provo-button.outline{background:transparent;border-color:#fff}.provo-button.dark{background:var(--provo-black);border-color:var(--provo-black)}
 .provo-signal{background:var(--provo-black);color:#fff;display:grid;grid-template-columns:repeat(5,1fr)}.provo-signal a{border-right:1px solid rgba(255,255,255,.16);color:#fff!important;min-height:150px;padding:30px;text-decoration:none}.provo-signal a:hover{background:var(--provo-orange)}.provo-signal strong{display:block;font-size:19px;margin-bottom:8px;color:#fff!important}.provo-signal span{color:rgba(255,255,255,.67);font-size:14px;line-height:1.45}.provo-signal a:hover span{color:#fff!important}
 .provo-intro{background:var(--provo-cream);display:grid;grid-template-columns:.8fr 1.2fr;padding:clamp(70px,9vw,140px) max(24px,8vw);gap:clamp(40px,7vw,100px)}.provo-intro h2,.provo-section-head h2,.provo-copy h2,.provo-form-copy h2{color:var(--provo-black);font-size:clamp(40px,4.7vw,70px);letter-spacing:-.035em;line-height:1.02;margin:0}.provo-intro-text p,.provo-copy p,.provo-section-head p,.provo-form-copy p{font-size:18px;line-height:1.7;margin:0 0 22px}.provo-intro-text strong{color:var(--provo-orange)}
-.provo-inspection{display:grid;grid-template-columns:1.1fr .9fr;min-height:680px}.provo-inspection-image{background:url('/ours/services/commercial-roof-inspection-commercial-roofers-provo-ut.webp') center/cover;min-height:540px}.provo-copy{align-self:center;padding:clamp(55px,7vw,105px)}.provo-copy .provo-eyebrow{color:var(--provo-orange)}.provo-proof{border-left:4px solid var(--provo-orange);font-weight:800;margin:27px 0!important;padding-left:18px}
+.provo-inspection{display:grid;grid-template-columns:1.1fr .9fr;min-height:680px}.provo-inspection-image{background:url('/ours/services/flat-roof-inspection-thermal-scan-commercial-roofers-provo-ut.webp') center/cover;min-height:540px}.provo-copy{align-self:center;padding:clamp(55px,7vw,105px)}.provo-copy .provo-eyebrow{color:var(--provo-orange)}.provo-proof{border-left:4px solid var(--provo-orange);font-weight:800;margin:27px 0!important;padding-left:18px}
 .provo-services{background:var(--provo-charcoal);color:#fff;padding:clamp(75px,9vw,135px) 24px}.provo-section-head{margin:0 auto 48px;max-width:970px;text-align:center}.provo-services .provo-section-head h2,.provo-weather .provo-section-head h2{color:#fff}.provo-services .provo-section-head p,.provo-weather .provo-section-head p{color:rgba(255,255,255,.72);margin-left:auto;margin-right:auto;max-width:760px}.provo-service-grid{display:grid;gap:14px;grid-template-columns:repeat(3,1fr);margin:0 auto;max-width:1220px}.provo-service-card{background:#363636;border-bottom:5px solid var(--provo-orange);min-height:310px;padding:34px}.provo-service-card h3{color:#fff;font-size:27px;margin:0 0 15px}.provo-service-card p{color:rgba(255,255,255,.72);line-height:1.65}.provo-service-card a{color:#ff946f!important;font-weight:800}
 .provo-weather{background:linear-gradient(rgba(56,93,114,.94),rgba(56,93,114,.94)),url('/ours/service-areas/commercial-roofers-provo-ut-07.webp') center/cover;color:#fff;padding:clamp(80px,10vw,150px) 24px}.provo-weather-grid{display:grid;gap:1px;grid-template-columns:repeat(4,1fr);margin:0 auto;max-width:1220px;background:rgba(255,255,255,.25)}.provo-weather-grid article{background:rgba(24,50,65,.72);min-height:240px;padding:30px}.provo-weather-grid h3{color:#fff;font-size:21px;margin:0 0 13px}.provo-weather-grid p{color:rgba(255,255,255,.75);line-height:1.6;margin:0}
 .provo-process{padding:clamp(75px,9vw,130px) 24px}.provo-process-grid{display:grid;gap:26px;grid-template-columns:repeat(4,1fr);margin:0 auto;max-width:1220px}.provo-process-grid article{border-top:3px solid var(--provo-orange);padding-top:22px}.provo-process-grid h3{font-size:21px;margin:0 0 10px}.provo-process-grid p{line-height:1.6;margin:0}
@@ -101,16 +101,16 @@ html body .rh-intent-page .rh-intent-cta,html body .rh-intent-page .rh-leak-funn
 html body a.rh-rain-intent-link{display:block!important;width:fit-content!important;margin:0 auto 8px!important;max-width:952px!important;box-sizing:border-box!important}
 
 /* privacy and terms: body copy sits in <main> ahead of the title band; reorder and pad the column */
-html body #tWrap:has(>main){display:flex!important;flex-direction:column!important}
+html body #tWrap:has(>main:not(.provo-home)){display:flex!important;flex-direction:column!important}
 html body #tWrap>header{order:0}
 html body #tWrap>#clearer{order:1}
 html body #tWrap>#tBody{order:2}
-html body #tWrap>main{order:3;width:100%;max-width:860px;margin:0 auto;padding:40px 24px 72px;box-sizing:border-box}
+html body #tWrap>main:not(.provo-home){order:3;width:100%;max-width:860px;margin:0 auto;padding:40px 24px 72px;box-sizing:border-box}
 html body #tWrap>footer{order:4}
-html body #tWrap>main h1{position:absolute!important;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
-html body #tWrap>main h2{font-size:26px!important;line-height:1.25!important;color:#2b2b29!important;margin:32px 0 10px!important}
-html body #tWrap>main p{font-size:17px!important;line-height:1.75!important;color:#2b2b29!important;margin:0 0 16px!important}
-html body #tWrap>main a{overflow-wrap:anywhere}
+html body #tWrap>main:not(.provo-home) h1{position:absolute!important;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+html body #tWrap>main:not(.provo-home) h2{font-size:26px!important;line-height:1.25!important;color:#2b2b29!important;margin:32px 0 10px!important}
+html body #tWrap>main:not(.provo-home) p{font-size:17px!important;line-height:1.75!important;color:#2b2b29!important;margin:0 0 16px!important}
+html body #tWrap>main:not(.provo-home) a{overflow-wrap:anywhere}
 
 /* contact form: message box was squeezed inside the dark button bar */
 html body form[data-contact-form] .sendbtn:has(textarea){display:block!important;background:none!important;height:auto!important;width:100%!important;max-width:458px;padding:0!important}
@@ -118,3 +118,24 @@ html body form[data-contact-form] .sendbtn label{display:block!important;width:1
 html body form[data-contact-form] .sendbtn textarea{display:block!important;width:100%!important;max-width:458px;box-sizing:border-box;min-height:140px;padding:12px 14px!important;border:1px solid #b9b9b6!important;background:#fff!important;color:#2b2b29!important;font:inherit;font-size:16px;margin:0 0 14px}
 html body form[data-contact-form] .inpcont input,html body form[data-contact-form] .styled-select select{max-width:458px;width:100%;box-sizing:border-box}
 html body form[data-contact-form] button.sendbtn{display:inline-block!important;background:#d8491d!important;color:#fff!important;font-weight:800;letter-spacing:.06em;text-transform:uppercase;min-height:48px;height:auto!important}
+
+/* type scale + header repairs */
+.provo-hero h1 { font-size: clamp(38px, 4.8vw, 68px) !important; letter-spacing: -.02em !important; line-height: 1.03 !important; }
+.provo-intro h2, .provo-section-head h2, .provo-copy h2, .provo-form-copy h2 { font-size: clamp(30px, 3.4vw, 48px) !important; letter-spacing: -.015em !important; line-height: 1.08 !important; }
+.provo-hero { min-height: clamp(560px, calc(100vh - 48px), 760px); }
+html body #navbar #nav-search { width: 48px !important; }
+html body #navbar #nav-search input { display: none !important; }
+p.rh-rain-intent-link { margin: 0; padding: 6px 20px; text-align: center; font-size: 13px; }
+p.rh-rain-intent-link a { color: #666; text-decoration: none; }
+.provo-lead > *, .provo-form-copy, .provo-contact { min-width: 0; max-width: 100%; }
+.provo-form-copy a { overflow-wrap: anywhere; }
+@media (max-width: 900px) { .provo-lead { grid-template-columns: 1fr !important; } .provo-contact { margin: 0 !important; padding: 26px 18px !important; } .provo-contact form { grid-template-columns: 1fr !important; } }
+@media (max-width: 900px) {
+  html body #navbar #logo { height: 48px !important; width: auto !important; padding: 4px 12px !important; display: flex; align-items: center; box-shadow: none !important; border-radius: 0 !important; }
+  html body #navbar #logo img { height: 40px !important; width: auto !important; max-width: 180px !important; }
+}
+@media (max-width: 900px) {
+  html body #tNav #navbar #logo { height: 48px !important; min-height: 0 !important; width: auto !important; max-width: 60vw; overflow: hidden; background: #fff !important; padding: 0 12px !important; display: flex !important; align-items: center; }
+  html body #tNav #navbar #logo a.rr-wordmark { height: 40px !important; width: auto !important; min-height: 0 !important; padding: 0 !important; margin: 0 !important; display: flex !important; align-items: center; }
+  html body #tNav #navbar #logo img { height: 36px !important; width: auto !important; }
+}
