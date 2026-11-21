@@ -1,0 +1,680 @@
+{
+  "revision": "roofing-speed-v1",
+  "domain": "commercialroofersprovo.com",
+  "images": {
+    "/images/brand/logo-on-dark.png": "/performance/roofing-v1/13f867cade1c7b8ca6e55582.webp",
+    "/images/brand/logo-on-light.png": "/performance/roofing-v1/0992ee04bec48aa28a1fa3c4.webp",
+    "/ours/manufacturers/carlisle-syntec-commercial-roofers-provo-ut.webp": "/performance/roofing-v1/2c7bb3ce5aa6c4edb585214e.webp",
+    "/ours/manufacturers/johns-manville-commercial-roofers-provo-ut.webp": "/performance/roofing-v1/d25094beb5747ccd88b6f017.webp",
+    "/ours/roof-systems/tpo-60-mil-commercial-roofers-provo-ut.webp": "/performance/roofing-v1/a9a2afcae3cc0a264ecb8309.webp",
+    "/ours/services/commercial-roof-tear-off-replacement-commercial-roofers-provo-ut.webp": "/performance/roofing-v1/bd634ef4ac4839f1eb05bb89.webp",
+    "/ours/services/edge-metal-coping-gutters-commercial-roofers-provo-ut.webp": "/performance/roofing-v1/7d5158f2e5d81bc4c5a221d7.webp",
+    "/ours/services/epdm-commercial-roofing-commercial-roofers-provo-ut.webp": "/performance/roofing-v1/086d4c5977339e7db9ebd2ae.webp",
+    "/ours/services/pvc-roofing-commercial-roofers-provo-ut.webp": "/performance/roofing-v1/2c71f5c444d71cfd0ed29001.webp"
+  },
+  "assets": [
+    {
+      "from": "/images/brand/logo-on-dark.png",
+      "to": "/performance/roofing-v1/13f867cade1c7b8ca6e55582.webp",
+      "width": 692,
+      "height": 392,
+      "beforeBytes": 117966,
+      "afterBytes": 77460
+    },
+    {
+      "from": "/images/brand/logo-on-light.png",
+      "to": "/performance/roofing-v1/0992ee04bec48aa28a1fa3c4.webp",
+      "width": 692,
+      "height": 392,
+      "beforeBytes": 129545,
+      "afterBytes": 83684
+    },
+    {
+      "from": "/ours/manufacturers/carlisle-syntec-commercial-roofers-provo-ut.webp",
+      "to": "/performance/roofing-v1/2c7bb3ce5aa6c4edb585214e.webp",
+      "width": 2400,
+      "height": 1600,
+      "beforeBytes": 188908,
+      "afterBytes": 148114
+    },
+    {
+      "from": "/ours/manufacturers/johns-manville-commercial-roofers-provo-ut.webp",
+      "to": "/performance/roofing-v1/d25094beb5747ccd88b6f017.webp",
+      "width": 2400,
+      "height": 1340,
+      "beforeBytes": 323524,
+      "afterBytes": 231696
+    },
+    {
+      "from": "/ours/roof-systems/tpo-60-mil-commercial-roofers-provo-ut.webp",
+      "to": "/performance/roofing-v1/a9a2afcae3cc0a264ecb8309.webp",
+      "width": 2370,
+      "height": 1333,
+      "beforeBytes": 164352,
+      "afterBytes": 122906
+    },
+    {
+      "from": "/ours/services/commercial-roof-tear-off-replacement-commercial-roofers-provo-ut.webp",
+      "to": "/performance/roofing-v1/bd634ef4ac4839f1eb05bb89.webp",
+      "width": 1500,
+      "height": 1000,
+      "beforeBytes": 108746,
+      "afterBytes": 84416
+    },
+    {
+      "from": "/ours/services/edge-metal-coping-gutters-commercial-roofers-provo-ut.webp",
+      "to": "/performance/roofing-v1/7d5158f2e5d81bc4c5a221d7.webp",
+      "width": 2400,
+      "height": 1340,
+      "beforeBytes": 189660,
+      "afterBytes": 136922
+    },
+    {
+      "from": "/ours/services/epdm-commercial-roofing-commercial-roofers-provo-ut.webp",
+      "to": "/performance/roofing-v1/086d4c5977339e7db9ebd2ae.webp",
+      "width": 2400,
+      "height": 1799,
+      "beforeBytes": 353162,
+      "afterBytes": 247336
+    },
+    {
+      "from": "/ours/services/pvc-roofing-commercial-roofers-provo-ut.webp",
+      "to": "/performance/roofing-v1/2c71f5c444d71cfd0ed29001.webp",
+      "width": 1920,
+      "height": 1440,
+      "beforeBytes": 141820,
+      "afterBytes": 102028
+    }
+  ],
+  "createdAt": "2026-11-21T04:38:53.415Z",
+  "fonts": [
+    {
+      "source": "https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Google+Sans:400,500,700|Google+Sans+Text:400,500,700&lang=en",
+      "requestUrl": "https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Google+Sans:400,500,700|Google+Sans+Text:400,500,700&lang=en",
+      "cssPath": "/performance/roofing-v1/5b60e7af168bffaf09662057.css",
+      "assets": [
+        {
+          "source": "https://fonts.gstatic.com/s/googlesans/v76/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPjcUvbQoi-Entw.woff2",
+          "path": "/performance/roofing-v1/6ffda35e9f2022ce261cee59.woff2",
+          "bytes": 72052
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesans/v76/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPiIUvbQoi-Entw.woff2",
+          "path": "/performance/roofing-v1/6203b1cc71bca93f09b4d75c.woff2",
+          "bytes": 15668
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesans/v76/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPiAUvbQoi-Entw.woff2",
+          "path": "/performance/roofing-v1/7ce2ee7771ce83f2af4af192.woff2",
+          "bytes": 75296
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesans/v76/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPh0UvbQoi-Entw.woff2",
+          "path": "/performance/roofing-v1/905b43c8395d2746e23a753c.woff2",
+          "bytes": 2628
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesans/v76/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPj8UvbQoi-Entw.woff2",
+          "path": "/performance/roofing-v1/8cda67e840cecc9da0ae9097.woff2",
+          "bytes": 15984
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesans/v76/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPjYUvbQoi-Entw.woff2",
+          "path": "/performance/roofing-v1/732e821119ee0a367fe21c1f.woff2",
+          "bytes": 16004
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesans/v76/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPjMUvbQoi-Entw.woff2",
+          "path": "/performance/roofing-v1/c541b1cf853d2dc02b70710d.woff2",
+          "bytes": 50088
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesans/v76/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPiMUvbQoi-Entw.woff2",
+          "path": "/performance/roofing-v1/3b3223e8b33a382345e2d1cc.woff2",
+          "bytes": 249336
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesans/v76/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPi0UvbQoi-Entw.woff2",
+          "path": "/performance/roofing-v1/efdb59aa4558623b591c5804.woff2",
+          "bytes": 18080
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesans/v76/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPj4UvbQoi-Entw.woff2",
+          "path": "/performance/roofing-v1/ccb3997a1db44c47c7bf3c03.woff2",
+          "bytes": 8472
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesans/v76/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPjEUvbQoi-Entw.woff2",
+          "path": "/performance/roofing-v1/c54a540668e783fcd9d2d052.woff2",
+          "bytes": 9184
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesans/v76/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPikUvbQoi-Entw.woff2",
+          "path": "/performance/roofing-v1/7b72aacec134fd9c32c6f22d.woff2",
+          "bytes": 41264
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesans/v76/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPhEUvbQoi-Entw.woff2",
+          "path": "/performance/roofing-v1/e0898d5293867d71e0149fa6.woff2",
+          "bytes": 17780
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesans/v76/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPjAUvbQoi-Entw.woff2",
+          "path": "/performance/roofing-v1/75e42982e5abf30185a117bc.woff2",
+          "bytes": 12136
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesans/v76/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPigUvbQoi-Entw.woff2",
+          "path": "/performance/roofing-v1/114e252d816b784b5135b11f.woff2",
+          "bytes": 55392
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesans/v76/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPjkUvbQoi-Entw.woff2",
+          "path": "/performance/roofing-v1/9d24c023db77c6f6d55215bb.woff2",
+          "bytes": 60388
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesans/v76/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPjsUvbQoi-Entw.woff2",
+          "path": "/performance/roofing-v1/4be52a42c2a135bc495902f1.woff2",
+          "bytes": 17520
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesans/v76/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPioUvbQoi-Entw.woff2",
+          "path": "/performance/roofing-v1/ae0a508490290ae4152a440b.woff2",
+          "bytes": 42124
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesans/v76/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPisUvbQoi-Entw.woff2",
+          "path": "/performance/roofing-v1/1bb520a62f93dfc6d910b715.woff2",
+          "bytes": 46160
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesans/v76/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPi8UvbQoi-Entw.woff2",
+          "path": "/performance/roofing-v1/80ae999f777431e9cc4a4b9b.woff2",
+          "bytes": 72044
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesans/v76/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPlwUvbQoi-Entw.woff2",
+          "path": "/performance/roofing-v1/f397cb4a90e49e0bdbc0f0f7.woff2",
+          "bytes": 20488
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesans/v76/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPiQUvbQoi-Entw.woff2",
+          "path": "/performance/roofing-v1/a2f4a5600441aee13a0d20a5.woff2",
+          "bytes": 24108
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesans/v76/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPi4UvbQoi-Entw.woff2",
+          "path": "/performance/roofing-v1/f43368bfd3612adb555197e3.woff2",
+          "bytes": 66264
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesans/v76/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPiYUvbQoi-Entw.woff2",
+          "path": "/performance/roofing-v1/0258650a142e543b70fc6ea6.woff2",
+          "bytes": 17388
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesans/v76/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPj0UvbQoi-Entw.woff2",
+          "path": "/performance/roofing-v1/d53e32d85667b4c6b9399a5d.woff2",
+          "bytes": 8544
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesans/v76/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPjwUvbQoi-Entw.woff2",
+          "path": "/performance/roofing-v1/17db488bd66fba0f14aae4d5.woff2",
+          "bytes": 21568
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesans/v76/4UasrENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RPjIUvbQoi-E.woff2",
+          "path": "/performance/roofing-v1/215cc18cf3c463e59219e851.woff2",
+          "bytes": 35984
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUu9-KzpRiLCAt4Unrc-xIKmCU5qFp2i0VBuxOCBA.woff2",
+          "path": "/performance/roofing-v1/733b660c0f25cfbe082c1ec4.woff2",
+          "bytes": 9628
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUu9-KzpRiLCAt4Unrc-xIKmCU5qFh2i0VBuxOCBA.woff2",
+          "path": "/performance/roofing-v1/d6b87dbbe1cc7bb756d92483.woff2",
+          "bytes": 46136
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUu9-KzpRiLCAt4Unrc-xIKmCU5qGV2i0VBuxOCBA.woff2",
+          "path": "/performance/roofing-v1/d4035acb2f5746d2ee082fdf.woff2",
+          "bytes": 1744
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUu9-KzpRiLCAt4Unrc-xIKmCU5qEd2i0VBuxOCBA.woff2",
+          "path": "/performance/roofing-v1/9a891790fedeee716732a103.woff2",
+          "bytes": 9388
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUu9-KzpRiLCAt4Unrc-xIKmCU5qE52i0VBuxOCBA.woff2",
+          "path": "/performance/roofing-v1/e7bfa4e3c03f8f286e1e68e7.woff2",
+          "bytes": 9260
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUu9-KzpRiLCAt4Unrc-xIKmCU5qEt2i0VBuxOCBA.woff2",
+          "path": "/performance/roofing-v1/ede69080d75383bf39b4ae0d.woff2",
+          "bytes": 31232
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUu9-KzpRiLCAt4Unrc-xIKmCU5qFt2i0VBuxOCBA.woff2",
+          "path": "/performance/roofing-v1/4b3a9f76862e4d4cb7d0a758.woff2",
+          "bytes": 87052
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUu9-KzpRiLCAt4Unrc-xIKmCU5qFV2i0VBuxOCBA.woff2",
+          "path": "/performance/roofing-v1/c4b75f3522f082f5e9b1c1e5.woff2",
+          "bytes": 9980
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUu9-KzpRiLCAt4Unrc-xIKmCU5qEZ2i0VBuxOCBA.woff2",
+          "path": "/performance/roofing-v1/6fc0e6d390733d639db8c96c.woff2",
+          "bytes": 5256
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUu9-KzpRiLCAt4Unrc-xIKmCU5qEl2i0VBuxOCBA.woff2",
+          "path": "/performance/roofing-v1/a7b698d931df0b4a745b9bff.woff2",
+          "bytes": 5596
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUu9-KzpRiLCAt4Unrc-xIKmCU5qFF2i0VBuxOCBA.woff2",
+          "path": "/performance/roofing-v1/275a8b4b2438dc2236ddd507.woff2",
+          "bytes": 25404
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUu9-KzpRiLCAt4Unrc-xIKmCU5qGl2i0VBuxOCBA.woff2",
+          "path": "/performance/roofing-v1/29434510c3d3af5391ca5e2c.woff2",
+          "bytes": 11720
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUu9-KzpRiLCAt4Unrc-xIKmCU5qEh2i0VBuxOCBA.woff2",
+          "path": "/performance/roofing-v1/cb1ae50ed3f2d3612e19101a.woff2",
+          "bytes": 8052
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUu9-KzpRiLCAt4Unrc-xIKmCU5qFB2i0VBuxOCBA.woff2",
+          "path": "/performance/roofing-v1/45a0865fad35348e57b7ef07.woff2",
+          "bytes": 33856
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUu9-KzpRiLCAt4Unrc-xIKmCU5qEF2i0VBuxOCBA.woff2",
+          "path": "/performance/roofing-v1/88aa93a157092da5e869a3d2.woff2",
+          "bytes": 35108
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUu9-KzpRiLCAt4Unrc-xIKmCU5qEN2i0VBuxOCBA.woff2",
+          "path": "/performance/roofing-v1/34eda2790dc13c53d4227744.woff2",
+          "bytes": 10072
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUu9-KzpRiLCAt4Unrc-xIKmCU5qFJ2i0VBuxOCBA.woff2",
+          "path": "/performance/roofing-v1/cd8b9e32c80015412a108657.woff2",
+          "bytes": 26588
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUu9-KzpRiLCAt4Unrc-xIKmCU5qFN2i0VBuxOCBA.woff2",
+          "path": "/performance/roofing-v1/ee7f0af5717ace37f4a1c8bd.woff2",
+          "bytes": 28236
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUu9-KzpRiLCAt4Unrc-xIKmCU5qFd2i0VBuxOCBA.woff2",
+          "path": "/performance/roofing-v1/05f929e11f606c6423054cbd.woff2",
+          "bytes": 42072
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUu9-KzpRiLCAt4Unrc-xIKmCU5qCR2i0VBuxOCBA.woff2",
+          "path": "/performance/roofing-v1/04804bbe9c10a5a9bcc4dadf.woff2",
+          "bytes": 12256
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUu9-KzpRiLCAt4Unrc-xIKmCU5qFx2i0VBuxOCBA.woff2",
+          "path": "/performance/roofing-v1/5048b852f2ff116a0df757cd.woff2",
+          "bytes": 14756
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUu9-KzpRiLCAt4Unrc-xIKmCU5qFZ2i0VBuxOCBA.woff2",
+          "path": "/performance/roofing-v1/0828cc0bed0e8d89c23d921d.woff2",
+          "bytes": 40116
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUu9-KzpRiLCAt4Unrc-xIKmCU5qF52i0VBuxOCBA.woff2",
+          "path": "/performance/roofing-v1/82bcf4b80405ecbc702e732b.woff2",
+          "bytes": 9764
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUu9-KzpRiLCAt4Unrc-xIKmCU5qEV2i0VBuxOCBA.woff2",
+          "path": "/performance/roofing-v1/4235d42f3c6f9867e7f5f4b2.woff2",
+          "bytes": 5364
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUu9-KzpRiLCAt4Unrc-xIKmCU5qER2i0VBuxOCBA.woff2",
+          "path": "/performance/roofing-v1/f8caf8683713528da28a1352.woff2",
+          "bytes": 13540
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUu9-KzpRiLCAt4Unrc-xIKmCU5qEp2i0VBuxM.woff2",
+          "path": "/performance/roofing-v1/ca561a9c89b19f76dfbe0221.woff2",
+          "bytes": 22192
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUp9-KzpRiLCAt4Unrc-xIKmCU5oLlVnnhjtjm4DZzFQQ.woff2",
+          "path": "/performance/roofing-v1/788bf68cd04652a79b10b851.woff2",
+          "bytes": 9868
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUp9-KzpRiLCAt4Unrc-xIKmCU5oLlVnnpjtjm4DZzFQQ.woff2",
+          "path": "/performance/roofing-v1/66b517f4893ace6316148cef.woff2",
+          "bytes": 48840
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUp9-KzpRiLCAt4Unrc-xIKmCU5oLlVnkdjtjm4DZzFQQ.woff2",
+          "path": "/performance/roofing-v1/fe4c618ca62132adfc8b5bb7.woff2",
+          "bytes": 1772
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUp9-KzpRiLCAt4Unrc-xIKmCU5oLlVnmVjtjm4DZzFQQ.woff2",
+          "path": "/performance/roofing-v1/f4ec3a353706e80adba5709e.woff2",
+          "bytes": 9752
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUp9-KzpRiLCAt4Unrc-xIKmCU5oLlVnmxjtjm4DZzFQQ.woff2",
+          "path": "/performance/roofing-v1/2c899f7ccab1ddfffbb2a46f.woff2",
+          "bytes": 9580
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUp9-KzpRiLCAt4Unrc-xIKmCU5oLlVnmljtjm4DZzFQQ.woff2",
+          "path": "/performance/roofing-v1/237b39ca739ce56d0245a95a.woff2",
+          "bytes": 32460
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUp9-KzpRiLCAt4Unrc-xIKmCU5oLlVnnljtjm4DZzFQQ.woff2",
+          "path": "/performance/roofing-v1/0bfe92777bf77b2d8458b6af.woff2",
+          "bytes": 114244
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUp9-KzpRiLCAt4Unrc-xIKmCU5oLlVnndjtjm4DZzFQQ.woff2",
+          "path": "/performance/roofing-v1/5c4f72406b499bdfefd5ba0c.woff2",
+          "bytes": 10288
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUp9-KzpRiLCAt4Unrc-xIKmCU5oLlVnmRjtjm4DZzFQQ.woff2",
+          "path": "/performance/roofing-v1/544e4ec7b4a8a66d5806b9ee.woff2",
+          "bytes": 5272
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUp9-KzpRiLCAt4Unrc-xIKmCU5oLlVnmtjtjm4DZzFQQ.woff2",
+          "path": "/performance/roofing-v1/e2772c720b6ece869f05b2eb.woff2",
+          "bytes": 5644
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUp9-KzpRiLCAt4Unrc-xIKmCU5oLlVnnNjtjm4DZzFQQ.woff2",
+          "path": "/performance/roofing-v1/c1afc0cfd6abf9153d40ad6a.woff2",
+          "bytes": 26924
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUp9-KzpRiLCAt4Unrc-xIKmCU5oLlVnktjtjm4DZzFQQ.woff2",
+          "path": "/performance/roofing-v1/f8ec72c89b3c5d63cd25b2a0.woff2",
+          "bytes": 11948
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUp9-KzpRiLCAt4Unrc-xIKmCU5oLlVnmpjtjm4DZzFQQ.woff2",
+          "path": "/performance/roofing-v1/dbf57a2aa16bafd77f3f8f7d.woff2",
+          "bytes": 8164
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUp9-KzpRiLCAt4Unrc-xIKmCU5oLlVnnJjtjm4DZzFQQ.woff2",
+          "path": "/performance/roofing-v1/5273150ec78a927a7801124f.woff2",
+          "bytes": 35932
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUp9-KzpRiLCAt4Unrc-xIKmCU5oLlVnmNjtjm4DZzFQQ.woff2",
+          "path": "/performance/roofing-v1/237aca12443ac84798139d99.woff2",
+          "bytes": 37556
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUp9-KzpRiLCAt4Unrc-xIKmCU5oLlVnmFjtjm4DZzFQQ.woff2",
+          "path": "/performance/roofing-v1/8566003e89aaa18b463773ab.woff2",
+          "bytes": 10636
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUp9-KzpRiLCAt4Unrc-xIKmCU5oLlVnnBjtjm4DZzFQQ.woff2",
+          "path": "/performance/roofing-v1/096c47bb743232e9a3e7b1fe.woff2",
+          "bytes": 28860
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUp9-KzpRiLCAt4Unrc-xIKmCU5oLlVnnFjtjm4DZzFQQ.woff2",
+          "path": "/performance/roofing-v1/8437a2a6fb161c0624b7b592.woff2",
+          "bytes": 30756
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUp9-KzpRiLCAt4Unrc-xIKmCU5oLlVnnVjtjm4DZzFQQ.woff2",
+          "path": "/performance/roofing-v1/28453858018176f0900cf9d5.woff2",
+          "bytes": 49384
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUp9-KzpRiLCAt4Unrc-xIKmCU5oLlVngZjtjm4DZzFQQ.woff2",
+          "path": "/performance/roofing-v1/b00a7c8ccbed69a2f3c10efc.woff2",
+          "bytes": 12880
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUp9-KzpRiLCAt4Unrc-xIKmCU5oLlVnn5jtjm4DZzFQQ.woff2",
+          "path": "/performance/roofing-v1/8b32c528e1b588653996a5ef.woff2",
+          "bytes": 15920
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUp9-KzpRiLCAt4Unrc-xIKmCU5oLlVnnRjtjm4DZzFQQ.woff2",
+          "path": "/performance/roofing-v1/4b5f5c6c830d5966f7d115e0.woff2",
+          "bytes": 45416
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUp9-KzpRiLCAt4Unrc-xIKmCU5oLlVnnxjtjm4DZzFQQ.woff2",
+          "path": "/performance/roofing-v1/ae6f4a672868d9dd87853d0f.woff2",
+          "bytes": 10312
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUp9-KzpRiLCAt4Unrc-xIKmCU5oLlVnmdjtjm4DZzFQQ.woff2",
+          "path": "/performance/roofing-v1/8ca948ef66cd168c86834ac3.woff2",
+          "bytes": 5512
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUp9-KzpRiLCAt4Unrc-xIKmCU5oLlVnmZjtjm4DZzFQQ.woff2",
+          "path": "/performance/roofing-v1/d0f9ea2366f4ea4ed582e395.woff2",
+          "bytes": 13836
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUp9-KzpRiLCAt4Unrc-xIKmCU5oLlVnmhjtjm4DZw.woff2",
+          "path": "/performance/roofing-v1/761b5ddf4a09db0d4b2d43ce.woff2",
+          "bytes": 23540
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUp9-KzpRiLCAt4Unrc-xIKmCU5oPFTnnhjtjm4DZzFQQ.woff2",
+          "path": "/performance/roofing-v1/5ff2f2b9482b002f05b47670.woff2",
+          "bytes": 9788
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUp9-KzpRiLCAt4Unrc-xIKmCU5oPFTnnpjtjm4DZzFQQ.woff2",
+          "path": "/performance/roofing-v1/023afff5a644da9fdf2382b6.woff2",
+          "bytes": 47036
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUp9-KzpRiLCAt4Unrc-xIKmCU5oPFTnkdjtjm4DZzFQQ.woff2",
+          "path": "/performance/roofing-v1/1ab8d1a3d1fecc908f9fb0b0.woff2",
+          "bytes": 1804
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUp9-KzpRiLCAt4Unrc-xIKmCU5oPFTnmVjtjm4DZzFQQ.woff2",
+          "path": "/performance/roofing-v1/19c771f48a5b5d48bfa3966f.woff2",
+          "bytes": 9456
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUp9-KzpRiLCAt4Unrc-xIKmCU5oPFTnmxjtjm4DZzFQQ.woff2",
+          "path": "/performance/roofing-v1/6c5398b7af8d145142850b10.woff2",
+          "bytes": 9248
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUp9-KzpRiLCAt4Unrc-xIKmCU5oPFTnmljtjm4DZzFQQ.woff2",
+          "path": "/performance/roofing-v1/a2fabc3b48d5b523ee5e9a29.woff2",
+          "bytes": 32088
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUp9-KzpRiLCAt4Unrc-xIKmCU5oPFTnnljtjm4DZzFQQ.woff2",
+          "path": "/performance/roofing-v1/a335b441bfffc7f608621bd6.woff2",
+          "bytes": 94908
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUp9-KzpRiLCAt4Unrc-xIKmCU5oPFTnndjtjm4DZzFQQ.woff2",
+          "path": "/performance/roofing-v1/1c9a308d4edd219796134184.woff2",
+          "bytes": 10036
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUp9-KzpRiLCAt4Unrc-xIKmCU5oPFTnmRjtjm4DZzFQQ.woff2",
+          "path": "/performance/roofing-v1/002ae122f8ae32676df4f883.woff2",
+          "bytes": 5332
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUp9-KzpRiLCAt4Unrc-xIKmCU5oPFTnmtjtjm4DZzFQQ.woff2",
+          "path": "/performance/roofing-v1/af6583910a1c58a452aa98c1.woff2",
+          "bytes": 5596
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUp9-KzpRiLCAt4Unrc-xIKmCU5oPFTnnNjtjm4DZzFQQ.woff2",
+          "path": "/performance/roofing-v1/ff5ff625c5a4b548cdda144b.woff2",
+          "bytes": 26524
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUp9-KzpRiLCAt4Unrc-xIKmCU5oPFTnktjtjm4DZzFQQ.woff2",
+          "path": "/performance/roofing-v1/06a9dfe53f7a6bd5d44d1af1.woff2",
+          "bytes": 11844
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUp9-KzpRiLCAt4Unrc-xIKmCU5oPFTnmpjtjm4DZzFQQ.woff2",
+          "path": "/performance/roofing-v1/bf43c48945054f5123340a57.woff2",
+          "bytes": 8196
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUp9-KzpRiLCAt4Unrc-xIKmCU5oPFTnnJjtjm4DZzFQQ.woff2",
+          "path": "/performance/roofing-v1/b863dbaee3f8e0d6cd6ebc16.woff2",
+          "bytes": 35532
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUp9-KzpRiLCAt4Unrc-xIKmCU5oPFTnmNjtjm4DZzFQQ.woff2",
+          "path": "/performance/roofing-v1/4688b5df9d1e032ef10d214a.woff2",
+          "bytes": 35316
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUp9-KzpRiLCAt4Unrc-xIKmCU5oPFTnmFjtjm4DZzFQQ.woff2",
+          "path": "/performance/roofing-v1/872cd87d3cae709969403e2f.woff2",
+          "bytes": 10444
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUp9-KzpRiLCAt4Unrc-xIKmCU5oPFTnnBjtjm4DZzFQQ.woff2",
+          "path": "/performance/roofing-v1/7038e3e2aed11a0820097a00.woff2",
+          "bytes": 28796
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUp9-KzpRiLCAt4Unrc-xIKmCU5oPFTnnFjtjm4DZzFQQ.woff2",
+          "path": "/performance/roofing-v1/a80d58dca4600003339b4b97.woff2",
+          "bytes": 30324
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUp9-KzpRiLCAt4Unrc-xIKmCU5oPFTnnVjtjm4DZzFQQ.woff2",
+          "path": "/performance/roofing-v1/2225098d883546c122354e8a.woff2",
+          "bytes": 48468
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUp9-KzpRiLCAt4Unrc-xIKmCU5oPFTngZjtjm4DZzFQQ.woff2",
+          "path": "/performance/roofing-v1/78bf2765f206661d72678b79.woff2",
+          "bytes": 12472
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUp9-KzpRiLCAt4Unrc-xIKmCU5oPFTnn5jtjm4DZzFQQ.woff2",
+          "path": "/performance/roofing-v1/29d68391bd7d5218e9226a54.woff2",
+          "bytes": 15744
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUp9-KzpRiLCAt4Unrc-xIKmCU5oPFTnnRjtjm4DZzFQQ.woff2",
+          "path": "/performance/roofing-v1/2cf06dba9f1db0f2da38c999.woff2",
+          "bytes": 43500
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUp9-KzpRiLCAt4Unrc-xIKmCU5oPFTnnxjtjm4DZzFQQ.woff2",
+          "path": "/performance/roofing-v1/cff9f16597078f720b5f04c5.woff2",
+          "bytes": 10016
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUp9-KzpRiLCAt4Unrc-xIKmCU5oPFTnmdjtjm4DZzFQQ.woff2",
+          "path": "/performance/roofing-v1/a10b366920c4e261a2d523e3.woff2",
+          "bytes": 5400
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUp9-KzpRiLCAt4Unrc-xIKmCU5oPFTnmZjtjm4DZzFQQ.woff2",
+          "path": "/performance/roofing-v1/36bd38cb7ffcb2115c999ff1.woff2",
+          "bytes": 13656
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/googlesanstext/v29/5aUp9-KzpRiLCAt4Unrc-xIKmCU5oPFTnmhjtjm4DZw.woff2",
+          "path": "/performance/roofing-v1/85cca502dff4b9d7984375c4.woff2",
+          "bytes": 23044
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3GUBHMdazTgWw.woff2",
+          "path": "/performance/roofing-v1/e44224eb71a96cb33bd046de.woff2",
+          "bytes": 31472
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3iUBHMdazTgWw.woff2",
+          "path": "/performance/roofing-v1/32886c5ec61a0d06e5677a98.woff2",
+          "bytes": 19624
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3CUBHMdazTgWw.woff2",
+          "path": "/performance/roofing-v1/5fdfeaf926cac990770dfa66.woff2",
+          "bytes": 1632
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3-UBHMdazTgWw.woff2",
+          "path": "/performance/roofing-v1/4813e3dfbbb23708c817ef7f.woff2",
+          "bytes": 13984
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMawCUBHMdazTgWw.woff2",
+          "path": "/performance/roofing-v1/297193369eea600161f4b521.woff2",
+          "bytes": 36292
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMaxKUBHMdazTgWw.woff2",
+          "path": "/performance/roofing-v1/fab8a0056d92fdd8d64fed4b.woff2",
+          "bytes": 16692
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3OUBHMdazTgWw.woff2",
+          "path": "/performance/roofing-v1/2071148c26bd0430cad31637.woff2",
+          "bytes": 10572
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3KUBHMdazTgWw.woff2",
+          "path": "/performance/roofing-v1/cdd53dc5576a79f35cf280df.woff2",
+          "bytes": 24444
+        },
+        {
+          "source": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
+          "path": "/performance/roofing-v1/0a44e0bb6ba5c8537e8814c1.woff2",
+          "bytes": 37520
+        }
+      ],
+      "latin": "/performance/roofing-v1/215cc18cf3c463e59219e851.woff2"
+    }
+  ],
+  "fontFailures": [
+    {
+      "source": "https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined&text=%EE%97%8B%EE%97%8C&lang=en",
+      "error": "No WOFF2 sources"
+    },
+    {
+      "source": "https://fonts.googleapis.com/css?family=Google+Sans+Text:400&text=%E2%86%90%E2%86%92%E2%86%91%E2%86%93&lang=en",
+      "error": "No WOFF2 sources"
+    }
+  ]
+}
